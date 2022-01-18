@@ -195,7 +195,7 @@
         }
       },{
         "media": {
-          "url": "https://carleton.ca/campus/map/building_img/Paterson%20Hall.jpg",
+          "url": "https://carleton-antiphonary.herokuapp.com/img/home-banner.jpg",
           "caption": "Digital Transcription and Analysis of the Carleton Antiphonary",
           "link": "/test-collectionbuilder/items/hist_15.html"
         },
@@ -3563,7 +3563,7 @@
       },{
         "media": {
           "url": "https://carleton.ca/campus/map/building_img/Paterson%20Hall.jpg",
-          "caption": "British imperial policy and the Northern Department Indians, 1774-7.",
+          "caption": "First Nations;Canada;Government Relations; Indian Reservations; First Nations Treatment Of ;Canada",
           "link": "/test-collectionbuilder/items/hist_274.html"
         },
         "start_date": { 
@@ -3571,7 +3571,7 @@
           "year": "1984"
         },
         "text": {
-          "headline": "British imperial policy and the Northern Department Indians, 1774-7."
+          "headline": "First Nations;Canada;Government Relations; Indian Reservations; First Nations Treatment Of ;Canada"
         }
       },{
         "media": {
@@ -3784,7 +3784,7 @@
       },{
         "media": {
           "url": "https://carleton.ca/campus/map/building_img/Paterson%20Hall.jpg",
-          "caption": "Catholic missionaries as agent of social change among the Metis and Indians of Red River: 1818-1845.",
+          "caption": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts.",
           "link": "/test-collectionbuilder/items/hist_291.html"
         },
         "start_date": { 
@@ -3792,7 +3792,7 @@
           "year": "1978"
         },
         "text": {
-          "headline": "Catholic missionaries as agent of social change among the Metis and Indians of Red River: 1818-1845."
+          "headline": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts."
         }
       },{
         "media": {
@@ -4131,6 +4131,19 @@
         },
         "text": {
           "headline": "Pembroke Soundscapes"
+        }
+      },{
+        "media": {
+          "url": "/test-collectionbuilder/objects/wood-songs.png",
+          "caption": "Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980",
+          "link": "/test-collectionbuilder/items/hist_381.html"
+        },
+        "start_date": { 
+          
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980"
         }
       }
     ]
