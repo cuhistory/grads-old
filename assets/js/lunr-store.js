@@ -327,7 +327,7 @@ var store = [{
 "id": "hist_82"
 
 },{  
-"title": "Regulating Ontario‚Äö√Ñ√¥s Prohibition-Era Standard Hotels: How the ‚Äö√Ñ√∫Needs‚Äö√Ñ√π and ‚Äö√Ñ√∫Demands‚Äö√Ñ√π of Ontario‚Äö√Ñ√¥s Localities Impacted the Board of License Commissioners and the Liquor Control Board of Ontario‚Äö√Ñ√¥s Decision-Making Process, 1916-1934","date": "2014","creator": "Nolan, Christopher John","subject": "Canadian History", 
+"title": "Regulating Ontario‚Äö√Ñ√¥s Prohibition-Era Standard Hotels: How the Needs and Demands of Ontario‚Äö√Ñ√¥s Localities Impacted the Board of License Commissioners and the Liquor Control Board of Ontario‚Äö√Ñ√¥s Decision-Making Process, 1916-1934","date": "2014","creator": "Nolan, Christopher John","subject": "Canadian History", 
 "id": "hist_83"
 
 },{  
