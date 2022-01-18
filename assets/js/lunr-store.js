@@ -11,7 +11,7 @@ var store = [{
 "id": "hist_3"
 
 },{  
-"title": "The South African Information Service and English-Canadian Journalism, 1949-1960","date": "2021","creator": "Hagborg Wildey, Susan R.","subject": "Canadian History; African History", 
+"title": "The South African Information Service and English-Canadian Journalism, 1949-1960","date": "2021","creator": "Hagborg Wildey, Susan R.","subject": "Canadian History;African History", 
 "id": "hist_4"
 
 },{  
@@ -39,7 +39,7 @@ var store = [{
 "id": "hist_10"
 
 },{  
-"title": "Deaf Education, the Politics of Humanitarianism, and State Formation in Saskatchewan and Alberta, 1880-1931","date": "2021","creator": "Barron, Sandy","subject": "Education - History of; Canadian History", 
+"title": "Deaf Education, the Politics of Humanitarianism, and State Formation in Saskatchewan and Alberta, 1880-1931","date": "2021","creator": "Barron, Sandy","subject": "Education - History of;Canadian History", 
 "id": "hist_11"
 
 },{  
@@ -67,7 +67,7 @@ var store = [{
 "id": "hist_17"
 
 },{  
-"title": "Narrators, Navigators and Negotiators: Foreign Service Officer Life Stories from Canadas Africa Refugee Resettlement Program, 1970 to 1990","date": "2020","creator": "Chironda, Andriata","subject": "Canadian History; International Law and Relations; African History", 
+"title": "Narrators, Navigators and Negotiators: Foreign Service Officer Life Stories from Canadas Africa Refugee Resettlement Program, 1970 to 1990","date": "2020","creator": "Chironda, Andriata","subject": "Canadian History; International Law and Relations;African History", 
 "id": "hist_18"
 
 },{  
@@ -131,7 +131,7 @@ var store = [{
 "id": "hist_33"
 
 },{  
-"title": "Settler Colonial Power and Indigenous Survival: Hockey Programs at Three Indian Residential Schools in Northwestern Ontario and Manitoba, 1929-1969","date": "2018","creator": "Narraway, Andrew","subject": "Canadian History; Education - History of; Native American Studies; First Nations", 
+"title": "Settler Colonial Power and Indigenous Survival: Hockey Programs at Three Indian Residential Schools in Northwestern Ontario and Manitoba, 1929-1969","date": "2018","creator": "Narraway, Andrew","subject": "Canadian History; Education - History of; Native American Studies;First Nations", 
 "id": "hist_34"
 
 },{  
@@ -235,7 +235,7 @@ var store = [{
 "id": "hist_59"
 
 },{  
-"title": "Being Irish on the Prairies: Repertoire, Performance, and Environment in Oral History Narratives of Winnipeg Irish Canadians","date": "2015","creator": "Boschmann, Kathryn","subject": "Canadian History; European History", 
+"title": "Being Irish on the Prairies: Repertoire, Performance, and Environment in Oral History Narratives of Winnipeg Irish Canadians","date": "2015","creator": "Boschmann, Kathryn","subject": "Canadian History;European History", 
 "id": "hist_60"
 
 },{  
@@ -267,15 +267,15 @@ var store = [{
 "id": "hist_67"
 
 },{  
-"title": "When Europe Re-Built the Neighbourhood: City Beautiful, Hull-House, and the Emergence of American Internationalism, 1890-1920","date": "2014","creator": "Mahoney, Maureen Anne","subject": "United States - History", 
+"title": "When Europe Re-Built the Neighbourhood: City Beautiful, Hull-House, and the Emergence of American Internationalism, 1890-1920","date": "2014","creator": "Mahoney, Maureen Anne","subject": "United States History", 
 "id": "hist_68"
 
 },{  
-"title": "Hidden Authority, Public Display: Representations of First Nations Peoples at the Calgary Stampede, 1912-1970","date": "2014","creator": "Joudrey, Susan Louise","subject": "Canadian History; First Nations; Study and teaching; Gender mainstreaming", 
+"title": "Hidden Authority, Public Display: Representations of First Nations Peoples at the Calgary Stampede, 1912-1970","date": "2014","creator": "Joudrey, Susan Louise","subject": "Canadian History;First Nations;Study and teaching; Gender mainstreaming", 
 "id": "hist_69"
 
 },{  
-"title": "Domestic Harmonies: Musical Activity in Southwestern Ontario, 1880-1920","date": "2014","creator": "Morrison, Madelaine E.","subject": "Music - Ontario; Canada - History", 
+"title": "Domestic Harmonies: Musical Activity in Southwestern Ontario, 1880-1920","date": "2014","creator": "Morrison, Madelaine E.","subject": "Music - Ontario;Canada - History", 
 "id": "hist_70"
 
 },{  
@@ -283,7 +283,7 @@ var store = [{
 "id": "hist_71"
 
 },{  
-"title": "From the Ground Up: The Alpine and Cross-Country Sportscapes of Gatineau Park, 1910-1967","date": "2014","creator": "Lanzon, Quinn","subject": "Canadian History; Geography; Recreation", 
+"title": "From the Ground Up: The Alpine and Cross-Country Sportscapes of Gatineau Park, 1910-1967","date": "2014","creator": "Lanzon, Quinn","subject": "Canadian History; Geography;Recreation", 
 "id": "hist_72"
 
 },{  
@@ -307,7 +307,7 @@ var store = [{
 "id": "hist_77"
 
 },{  
-"title": "Unease and Nostalgia: The Marketing of Pure Food in the United States, 1890-1920","date": "2014","creator": "Toulin, Alana","subject": "United States History; American Studies; History", 
+"title": "Unease and Nostalgia: The Marketing of Pure Food in the United States, 1890-1920","date": "2014","creator": "Toulin, Alana","subject": "United States History; American Studies;History", 
 "id": "hist_78"
 
 },{  
@@ -331,7 +331,7 @@ var store = [{
 "id": "hist_83"
 
 },{  
-"title": "Our Way is with John Bull: The Irony of Canadian Imperial Economic Diplomacy, 1930-1933","date": "2014","creator": "Rayfuse, Patrick Bruce","subject": "Canada; History", 
+"title": "Our Way is with John Bull: The Irony of Canadian Imperial Economic Diplomacy, 1930-1933","date": "2014","creator": "Rayfuse, Patrick Bruce","subject": "Canada;History", 
 "id": "hist_84"
 
 },{  
@@ -339,11 +339,11 @@ var store = [{
 "id": "hist_85"
 
 },{  
-"title": "Consuming India : the influence of nineteenth-century fiction on British consumer culture","date": "2013","creator": "Wielusiewicz, David Alexander","subject": "United Kingdom; India", 
+"title": "Consuming India : the influence of nineteenth-century fiction on British consumer culture","date": "2013","creator": "Wielusiewicz, David Alexander","subject": "United Kingdom;India", 
 "id": "hist_86"
 
 },{  
-"title": "Correspondence, camaraderie, and community : the Second World War for a mother and son","date": "2013","creator": "Gann, Emily","subject": "World, War, 1939-1945; Prisoners and prisons", 
+"title": "Correspondence, camaraderie, and community : the Second World War for a mother and son","date": "2013","creator": "Gann, Emily","subject": "World War, 1939-1945 ; Prisoners and prisons", 
 "id": "hist_87"
 
 },{  
@@ -355,11 +355,11 @@ var store = [{
 "id": "hist_89"
 
 },{  
-"title": "Reversing the gaze : Wasu, The Keys and The Black Man on Europe and Western civilization in the interwar years, 1933-1937","date": "2012","creator": "Chartier, Brittony","subject": "African Americans", 
+"title": "Reversing the gaze : Wasu, The Keys and The Black Man on Europe and Western civilization in the interwar years, 1933-1937","date": "2012","creator": "Chartier, Brittony","subject": "African Americans ", 
 "id": "hist_90"
 
 },{  
-"title": "Canadas response : the making and remaking of the National War Memorial","date": "2012","creator": "Ferguson, Malcolm Edward Osler","subject": "Military; National War Memorial; War memorials; Canadian History", 
+"title": "Canadas response : the making and remaking of the National War Memorial","date": "2012","creator": "Ferguson, Malcolm Edward Osler","subject": "Military; National War Memorial; War memorials;Canadian History", 
 "id": "hist_91"
 
 },{  
@@ -367,7 +367,7 @@ var store = [{
 "id": "hist_92"
 
 },{  
-"title": "Beyond two Cold War blocs : Canadian involvement in the Peruvian socialist nexus, 1960-1975","date": "2012","creator": "Gibson, Gillian","subject": "Cold War; United States; Soviet Union; Peru", 
+"title": "Beyond two Cold War blocs : Canadian involvement in the Peruvian socialist nexus, 1960-1975","date": "2012","creator": "Gibson, Gillian","subject": "Cold War;United States;Soviet Union; Peru", 
 "id": "hist_93"
 
 },{  
@@ -375,79 +375,79 @@ var store = [{
 "id": "hist_94"
 
 },{  
-"title": "Sexuality and alternative discourses in Jewish Prague : a feminist reading of the works of Franz Werfel","date": "2012","creator": "Spagnuolo, Natalie Rose","subject": "Jews ;Study and teaching;History, Modern;Germanic literature;", 
+"title": "Sexuality and alternative discourses in Jewish Prague : a feminist reading of the works of Franz Werfel","date": "2012","creator": "Spagnuolo, Natalie Rose","subject": "Jews ;Study and teaching;History, Modern;Germanic literature", 
 "id": "hist_95"
 
 },{  
-"title": "Lowered, shipped, and fastened : private grief and the public sphere in Canadas Afghanistan War","date": "2012","creator": "Legault, Michel Denis","subject": "Armed forces ;Study and teaching;Canada ;History;Afghan War, 2001 ;Casualties ;Canada;", 
+"title": "Lowered, shipped, and fastened : private grief and the public sphere in Canadas Afghanistan War","date": "2012","creator": "Legault, Michel Denis","subject": "Armed forces ;Study and teaching;Canada;History;Afghan War, 2001 ;Casualties ;Canada", 
 "id": "hist_96"
 
 },{  
-"title": "Discourse of dissent : Bernard Acworth, the British Anti-Oil Movement and the Royal Navys use of fuels,1927-1937","date": "2012","creator": "Wereley, Ian","subject": "Industrial relations;Transportation;", 
+"title": "Discourse of dissent : Bernard Acworth, the British Anti-Oil Movement and the Royal Navys use of fuels,1927-1937","date": "2012","creator": "Wereley, Ian","subject": "Industrial relations; Transportation", 
 "id": "hist_97"
 
 },{  
-"title": "American social science and liberal internationalism, 1865-1919","date": "2012","creator": "Foster, Brian M.","subject": "International law;International relations;Sociology ;Methodology;", 
+"title": "American social science and liberal internationalism, 1865-1919","date": "2012","creator": "Foster, Brian M.","subject": "International law;International relations;Sociology ;Methodology", 
 "id": "hist_98"
 
 },{  
-"title": "The great emancipator? : the impact of the birth-control pill on married women in English Canada, 1960-1980","date": "2012","creator": "Haynes, Jessica Joanne","subject": "Physiology;", 
+"title": "The great emancipator? : the impact of the birth-control pill on married women in English Canada, 1960-1980","date": "2012","creator": "Haynes, Jessica Joanne","subject": "Physiology", 
 "id": "hist_99"
 
 },{  
-"title": "Canoes and canvas : the social and spatial politics of sport/leisure in late nineteenth-century North America","date": "2012","creator": "Dunkin, Jessica Diane","subject": "Recreation;", 
+"title": "Canoes and canvas : the social and spatial politics of sport/leisure in late nineteenth-century North America","date": "2012","creator": "Dunkin, Jessica Diane","subject": "Recreation", 
 "id": "hist_100"
 
 },{  
-"title": "The nature of the body : a cultural history of nudism in postwar Canada","date": "2012","creator": "Shantz, Mary-Ann Melissa","subject": "Nudism ; Canada;", 
+"title": "The nature of the body : a cultural history of nudism in postwar Canada","date": "2012","creator": "Shantz, Mary-Ann Melissa","subject": "Nudism ;Canada", 
 "id": "hist_101"
 
 },{  
-"title": "Huguenot prophetism, clerical authority, and the disenchantment of the world, 1685-1710","date": "2012","creator": "Charbonneau, Jason","subject": "Religion ;History;Huguenots ;France ;History ;17th Century", 
+"title": "Huguenot prophetism, clerical authority, and the disenchantment of the world, 1685-1710","date": "2012","creator": "Charbonneau, Jason","subject": "Religion ;History;Huguenots ;France ;History;17th Century", 
 "id": "hist_102"
 
 },{  
-"title": "The Nile voyageurs : recognition of Canadas role in the Empire, 1884-1885","date": "2012","creator": "Michel, Anthony Patrick","subject": "Canada - History; History; History, Modern", 
+"title": "The Nile voyageurs : recognition of Canadas role in the Empire, 1884-1885","date": "2012","creator": "Michel, Anthony Patrick","subject": "Canada - History;History;History, Modern", 
 "id": "hist_103"
 
 },{  
-"title": "Narrating the Berlin Wall : nostalgia and the negotiation of memory, 20 years later","date": "2011","creator": "Eedy, Sean","subject": "Berlin Wall, Berlin, Germany, 1961-1989;History, Modern;", 
+"title": "Narrating the Berlin Wall : nostalgia and the negotiation of memory, 20 years later","date": "2011","creator": "Eedy, Sean","subject": "Berlin Wall, Berlin, Germany, 1961-1989;History, Modern", 
 "id": "hist_104"
 
 },{  
-"title": "Sir Charles G.D. Roberts, antimodernism, and national identity in Canada, 1897-1943","date": "2011","creator": "Davidson, Brett","subject": "Canadian literature;", 
+"title": "Sir Charles G.D. Roberts, antimodernism, and national identity in Canada, 1897-1943","date": "2011","creator": "Davidson, Brett","subject": "Canadian literature", 
 "id": "hist_105"
 
 },{  
-"title": "Collective biography in eighteenth-and early nineteenth-century England : lives brief and not so brief","date": "2011","creator": "Cardillo, Mary Helen","subject": "Biography;Europe ;History;English literature;", 
+"title": "Collective biography in eighteenth-and early nineteenth-century England : lives brief and not so brief","date": "2011","creator": "Cardillo, Mary Helen","subject": "Biography;Europe ;History;English literature", 
 "id": "hist_106"
 
 },{  
-"title": "Readers, sanctity, and history in early modern Spain : Pedro de Ribadeneyra, the Flos sanctorum, and the Catholic Community","date": "2011","creator": "Greenwood, Jonathan Edward","subject": "Religion ;History;History, Modern;", 
+"title": "Readers, sanctity, and history in early modern Spain : Pedro de Ribadeneyra, the Flos sanctorum, and the Catholic Community","date": "2011","creator": "Greenwood, Jonathan Edward","subject": "Religion ;History;History, Modern", 
 "id": "hist_107"
 
 },{  
-"title": "A peace that never had a chance : American and Allied diplomacy towards the Russian Provisional Government, March-November 1917","date": "2011","creator": "Wynn, Ceilidhe","subject": "History;", 
+"title": "A peace that never had a chance : American and Allied diplomacy towards the Russian Provisional Government, March-November 1917","date": "2011","creator": "Wynn, Ceilidhe","subject": "History", 
 "id": "hist_108"
 
 },{  
-"title": "Beyond the exhibit : Zulu experiences in Britain and the United States, 1879-1884","date": "2011","creator": "Bell, Erin Elizabeth Barbara","subject": "History;African Americans ;History;", 
+"title": "Beyond the exhibit : Zulu experiences in Britain and the United States, 1879-1884","date": "2011","creator": "Bell, Erin Elizabeth Barbara","subject": "History;African Americans ;History", 
 "id": "hist_109"
 
 },{  
-"title": "Butcher and bolt : Canadian trench raiding during the Great War, 1915-1918","date": "2011","creator": "Garnett, Colin David","subject": "Armed forces ;Study and teaching;Military history;World War, 1914-1918 ;Canada;", 
+"title": "Butcher and bolt : Canadian trench raiding during the Great War, 1915-1918","date": "2011","creator": "Garnett, Colin David","subject": "Armed forces ;Study and teaching;Military history;World War, 1914-1918 ;Canada", 
 "id": "hist_110"
 
 },{  
-"title": "Printing and astrology in early modern France : vernacular almanac-prognostications, 1497-1555","date": "2010","creator": "Rivest, Justin","subject": "Economics ;History;", 
+"title": "Printing and astrology in early modern France : vernacular almanac-prognostications, 1497-1555","date": "2010","creator": "Rivest, Justin","subject": "Economics ;History", 
 "id": "hist_111"
 
 },{  
-"title": "Memory on ice : making the 1936 Canadian olympic hockey team","date": "2010","creator": "Rorke, Thomas","subject": "Canada ;History;Canadians ;Recreation;Recreation;", 
+"title": "Memory on ice : making the 1936 Canadian olympic hockey team","date": "2010","creator": "Rorke, Thomas","subject": "Canada;History;Canadians ;Recreation;Recreation", 
 "id": "hist_112"
 
 },{  
-"title": "Violence (dis)located : on the spatial implications of violence on the western front during the First World War","date": "2010","creator": "Schultz, Christopher Kenneth","subject": "Military history;Armed forces ;Study and teaching;", 
+"title": "Violence (dis)located : on the spatial implications of violence on the western front during the First World War","date": "2010","creator": "Schultz, Christopher Kenneth","subject": "Military history;Armed forces ;Study and teaching", 
 "id": "hist_113"
 
 },{  
@@ -455,27 +455,27 @@ var store = [{
 "id": "hist_114"
 
 },{  
-"title": "At the intersection of tourism, national identity and bad service : the case study of the Fergusons of Farm Road","date": "2010","creator": "Minnis, Edward","subject": "History;African Americans ;History;Communication;", 
+"title": "At the intersection of tourism, national identity and bad service : the case study of the Fergusons of Farm Road","date": "2010","creator": "Minnis, Edward","subject": "History;African Americans ;History;Communication", 
 "id": "hist_115"
 
 },{  
-"title": "We walked around with holes in our sole and souls : men and masculinity during the great depression in Canada","date": "2010","creator": "DiFrancesco, Michael","subject": "Depressions ;1929 ;Canada;Gender mainstreaming ;Canada;", 
+"title": "We walked around with holes in our sole and souls : men and masculinity during the great depression in Canada","date": "2010","creator": "DiFrancesco, Michael","subject": "Depressions ;1929 ;Canada; Gender mainstreaming;Canada", 
 "id": "hist_116"
 
 },{  
-"title": "The constructions of the Cistercian Lay Brother in the twelfth and thirteenth centuries","date": "2010","creator": "Plunkett-Latimer, Abraham G.","subject": "Medieval ages;Church history;Cistercians;Cistercians ;Spiritual life;", 
+"title": "The constructions of the Cistercian Lay Brother in the twelfth and thirteenth centuries","date": "2010","creator": "Plunkett-Latimer, Abraham G.","subject": "Medieval ages;Church History;Cistercians;Cistercians;Spiritual life", 
 "id": "hist_117"
 
 },{  
-"title": "A people who have been given too much : Canadian efforts & development strategies at the Gatina Self-Help Education Centre, Kenya 1972-1975","date": "2010","creator": "Kijewski, Amanda Jean Talbot","subject": "Social structure;Community development;Human Growth;", 
+"title": "A people who have been given too much : Canadian efforts & development strategies at the Gatina Self-Help Education Centre, Kenya 1972-1975","date": "2010","creator": "Kijewski, Amanda Jean Talbot","subject": "Social structure ;Community development;Human Growth", 
 "id": "hist_118"
 
 },{  
-"title": "Music and power : a conservative musical soundscape in Britain, 1830-1850","date": "2010","creator": "Guiguet, Kristina Marie","subject": "Soundscapes (Music) ;Great Britain ;19th century;Music ;Great Britian ;19th century ;History and criticism;Music and historty ;Great Britain ;19th century;Music ;Social aspects ;Great Britain ;19th century;Music, Influence of ;Great Britain ;19th century;Musical analysis;Gender mainstreaming;", 
+"title": "Music and power : a conservative musical soundscape in Britain, 1830-1850","date": "2010","creator": "Guiguet, Kristina Marie","subject": "Soundscapes (Music) ;Great Britain ;19th century;Music ;Great Britain ;19th century;History And Criticism;Music and historty ;Great Britain ;19th century;Music ;Social Aspects;Great Britain ;19th century;Music, Influence of ;Great Britain ;19th century;Musical analysis; Gender mainstreaming", 
 "id": "hist_119"
 
 },{  
-"title": "A refuge from militarism? : the Canadian movement to support Vietnam era American war resisters, and government responses, 1965-1973","date": "2009","creator": "Squires, Jessica C.","subject": "Vietnam War, 1961-1975 ;Draft resisters;Political culture ;Canada;", 
+"title": "A refuge from militarism? : the Canadian movement to support Vietnam era American war resisters, and government responses, 1965-1973","date": "2009","creator": "Squires, Jessica C.","subject": "Vietnam War, 1961-1975 ;Draft resisters;Political culture ;Canada", 
 "id": "hist_120"
 
 },{  
@@ -483,15 +483,15 @@ var store = [{
 "id": "hist_121"
 
 },{  
-"title": "If we are attacked, let us be prepared : Canada and the failure of civil defence, 1945-1963","date": "2009","creator": "Burtch, Andrew Paul","subject": "Civil defense readiness ;Canada;Cold War;Atomic bomb ;Safety measures;Nuclear warfare and history ;Canada;", 
+"title": "If we are attacked, let us be prepared : Canada and the failure of civil defence, 1945-1963","date": "2009","creator": "Burtch, Andrew Paul","subject": "Civil defense readiness ;Canada;Cold War;Atomic bomb ;Safety measures;Nuclear warfare and history ;Canada", 
 "id": "hist_122"
 
 },{  
-"title": "Beyond the boundaries of the Carolingian cloister : an examination of monastic interaction during the early ninth century","date": "2009","creator": "Prior, Corinna, J.","subject": "Carolingians ;History;Church history ;Middle Ages, 600-1500;Monasteries ;Middle Ages, 600-1500;", 
+"title": "Beyond the boundaries of the Carolingian cloister : an examination of monastic interaction during the early ninth century","date": "2009","creator": "Prior, Corinna, J.","subject": "Carolingians ;History;Church History;Middle Ages, 600-1500;Monasteries ;Middle Ages, 600-1500", 
 "id": "hist_123"
 
 },{  
-"title": "A statesmanlike measure with a partisan tail : the development of the nineteenth-century Dominion Electoral Franchise","date": "2009","creator": "Grittner, Colin J.","subject": "Canada ;History;", 
+"title": "A statesmanlike measure with a partisan tail : the development of the nineteenth-century Dominion Electoral Franchise","date": "2009","creator": "Grittner, Colin J.","subject": "Canada;History", 
 "id": "hist_124"
 
 },{  
@@ -499,71 +499,71 @@ var store = [{
 "id": "hist_125"
 
 },{  
-"title": "A museum with more than one stor(e)y : a critical examination of the Anne Frank House","date": "2009","creator": "Chisholm, Lorna","subject": "Frank, Anne, 1929-1945 ; Museums ; Netherlands;", 
+"title": "A museum with more than one stor(e)y : a critical examination of the Anne Frank House","date": "2009","creator": "Chisholm, Lorna","subject": "Frank, Anne, 1929-1945 ; Museums ; Netherlands", 
 "id": "hist_126"
 
 },{  
-"title": "Power, race, class and gender in Colonial Santo Domingo: an analysis of Spanish Dominican marital patterns in the Archbishopric of Santo Domingo, 1701-1801","date": "2008","creator": "Rivas, Christine D.","subject": "Spaniards ;Dominican Republic ;History;Marriage ;Social aspects ;Dominican Republic ;Santo Domingo;Kinship ;Dominican Republic ;Santo Domingo ;History;Social structure ;Dominican Republic ;History ;18th century;Women ;Dominican Republic ;Santo Domingo ;Social conditions ;History;Social classes ;Dominican Republic;Ellite (Social sciences) ;Dominican Republic ;History;", 
+"title": "Power, race, class and gender in Colonial Santo Domingo: an analysis of Spanish Dominican marital patterns in the Archbishopric of Santo Domingo, 1701-1801","date": "2008","creator": "Rivas, Christine D.","subject": "Spaniards ;Dominican Republic ;History;Marriage ;Social Aspects;Dominican Republic ;Santo Domingo ;Kinship ;Dominican Republic ;Santo Domingo ;History;Social structure ;Dominican Republic ;History;18th century; Women ;Dominican Republic ;Santo Domingo ;Social Conditions;History;Social classes ;Dominican Republic ;Ellite (Social sciences) ;Dominican Republic ;History", 
 "id": "hist_127"
 
 },{  
-"title": "The homeless and reformers: negotiating progress in the upper streets of Halifax, 1890-1914","date": "2008","creator": "Hood, David","subject": "Poor ;Nova Scotia ;Halifax ;History;Homeless persons ;Nova Scotia ;Halifax ;History;Public welfare ;Nova Scotia ;History;Social problems ;Nova Scotia ;Halifax ;History;", 
+"title": "The homeless and reformers: negotiating progress in the upper streets of Halifax, 1890-1914","date": "2008","creator": "Hood, David","subject": "Poor ;Nova Scotia ;Halifax ;History;Homeless persons ;Nova Scotia ;Halifax ;History;Public welfare ;Nova Scotia ;History;Social problems ;Nova Scotia ;Halifax ;History", 
 "id": "hist_128"
 
 },{  
-"title": "Propaganda and persuasion in the Cold war: the Canadian Soviet Friendship Society, 1949-1960","date": "2008","creator": "Anderson, Jennifer","subject": "Cold war;World politics ;1945-1989", 
+"title": "Propaganda and persuasion in the Cold war: the Canadian Soviet Friendship Society, 1949-1960","date": "2008","creator": "Anderson, Jennifer","subject": "Cold War;World politics ;1945-1989", 
 "id": "hist_129"
 
 },{  
-"title": "Charles Templeton and the performances of unbelief","date": "2008","creator": "Vance, David M.","subject": "Religion and culture;Christianity and culture;", 
+"title": "Charles Templeton and the performances of unbelief","date": "2008","creator": "Vance, David M.","subject": "Religion and culture;Christianity and culture", 
 "id": "hist_130"
 
 },{  
-"title": "Built for mind and spirit: the socialization of race through higher education at Fisk University and Spelman College, 1881-1930","date": "2008","creator": "Horne, Melissa M.","subject": "African Americans ;Education (Higher) ;Southern states ;History;Socialization;Race awareness;African American college students ;Georgia ;Atlanta;African American college students ;Tennessee ;Nashville;", 
+"title": "Built for mind and spirit: the socialization of race through higher education at Fisk University and Spelman College, 1881-1930","date": "2008","creator": "Horne, Melissa M.","subject": "African Americans ;Education (Higher) ;Southern states ;History;Socialization;Race awareness;African American college students ;Georgia ;Atlanta;African American college students ;Tennessee ;Nashville", 
 "id": "hist_131"
 
 },{  
-"title": "The greater half of the continent: continentalism and the Canadian state in Ontario, 1878-1896","date": "2008","creator": "Hutchinson, Braden P. L.","subject": "Social structure ;Ontario ;History ;19th century;Political culture ;Ontario ;History ;19th century;Protectionism ;Canada ;History ;19th century;", 
+"title": "The greater half of the continent: continentalism and the Canadian state in Ontario, 1878-1896","date": "2008","creator": "Hutchinson, Braden P. L.","subject": "Social structure ;Ontario ;History;19th century;Political culture ;Ontario ;History;19th century;Protectionism ;Canada;History;19th century", 
 "id": "hist_132"
 
 },{  
-"title": "Memory, identity, and the challenge of community among Ukrainians in the Sudbury region, 1901-1939","date": "2007","creator": "Zembrzycki, Stacey Raeanna","subject": "Ukrainian Canadians ;Ontario ;Sudbury Region ;Social conditions;Ukrinians ;Canada ;History;Ukrainian Canadians ;Ethnic identity;World War, 1914-1918 ;Ukrainian Canadians;", 
+"title": "Memory, identity, and the challenge of community among Ukrainians in the Sudbury region, 1901-1939","date": "2007","creator": "Zembrzycki, Stacey Raeanna","subject": "Ukrainian Canadians ;Ontario ;Sudbury Region ;Social Conditions;Ukrinians ;Canada;History;Ukrainian Canadians ;Ethnic identity;World War, 1914-1918 ;Ukrainian Canadians ", 
 "id": "hist_133"
 
 },{  
-"title": "A matter of deep personal conscience: the Canadian death-penalty debate, 1957-1976","date": "2007","creator": "Kropf, Joel","subject": "Capital punishment ;Canada ;History;Capital punishment ;Moral and ethical aspects ;Canada;Capital punishment ;Canada ;Public opinion;Public opinion ;Canada;", 
+"title": "A matter of deep personal conscience: the Canadian death-penalty debate, 1957-1976","date": "2007","creator": "Kropf, Joel","subject": "Capital punishment ;Canada;History;Capital punishment ;Moral and ethical aspects ;Canada;Capital punishment ;Canada;Public opinion;Public opinion;Canada", 
 "id": "hist_134"
 
 },{  
-"title": "Passive, not active: the response of Prince Edward Island to the United Nations Convention on the Rights of the Child, 1989-1991","date": "2007","creator": "Morrell, Kathryn G.","subject": "Child welfare ;Prince Edward Island ;History;Children's rights ;Prince Edward Island;Children ;Legal status, laws, etc; ;Prince Edward Island ;History;Non-governmental organizations ;Prince Edward Island;Federal-provincial relations ;Prince Edward Island;", 
+"title": "Passive, not active: the response of Prince Edward Island to the United Nations Convention on the Rights of the Child, 1989-1991","date": "2007","creator": "Morrell, Kathryn G.","subject": "Child welfare ;Prince Edward Island;History;Children's rights ;Prince Edward Island;Children ;Legal Status, Laws, Etc;Prince Edward Island;History;Non-governmental organizations ;Prince Edward Island;Federal-provincial relations ;Prince Edward Island", 
 "id": "hist_135"
 
 },{  
-"title": "Liberalism, Quebecs political culture, and George-√âtienne Cartier, 1864-1871","date": "2007","creator": "Banoub, David Joseph","subject": "Political culture ;Quebec (Province) ;History;Political participation ;Quebec (Province)Liberalism ;Canada;Nationalism ;Canada;", 
+"title": "Liberalism, Quebecs political culture, and George-√âtienne Cartier, 1864-1871","date": "2007","creator": "Banoub, David Joseph","subject": "Political culture ;Quebec (Province) ;History;Political participation ;Quebec (Province)Liberalism ;Canada; Nationalism ;Canada", 
 "id": "hist_136"
 
 },{  
-"title": "Taking care of business: the genesis and historical evolution of The Business Council on National Issues, 1976-1988","date": "2007","creator": "Speer, Sean C.","subject": "Business enterprises ;Canada;Industrial policy ;Canada;International business enterprises ;Political aspects ;Canada;", 
+"title": "Taking care of business: the genesis and historical evolution of The Business Council on National Issues, 1976-1988","date": "2007","creator": "Speer, Sean C.","subject": "Business enterprises ;Canada;Industrial policy ;Canada;International business enterprises ;Political aspects ;Canada", 
 "id": "hist_137"
 
 },{  
-"title": "The legacy of scientific motherhood : doctors and child-rearing advice in the 1960s and 1970s in English Canada","date": "2007","creator": "Haynes, Jessica Joanne","subject": "Child rearing ;Canada ;History;Motherhood ;Canada ;History;Mother and child ;Canada;Physician and patient ;Canada ;History;Maternal and infant welfare ;Canada ;History;", 
+"title": "The legacy of scientific motherhood : doctors and child-rearing advice in the 1960s and 1970s in English Canada","date": "2007","creator": "Haynes, Jessica Joanne","subject": "Child rearing ;Canada;History;Motherhood ;Canada;History;Mother and child ;Canada;Physician and patient ;Canada;History;Maternal and infant welfare ;Canada;History", 
 "id": "hist_138"
 
 },{  
-"title": "Fair enough? How notions of race, gender, and soldiers rights affected dependents allowance policies towards Canadian aboriginal families during World War II.","date": "2006","creator": "Arrowsmith, Emily","subject": "World War, 1939-1945 ;Participation, Indian;Military dependents ;Canada ;History;Indians of North America ;Canada ;Government relations;Soldiers ;Canada ;History;World War, 1939-1945 ;Veterans;Survivors' benefits ;Canada ;History;", 
+"title": "Fair enough? How notions of race, gender, and soldiers rights affected dependents allowance policies towards Canadian aboriginal families during World War II.","date": "2006","creator": "Arrowsmith, Emily","subject": "World War, 1939-1945 ;Participation, Indian;Military dependents ;Canada;History;First Nations;Canada;Government Relations;Soldiers ;Canada;History;World War, 1939-1945 ;Veterans;Survivors' benefits ;Canada;History", 
 "id": "hist_139"
 
 },{  
-"title": "Debate, democracy, and the politics of panic: Norman Angeli in the Edwardian crisis","date": "2006","creator": "Vieira, Ryan Anthony Joseph","subject": "Economic history;Liberalism;World politics;", 
+"title": "Debate, democracy, and the politics of panic: Norman Angeli in the Edwardian crisis","date": "2006","creator": "Vieira, Ryan Anthony Joseph","subject": "Economic history;Liberalism;World politics ", 
 "id": "hist_140"
 
 },{  
-"title": "East Germans, refugees, and new Canadians - a family migration","date": "2006","creator": "Harris, E. Meaghan","subject": "Refugees ;Canada;Refugees ;Germany (East)Immigrants ;Canada ;Case studies;Immigrants ;Canada ;Social conditions;", 
+"title": "East Germans, refugees, and new Canadians - a family migration","date": "2006","creator": "Harris, E. Meaghan","subject": "Refugees ;Canada;Refugees ;Germany (East)Immigrants ;Canada;Case Studies;Immigrants ;Canada;Social Conditions", 
 "id": "hist_141"
 
 },{  
-"title": "Exhibiting France in America: the French pavilion at the New York Worlds Fair of 1939","date": "2006","creator": "Wilson, Jennifer Nicola","subject": "New York World's Fair, 1939-1940;Trade shows ;New York (State) ;New York ;History;Civilization, Modern ;French influences;", 
+"title": "Exhibiting France in America: the French pavilion at the New York Worlds Fair of 1939","date": "2006","creator": "Wilson, Jennifer Nicola","subject": "New York World's Fair, 1939-1940;Trade shows ;New York (State) ;New York ;History;Civilization, Modern ;French influences", 
 "id": "hist_142"
 
 },{  
@@ -571,47 +571,47 @@ var store = [{
 "id": "hist_143"
 
 },{  
-"title": "Small screen, big impact: a historical examination of the effects of television on the 1988 federal election campaign","date": "2006","creator": "Stos, William Peter","subject": "Television in politics ;Canada;Television broadcasting of news ;Canada;Mass media ;Political aspects ;Canada;", 
+"title": "Small screen, big impact: a historical examination of the effects of television on the 1988 federal election campaign","date": "2006","creator": "Stos, William Peter","subject": "Television in politics ;Canada;Television broadcasting of news ;Canada;Mass media ;Political aspects ;Canada", 
 "id": "hist_144"
 
 },{  
-"title": "The role of women in the survival of Catholicism in post-reformation Lancashire and Yorkshire, 1559-1603","date": "2006","creator": "Ferguson, Elizabeth","subject": "Catholic women ;England ;Lancashire ;History;Catholic women ;England ;Yorkshire ;History;Women in the Catholic Church ;History;Christian women ;Religeous life ;England ;History;", 
+"title": "The role of women in the survival of Catholicism in post-reformation Lancashire and Yorkshire, 1559-1603","date": "2006","creator": "Ferguson, Elizabeth","subject": "Catholic women ;England ;Lancashire ;History;Catholic women ;England ;Yorkshire ;History;Women in the Catholic Church ;History;Christian women ;Religeous life ;England ;History", 
 "id": "hist_145"
 
 },{  
-"title": "Revolutionising landscapes: hydroelectricity and the heavy industrialisation of society and environment in the Comt√© de Beauharnois, 1927-1948","date": "2005","creator": "Pelletier, Louis-Rapha√´l","subject": "Capitalism ;Quebec (Province)Electric utilities ;Quebec (Province) ;History;Land use ;Environmental aspects ;Quebec (Province)Economic development ;Environmental aspects;Human ecology;", 
+"title": "Revolutionising landscapes: hydroelectricity and the heavy industrialisation of society and environment in the Comt√© de Beauharnois, 1927-1948","date": "2005","creator": "Pelletier, Louis-Rapha√´l","subject": "Capitalism ;Quebec (Province)Electric utilities ;Quebec (Province) ;History;Land use ;Environmental aspects;Quebec (Province)Economic development ;Environmental aspects;Human ecology", 
 "id": "hist_146"
 
 },{  
-"title": "An archaeology of Keynesianism : the macro-political foundations of the modern welfare state in Canada, 1896-1948","date": "2005","creator": "Krywulak, Timothy Bruce","subject": "Welfare state ;Canada;Keynesian economics;Capitalism ;Canada;", 
+"title": "An archaeology of Keynesianism : the macro-political foundations of the modern welfare state in Canada, 1896-1948","date": "2005","creator": "Krywulak, Timothy Bruce","subject": "Welfare state ;Canada;Keynesian economics;Capitalism ;Canada", 
 "id": "hist_147"
 
 },{  
-"title": "New Denmark, New Brunswick: new approaches in the study of Danish migration to Canada, 1872-1901","date": "2005","creator": "Lang, Erik John Nielsen","subject": "Danes ;New Brunswick;Immigrants ;New Brunswick ;History;", 
+"title": "New Denmark, New Brunswick: new approaches in the study of Danish migration to Canada, 1872-1901","date": "2005","creator": "Lang, Erik John Nielsen","subject": "Danes ;New Brunswick;Immigrants ;New Brunswick;History", 
 "id": "hist_148"
 
 },{  
-"title": "Supplying the material battle: combined logistics in the Canadian corps, 1915-1918","date": "2005","creator": "Ryan, Michael Patrick","subject": "World War, 1914-1918 ;Canada;", 
+"title": "Supplying the material battle: combined logistics in the Canadian corps, 1915-1918","date": "2005","creator": "Ryan, Michael Patrick","subject": "World War, 1914-1918 ;Canada", 
 "id": "hist_149"
 
 },{  
-"title": "Instruments of influence Canada and arms exports to South Asia, 1947-1971","date": "2005","creator": "Khan, Omar Hayyat","subject": "Arms transfers ;Canada ;History ;20th century;Arms transfers ;South Asia ;History ;20th century;Weapons industry ;Government policy ;Canada;Cold war;", 
+"title": "Instruments of influence Canada and arms exports to South Asia, 1947-1971","date": "2005","creator": "Khan, Omar Hayyat","subject": "Arms transfers ;Canada;History;20th century;Arms transfers ;South Asia ;History;20th century;Weapons industry ;Government Policy ;Canada;Cold War", 
 "id": "hist_150"
 
 },{  
-"title": "The guiding brain and directing hand: human interest reporting and the power of the press in W. T. Steads Pall Mall Gazette","date": "2005","creator": "Common, Lauren Frost","subject": "English newspapers ;History ;19th century;Press ;Great Britain ;History ;19th centiry;Mass media and history;", 
+"title": "The guiding brain and directing hand: human interest reporting and the power of the press in W. T. Steads Pall Mall Gazette","date": "2005","creator": "Common, Lauren Frost","subject": "English newspapers ;History;19th century;Press ;Great Britain ;History;19th century;Mass media and history", 
 "id": "hist_151"
 
 },{  
-"title": "So, where are you from? glimpsing the history of Ottawa-Gatineaus urban Indian communities","date": "2005","creator": "Pugliese, Karyn","subject": "Indians of North America ;Urban residence ;Ontario ;Ottawa;Indians of North America ;Urban residence ;Quebec (Province) ;Gatineau;Indians of North America ;Ontario ;Ethnic identity;Indians of North America ;Quebec (Province) ;Ethnic identity;Indians of North America ;Canada ;History;", 
+"title": "So, where are you from? glimpsing the history of Ottawa-Gatineaus urban Indian communities","date": "2005","creator": "Pugliese, Karyn","subject": "First Nations;Urban residence ;Ontario ;Ottawa;First Nations;Urban residence ;Quebec (Province) ;Gatineau;First Nations;Ontario ;Ethnic identity;First Nations;Quebec (Province) ;Ethnic identity;First Nations;Canada;History", 
 "id": "hist_152"
 
 },{  
-"title": "Under the radar: Defence Construction (1951) Limited and military infrastructure in Canada, 1950-1965","date": "2005","creator": "Noakes, Jeffrey David","subject": "Defense contracts ;Canada;Public contracts ;Canada;Cold war;", 
+"title": "Under the radar: Defence Construction (1951) Limited and military infrastructure in Canada, 1950-1965","date": "2005","creator": "Noakes, Jeffrey David","subject": "Defense contracts ;Canada;Public contracts ;Canada;Cold War", 
 "id": "hist_153"
 
 },{  
-"title": "She was built to be silent: the gendering of machinery in Canadian magazines during the second world war","date": "2005","creator": "Ireland, Kristin","subject": "Gender identity ;Canada;Sex role ;Canada ;History ;20th century;World War, 1939-1945 ;Women ;Canada;Sex role in mass media;", 
+"title": "She was built to be silent: the gendering of machinery in Canadian magazines during the second world war","date": "2005","creator": "Ireland, Kristin","subject": "Gender identity ;Canada;Sex role ;Canada;History;20th century;World War, 1939-1945 ; Women ;Canada;Sex role in mass media", 
 "id": "hist_154"
 
 },{  
@@ -683,7 +683,7 @@ var store = [{
 "id": "hist_171"
 
 },{  
-"title": "The ideal world of Mrs. Widders soir√©e musicale: music, gender, class, and difference in nineteenth century Ontario","date": "2003","creator": "Guiguet, Kristina Marie","subject": "Music; Ontario; Toronto; 19th century", 
+"title": "The ideal world of Mrs. Widders soir√©e musicale: music, gender, class, and difference in nineteenth century Ontario","date": "2003","creator": "Guiguet, Kristina Marie","subject": "Music ;Ontario ; Toronto;19th century", 
 "id": "hist_172"
 
 },{  
@@ -739,11 +739,11 @@ var store = [{
 "id": "hist_185"
 
 },{  
-"title": "A Very go-ahead little town; business interests, state formation and community in Yarmouth, Nova Scotia, 1890-1984.","date": "2000","creator": "Dixon, Margaret J.","subject": "Yarmouth (N;s;) ;HistoryMunicipal Government ;Nova Scotia ;Yarmouth ;Citizen ParticipationCommunity Power ;Nova Scotia ;Yarmouth ;HistoryTourism ;Nova Scotia ;Yarmouth ;History", 
+"title": "A Very go-ahead little town; business interests, state formation and community in Yarmouth, Nova Scotia, 1890-1984.","date": "2000","creator": "Dixon, Margaret J.","subject": "Yarmouth (N;s;HistoryMunicipal Government ;Nova Scotia ;Yarmouth ;Citizen ParticipationCommunity Power ;Nova Scotia ;Yarmouth ;HistoryTourism ;Nova Scotia ;Yarmouth ;History", 
 "id": "hist_186"
 
 },{  
-"title": "Support pending; the Canadian autoworkers struggle for adjustment assistance at a time of industrial change, 1960-65.","date": "2000","creator": "Roy, James A.","subject": "Law ;Canada ;HistoryAutomobile Industry Workers ;Labor Unions ;Canada ;HistoryAutomobile Industry And Trade ;Canada ;Management", 
+"title": "Support pending; the Canadian autoworkers struggle for adjustment assistance at a time of industrial change, 1960-65.","date": "2000","creator": "Roy, James A.","subject": "Law;Canada;HistoryAutomobile Industry Workers ;Labor Unions ;Canada;HistoryAutomobile Industry And Trade ;Canada;Management", 
 "id": "hist_187"
 
 },{  
@@ -751,19 +751,19 @@ var store = [{
 "id": "hist_188"
 
 },{  
-"title": "The politics of British Commonwealth Air Training Plan base selection in Western Canada.","date": "2000","creator": "Heide, Rachel Lea","subject": "Aeronautics, Military ;Study And Teaching ;Canada ;HistoryBritish Commonwealth Air Training Plan ;HistoryWorld War, 1939-1945 ;Canada", 
+"title": "The politics of British Commonwealth Air Training Plan base selection in Western Canada.","date": "2000","creator": "Heide, Rachel Lea","subject": "Aeronautics, Military ;Study and teaching;Canada;HistoryBritish Commonwealth Air Training Plan ;World War, 1939-1945 ;Canada", 
 "id": "hist_189"
 
 },{  
-"title": "Guiding the ship through the storm: W. D. Herridge and Canadian relations with the United states, 1931-1935.","date": "2000","creator": "Hoogenraad, Stephen","subject": "Herridge, William Duncan, 1888-Canada ;Foreign Relations ;United States ;HistoryUnited States ;Foreign Relations ;Canada ;HistorySaint Lawrence SeawayCanada ;Politics And Government 1935-1957", 
+"title": "Guiding the ship through the storm: W. D. Herridge and Canadian relations with the United states, 1931-1935.","date": "2000","creator": "Hoogenraad, Stephen","subject": "Herridge, William Duncan, 1888-Canada ;Foreign Relations ;United States;HistoryUnited States ;Foreign Relations ;Canada;HistorySaint Lawrence SeawayCanada ;Politics And Government 1935-1957", 
 "id": "hist_190"
 
 },{  
-"title": "Incident or insurrection? A ceremonial procession of artisans of Aix-En-Provence in 1730; a study of attitudes towards authority.","date": "2000","creator": "Anders, Carole","subject": "Artisans ;France ;Aix-en-provence ;History 18th CenturyProtest Movements ;France ;Aix-en-provence ;History 18th CenturySocial Classes ;France ;Aix-en-provence ;History 18th CenturyConti, Louise-elizabeth De Bourbon Conde, Princesse DeConti, Louis Francois De Bourbon, Prince De, 1717-1776Guilds ;France ;HistoryAix-en-provence (France) ;Social Conditions ;History", 
+"title": "Incident or insurrection? A ceremonial procession of artisans of Aix-En-Provence in 1730; a study of attitudes towards authority.","date": "2000","creator": "Anders, Carole","subject": "Artisans ;France ;Aix-en-provence ;History 18th CenturyProtest Movements ;France ;Aix-en-provence ;History 18th CenturySocial Classes ;France ;Aix-en-provence ;History 18th CenturyConti, Louise-elizabeth De Bourbon Conde, Princesse DeConti, Louis Francois De Bourbon, Prince De, 1717-1776Guilds ;France ;HistoryAix-en-provence (France) ;Social Conditions;History", 
 "id": "hist_191"
 
 },{  
-"title": "For club or country? Hockey in wartime Canada, 1939-1945.","date": "2000","creator": "Panunto, Gabriel Stephen, 2000","subject": "Hockey ;Canada ;History;National Hockey League ;History; Sports ;Social Aspects ;CanadaWorld War, 1939-1945 ;Canada; Canadian Army ;Recruiting, Enlistment, Etc; Nationalism And Sports", 
+"title": "For club or country? Hockey in wartime Canada, 1939-1945.","date": "2000","creator": "Panunto, Gabriel Stephen, 2000","subject": "Hockey ;Canada;History;National Hockey League ;History; Sports ;Social Aspects;CanadaWorld War, 1939-1945 ;Canada; Canadian Army ;Recruiting, Enlistment, Etc; Nationalism And Sports", 
 "id": "hist_192"
 
 },{  
@@ -779,11 +779,11 @@ var store = [{
 "id": "hist_195"
 
 },{  
-"title": "Missed opportunities; first Canadian army and the air plan for operation Totalize, 7-10 1944.","date": "1999","creator": "Perrun, Jody","subject": "Canada; Canadian Army; Battalion, Highland Light Infantry Of Canada, 1st ;History; World War, 1939-1945 ;Campaigns ;Normandy; Canada; Canadian Army ;History World War, 1939-1945", 
+"title": "Missed opportunities; first Canadian army and the air plan for operation Totalize, 7-10 1944.","date": "1999","creator": "Perrun, Jody","subject": "Canada; Canadian Army ; Battalion, Highland Light Infantry Of Canada, 1st ;History;World War, 1939-1945 ;Campaigns ;Normandy;Canada; Canadian Army ;World War, 1939-1945 ", 
 "id": "hist_196"
 
 },{  
-"title": "Red Tory: the political ideas and legislative legacy of R. B. Bennett.","date": "1999","creator": "Peacock, Kurt","subject": "Bennett, R; B; (Richard Bedford), 1870-1947Canada ;Politics And Government 20th Century; Progressive Conservative Party Of Canada ;History 20th Century; Canadian Broadcasting Corporation; Bank Of Canada ;History", 
+"title": "Red Tory: the political ideas and legislative legacy of R. B. Bennett.","date": "1999","creator": "Peacock, Kurt","subject": "Bennett, R; B; (Richard Bedford), 1870-1947Canada ;Politics And Government 20th Century;Progressive Conservative Party Of Canada;History 20th Century;Canadian Broadcasting Corporation; Bank Of Canada ;History", 
 "id": "hist_197"
 
 },{  
@@ -791,51 +791,51 @@ var store = [{
 "id": "hist_198"
 
 },{  
-"title": "Winning trench warfare: battlefield intelligence in the Canadian Corps, 1914-1918.","date": "1999","creator": "Jenkins, Dan Richard","subject": "World War, 1914-1918 ;Military Intelligence ;Canada; Military Intelligence ;Canada ;History; World War, 1914-1918 ;Trench Warfare", 
+"title": "Winning trench warfare: battlefield intelligence in the Canadian Corps, 1914-1918.","date": "1999","creator": "Jenkins, Dan Richard","subject": "World War, 1914-1918 ;Military Intelligence ;Canada;Military Intelligence ;Canada;History;World War, 1914-1918 ;Trench Warfare", 
 "id": "hist_199"
 
 },{  
-"title": "Exercise Musk Ox: lost opportunities.","date": "1998","creator": "Thrasher, Kevin Mendel","subject": "Military Maneuvers ;Cold Weather Conditions; Military Maneuvers ;Canada, Northern; Transportation, Military ;Cold Weather Conditions; Arctic Regions ;Military Policy; Canada ;Politics And Government 1935-1948", 
+"title": "Exercise Musk Ox: lost opportunities.","date": "1998","creator": "Thrasher, Kevin Mendel","subject": "Military Maneuvers ;Cold Weather Conditions;Military Maneuvers ;Canada, Northern; Transportation, Military ;Cold Weather Conditions; Arctic Regions ;Military Policy;Canada;Politics And Government 1935-1948", 
 "id": "hist_200"
 
 },{  
-"title": "Women of the cloth - weavers in Westmorland and Charlotte counties, New Brunswick 1871-1891.","date": "1998","creator": "Rygiel, Judith Anne","subject": "Women ;Employment ;New Brunswick ;History; Weavers ;New Brunswick ;History; Women Textile Workers ;New Brunswick; Textile Industry ;New Brunswick ;History", 
+"title": "Women of the cloth - weavers in Westmorland and Charlotte counties, New Brunswick 1871-1891.","date": "1998","creator": "Rygiel, Judith Anne","subject": " Women ;Employment ;New Brunswick;History; Weavers ;New Brunswick;History; Women Textile Workers ;New Brunswick; Textile Industry ;New Brunswick;History", 
 "id": "hist_201"
 
 },{  
-"title": "Implementing NORAD, 1956-1962; the bureaucratic tug of war for access and influence.","date": "1998","creator": "Allin, Robert Douglas","subject": "North American Air Defense Command; Canada ;Military Relations ;United States; United States ;Military Relations ;Canada; Canada ;Politics And Government 1957-1963", 
+"title": "Implementing NORAD, 1956-1962; the bureaucratic tug of war for access and influence.","date": "1998","creator": "Allin, Robert Douglas","subject": "North American Air Defense Command;Canada;Military Relations ;United States;United States;Military Relations ;Canada;Canada;Politics And Government 1957-1963", 
 "id": "hist_202"
 
 },{  
-"title": "Ammianus Marcellinus as a guide to the strategies of Julians Gallic campaign 356 - 361.","date": "1998","creator": "White, Andrea","subject": "Ammianus Marcellinus; Rerum Gestarum Libri; Ammianus Marcellinus ;Political And Social Views; Rome ;History Julian, 361-363Gaul ;History 58 B;c;-511 A;d;Rome ;History Empire, 284-476", 
+"title": "Ammianus Marcellinus as a guide to the strategies of Julians Gallic campaign 356 - 361.","date": "1998","creator": "White, Andrea","subject": "Ammianus Marcellinus; Rerum Gestarum Libri;Ammianus Marcellinus;Political And Social Views;Rome ;History Julian, 361-363Gaul ;History 58 B;c;-511 A;d;Rome ;History Empire, 284-476", 
 "id": "hist_203"
 
 },{  
-"title": "In the spirit of judaism: the National Council of Jewish Women of Canada in historical perspective 1897-1990.","date": "1998","creator": "Lecours, Natasha T.","subject": "National Council Of Jewish Women ;History; Jewish Women ;Canada ;Societies And Clubs ;History", 
+"title": "In the spirit of judaism: the National Council of Jewish Women of Canada in historical perspective 1897-1990.","date": "1998","creator": "Lecours, Natasha T.","subject": "National Council Of Jewish Women ;History; Jewish Women ;Canada;Societies And Clubs ;History", 
 "id": "hist_204"
 
 },{  
-"title": "1951 agreement between the Red Cross and St. John Ambulance; case study of the effect of Civil Defence on Canadas Health Care system.","date": "1997","creator": "Toxopeus, Deanna","subject": "Canadian Red Cross Society ;History; St; John Ambulance Association; Canadian Branch ;History; Civil Defense ;Canada ;History; Medical Care ;Canada ;History", 
+"title": "1951 agreement between the Red Cross and St. John Ambulance; case study of the effect of Civil Defence on Canadas Health Care system.","date": "1997","creator": "Toxopeus, Deanna","subject": "Canadian Red Cross Society ;History; St; John Ambulance Association; Canadian Branch ;History; Civil Defense ;Canada;History; Medical Care ;Canada;History", 
 "id": "hist_205"
 
 },{  
-"title": "Honest brokers? Canada and the International Commission for Supervision and Control, Cambodia: 1954 to 1964.","date": "1997","creator": "Kerr, Jeffrey L.","subject": "Cambodia ;History 1953-1975International Commission For Supervision And Control In Cambodia; Canada ;Relations ;United States; United States ;Relations ;Canada", 
+"title": "Honest brokers? Canada and the International Commission for Supervision and Control, Cambodia: 1954 to 1964.","date": "1997","creator": "Kerr, Jeffrey L.","subject": "Cambodia ;History 1953-1975International Commission For Supervision And Control In Cambodia;Canada;Relations ;United States;United States;Relations ;Canada", 
 "id": "hist_206"
 
 },{  
-"title": "Minor tranquilizing drugs and the medicalization of everyday life, in English-speaking Canada, 1945-1962.","date": "1997","creator": "Crabb, Leona","subject": "Tranquilizing Drugs; Drug Utilization ;Social Aspects ;Canada; Mental Health ;Canada ;History; Women ;Canada ;Social Conditions", 
+"title": "Minor tranquilizing drugs and the medicalization of everyday life, in English-speaking Canada, 1945-1962.","date": "1997","creator": "Crabb, Leona","subject": "Tranquilizing Drugs; Drug Utilization ;Social Aspects;Canada; Mental Health ;Canada;History; Women ;Canada;Social Conditions", 
 "id": "hist_207"
 
 },{  
-"title": "Ground for common action: Violet McNaughtons Agrarian feminism and the origins of the farm womens movement in Canada.","date": "1997","creator": "Taylor, Georgina M.","subject": "Mcnaughton, Violet, 1879-1968; Feminism ;Canada ;History; Women ;Suffrage ;Canada ;History; Women In Agriculture ;Canada ;History; Medical Care ;Canada ;History; Rural Women ;Canada ;History", 
+"title": "Ground for common action: Violet McNaughtons Agrarian feminism and the origins of the farm womens movement in Canada.","date": "1997","creator": "Taylor, Georgina M.","subject": "Mcnaughton, Violet, 1879-1968; Feminism ;Canada;History; Women ;Suffrage ;Canada;History; Women In Agriculture ;Canada;History; Medical Care ;Canada;History; Rural Women ;Canada;History", 
 "id": "hist_208"
 
 },{  
-"title": "Freedom and grace: Mainline protestant thought in Canada, 1900-1960.","date": "1997","creator": "Krygsman, Hubert Richard","subject": "Protestant Churches ;Canada ;History 20th Century; Protestantism 20th Century; Theology, Doctrinal 20th Century", 
+"title": "Freedom and grace: Mainline protestant thought in Canada, 1900-1960.","date": "1997","creator": "Krygsman, Hubert Richard","subject": "Protestant Churches ;Canada;History 20th Century; Protestantism 20th Century; Theology, Doctrinal 20th Century", 
 "id": "hist_209"
 
 },{  
-"title": "Endormez-moi! An early twentieth-century obstetrical practice in the Gatineau Valley, Quebec.","date": "1997","creator": "Elliott, Jayne","subject": "Geggie, Harold J; G;Medicine, Rural ;Practice ;Quebec (Province) ;Gatineau River Valley; Childbirth At Home ;Quebec (Province) ;Wakefield; Obstetrics ;Canada ;History", 
+"title": "Endormez-moi! An early twentieth-century obstetrical practice in the Gatineau Valley, Quebec.","date": "1997","creator": "Elliott, Jayne","subject": "Geggie, Harold J; G;Medicine, Rural ;Practice ;Quebec (Province) ;Gatineau River Valley; Childbirth At Home ;Quebec (Province) ;Wakefield; Obstetrics ;Canada;History", 
 "id": "hist_210"
 
 },{  
@@ -843,7 +843,7 @@ var store = [{
 "id": "hist_211"
 
 },{  
-"title": "Beyond the visionary mountains: the Alpine Club of Canada and the Canadian National Park idea, 1906-1969.","date": "1996","creator": "Reichwein, PearlAnn","subject": "Alpine Club Of Canada ;History; National Parks And Reserves ;Canada ;History", 
+"title": "Beyond the visionary mountains: the Alpine Club of Canada and the Canadian National Park idea, 1906-1969.","date": "1996","creator": "Reichwein, PearlAnn","subject": "Alpine Club Of Canada ;History; National Parks And Reserves ;Canada;History", 
 "id": "hist_212"
 
 },{  
@@ -855,7 +855,7 @@ var store = [{
 "id": "hist_214"
 
 },{  
-"title": "Hard in the attack: the Canadian Army in Sicily and Italy, July 1943- June 1944.","date": "1996","creator": "Cessford, Michael Pearson","subject": "World War, 1939-1945 ;Campaigns ;Italy; World War, 1939-1945 ;Campaigns ;Italy ;Sicily; Canada; Canadian Army ;History World War, 1939-1945", 
+"title": "Hard in the attack: the Canadian Army in Sicily and Italy, July 1943- June 1944.","date": "1996","creator": "Cessford, Michael Pearson","subject": "World War, 1939-1945 ;Campaigns ;Italy;World War, 1939-1945 ;Campaigns ;Italy;Sicily;Canada; Canadian Army ;World War, 1939-1945 ", 
 "id": "hist_215"
 
 },{  
@@ -863,31 +863,31 @@ var store = [{
 "id": "hist_216"
 
 },{  
-"title": "The Apotheosis of protestantism: the concept of work in Carlyle.","date": "1995","creator": "Hare, John Edward","subject": "Carlyle, Thomas, 1795-1881; Sartor Resartus; Carlyle, Thomas, 1795-1881; Past And Present; Work; Calvinism; Transcendentalism", 
+"title": "The Apotheosis of protestantism: the concept of work in Carlyle.","date": "1995","creator": "Hare, John Edward","subject": "Carlyle, Thomas, 1795-1881; Sartor Resartus;Carlyle, Thomas, 1795-1881; Past And Present; Work; Calvinism; Transcendentalism", 
 "id": "hist_217"
 
 },{  
-"title": "Reluctant mediator: Canada, the United Nations and the Kashmir crisis, 1947-1949.","date": "1995","creator": "Kelly, E. A.","subject": "Kashmir (India) ;Politics And Government; India ;Foreign Relations ;Canada; Canada ;Foreign Relations ;India; World Politics 1945-", 
+"title": "Reluctant mediator: Canada, the United Nations and the Kashmir crisis, 1947-1949.","date": "1995","creator": "Kelly, E. A.","subject": "Kashmir (India) ;Politics And Government;India;Foreign Relations ;Canada;Canada;Foreign Relations ;India; World Politics 1945-", 
 "id": "hist_218"
 
 },{  
-"title": "The origins of Canadian participation in the United Nations operation in the Congo, 1960.","date": "1995","creator": "Spooner, Kevin A.","subject": "Canada ;Foreign Relations ;Congo (Democratic Republic)Congo (Democratic Republic) ;History Civil War, 1960-1965United Nations ;Congo (Democratic Republic)", 
+"title": "The origins of Canadian participation in the United Nations operation in the Congo, 1960.","date": "1995","creator": "Spooner, Kevin A.","subject": "Canada;Foreign Relations ;Congo (Democratic Republic)Congo (Democratic Republic) ;History Civil War, 1960-1965United Nations ;Congo (Democratic Republic)", 
 "id": "hist_219"
 
 },{  
-"title": "Lenin for sale; the rise and fall of the personality cult of V. I. Lenin in Soviet Russia.","date": "1995","creator": "Smith, Trevor J.","subject": "Lenin, Vladimir Il'ich, 1870-1924Heads Of State ;Soviet Union; Cults ;Soviet Union; Soviet Union ;Politics And Government 1917-1936", 
+"title": "Lenin for sale; the rise and fall of the personality cult of V. I. Lenin in Soviet Russia.","date": "1995","creator": "Smith, Trevor J.","subject": "Lenin, Vladimir Il'ich, 1870-1924Heads Of State ;Soviet Union; Cults ;Soviet Union;Soviet Union;Politics And Government 1917-1936", 
 "id": "hist_220"
 
 },{  
-"title": "Cold actions, cold methods, cold war: Canadian foreign policy and the Prague coup of 1948.","date": "1995","creator": "Villeneuve, Susan A.","subject": "Czechoslovakia ;History Coup D'etat, 1948; Canada ;Foreign Relations ;Czechoslovakia; Canada ;Foreign Relations ;Soviet Union; Cold War ;History; World Politics 1945-Propaganda, Communist", 
+"title": "Cold actions, cold methods, cold war: Canadian foreign policy and the Prague coup of 1948.","date": "1995","creator": "Villeneuve, Susan A.","subject": "Czechoslovakia;History Coup D'etat, 1948;Canada;Foreign Relations ;Czechoslovakia;Canada;Foreign Relations ;Soviet Union;Cold War;History; World Politics 1945-Propaganda, Communist", 
 "id": "hist_221"
 
 },{  
-"title": "The limits of humanity; George Bell, the Church of England, and German refugees 1933-1939.","date": "1995","creator": "Blumenthal, Heather","subject": "Bell, George Kennedy Allen, Bp; Of Chichester, 1883-1958; Church Of England; Refugees, Jewish ;Great Britain; Kristallnacht, 1938", 
+"title": "The limits of humanity; George Bell, the Church of England, and German refugees 1933-1939.","date": "1995","creator": "Blumenthal, Heather","subject": "Bell, George Kennedy Allen, Bp; Of Chichester, 1883-1958; Church Of England; Refugees, Jewish ;Great Britain ; Kristallnacht, 1938", 
 "id": "hist_222"
 
 },{  
-"title": "Drawn from life: science, art and image in the depiction of Canada, 16th to 19th centuries.","date": "1995","creator": "Dickenson, Victoria","subject": "Natural History ;Canada; Canada ;History ;Pictorial Works; Canada ;Pictorial Works", 
+"title": "Drawn from life: science, art and image in the depiction of Canada, 16th to 19th centuries.","date": "1995","creator": "Dickenson, Victoria","subject": "Natural History ;Canada;Canada;History;Pictorial Works;Canada;Pictorial Works", 
 "id": "hist_223"
 
 },{  
@@ -895,47 +895,47 @@ var store = [{
 "id": "hist_224"
 
 },{  
-"title": "Education and assimilation in the Lakehead, 1900-1939","date": "1995","creator": "Dixon, Lydia Janice Elizabeth","subject": "Immigrants ; Education ; Ontario, Northern ; Cross-cultural Studies; Children Of Immigrants ; Education ; Ontario, Northern; Minorities ; Canada ; Cross-cultural Studies; Cultural pluralism", 
+"title": "Education and assimilation in the Lakehead, 1900-1939","date": "1995","creator": "Dixon, Lydia Janice Elizabeth","subject": "Immigrants ; Education ; Ontario, Northern; Cross-cultural Studies; Children Of Immigrants ; Education ; Ontario, Northern; Minorities ;Canada; Cross-cultural Studies; Cultural pluralism", 
 "id": "hist_225"
 
 },{  
-"title": "The rage for cheapness: food adulteration in the United Canadas and in the Dominion 1850-1920.","date": "1994","creator": "Lauer, Bruce H.","subject": "Food Adulteration And Inspection ;Canada ;History; Food Adulteration And Inspection ;Law And Legislation ;Canada ;History", 
+"title": "The rage for cheapness: food adulteration in the United Canadas and in the Dominion 1850-1920.","date": "1994","creator": "Lauer, Bruce H.","subject": "Food Adulteration And Inspection ;Canada;History;Food Adulteration And Inspection ;Law And Legislation ;Canada;History", 
 "id": "hist_226"
 
 },{  
-"title": "Seeking the highest good: social service at the University of Toronto, 1888-1937.","date": "1994","creator": "Burke, Sara Z.","subject": "University Of Toronto ;History; Women ;Attitudes; Social Service ;Ontario ;Toronto", 
+"title": "Seeking the highest good: social service at the University of Toronto, 1888-1937.","date": "1994","creator": "Burke, Sara Z.","subject": "University Of Toronto ;History; Women ;Attitudes; Social Service ;Ontario ; Toronto", 
 "id": "hist_227"
 
 },{  
-"title": "Gender, organized women, and the politics of institution building: founding the Victorian Order of Nurses for Canada, 1893-1900.","date": "1994","creator": "Boutilier, Beverly","subject": "Victorian Order Of Nurses For Canada ;History; National Council Of Women Of Canada ;History; Women ;Canada ;Societies And Clubs", 
+"title": "Gender, organized women, and the politics of institution building: founding the Victorian Order of Nurses for Canada, 1893-1900.","date": "1994","creator": "Boutilier, Beverly","subject": "Victorian Order Of Nurses For Canada ;History; National Council Of Women Of Canada ;History; Women ;Canada;Societies And Clubs ", 
 "id": "hist_228"
 
 },{  
-"title": "The St. Lawrence seaway question, 1950-1954: the Canadian perspective.","date": "1994","creator": "Pattison, Christopher","subject": "Saint Lawrence Seaway ;Navigation; Saint Lawrence Seaway ;Power Utilization; Canada ;Politics And Government 1948-1957Canals ;Canada; Canals ;United States", 
+"title": "The St. Lawrence seaway question, 1950-1954: the Canadian perspective.","date": "1994","creator": "Pattison, Christopher","subject": "Saint Lawrence Seaway ;Navigation;Saint Lawrence Seaway ; Power Utilization;Canada;Politics And Government 1948-1957Canals ;Canada; Canals ;United States", 
 "id": "hist_229"
 
 },{  
-"title": "Culture, class and community: new perspectives on the Klondike gold rush, 1896-1905.","date": "1994","creator": "Porsild, Charlene L.","subject": "Klondike River Valley (Yukon) ;Gold Discoveries; Frontier And Pioneer Life ;Yukon ;Klondike River Valley; Yukon ;History", 
+"title": "Culture, class and community: new perspectives on the Klondike gold rush, 1896-1905.","date": "1994","creator": "Porsild, Charlene L.","subject": "Klondike River Valley (Yukon) ;Gold Discoveries; Frontier And Pioneer Life ;Yukon ;Klondike River Valley;Yukon ;History", 
 "id": "hist_230"
 
 },{  
-"title": "Getting the lead out: state, capital and society and the development of New Brunswicks base metal industry, 1952-1972.","date": "1994","creator": "Kenny, James Lawrence","subject": "Metal Trade ;New Brunswick; Mineral Industries ;New Brunswick; Investments, American ;New Brunswick; New Brunswick ;Economic Conditions; New Brunswick ;Politics And Government", 
+"title": "Getting the lead out: state, capital and society and the development of New Brunswicks base metal industry, 1952-1972.","date": "1994","creator": "Kenny, James Lawrence","subject": "Metal Trade ;New Brunswick; Mineral Industries ;New Brunswick; Investments, American ;New Brunswick;New Brunswick;Economic Conditions;New Brunswick;Politics And Government", 
 "id": "hist_231"
 
 },{  
-"title": "Lieutenant-general Guy Simonds and the battle of the Scheldt : study in generalship","date": "1994","creator": "Hisdal, Howard","subject": "Simonds, Guy Granville, 1903-1974Generals ;Canada; Scheldt River Estuary, Battle Of, 1944Canada; Canadian Army ;History World War, 1939-1945", 
+"title": "Lieutenant-general Guy Simonds and the battle of the Scheldt : study in generalship","date": "1994","creator": "Hisdal, Howard","subject": "Simonds, Guy Granville, 1903-1974Generals ;Canada; Scheldt River Estuary, Battle Of, 1944Canada; Canadian Army ;World War, 1939-1945 ", 
 "id": "hist_232"
 
 },{  
-"title": "Perceptions of vagrancy in extant legal records throughout the later middle ages, 1100-1400.","date": "1993","creator": "Moore, Stephen","subject": "Vagrancy ;Great Britain ;History; Great Britain ;History Medieval Period, 1066-1485Poor ;Great Britain ;History", 
+"title": "Perceptions of vagrancy in extant legal records throughout the later middle ages, 1100-1400.","date": "1993","creator": "Moore, Stephen","subject": "Vagrancy ;Great Britain ;History;Great Britain ;History Medieval Period, 1066-1485Poor ;Great Britain ;History", 
 "id": "hist_233"
 
 },{  
-"title": "Quaker migration and the founding of Bloomfield, Ontario.","date": "1993","creator": "Muller, Mary M.","subject": "Bloomfield (Ont;) ;History; Quakers ;Ontario ;Bloomfield; Prince Edward (Ont;) ;History; Dutches County (N;y;) ;History; Society Of Friends ;Ontario ;Bloomfield; United Empire Loyalists ;Ontario ;Bloomfield", 
+"title": "Quaker migration and the founding of Bloomfield, Ontario.","date": "1993","creator": "Muller, Mary M.","subject": "Bloomfield (Ont;History; Quakers ;Ontario ;Bloomfield; Prince Edward (Ont;History; Dutches County (N;y;History; Society Of Friends ;Ontario ;Bloomfield; United Empire Loyalists ;Ontario ;Bloomfield", 
 "id": "hist_234"
 
 },{  
-"title": "The busy East: boosting the Maritimes, 1910-1925.","date": "1993","creator": "Burridge, Stephen","subject": "Busy East; Maritime Provinces ;History; Maritime Provinces ;Economic Conditions; Canada ;Politics And Government 1867-", 
+"title": "The busy East: boosting the Maritimes, 1910-1925.","date": "1993","creator": "Burridge, Stephen","subject": "Busy East; Maritime Provinces ;History; Maritime Provinces ;Economic Conditions;Canada;Politics And Government 1867-", 
 "id": "hist_235"
 
 },{  
@@ -943,15 +943,15 @@ var store = [{
 "id": "hist_236"
 
 },{  
-"title": "To make intelligent beings yet more intelligent: the Canadian Federation of University Women, 1919-1931.","date": "1993","creator": "Hubley, Wendy","subject": "Canadian Federation Of University Women ;History; Women College Graduates ;Canada ;History", 
+"title": "To make intelligent beings yet more intelligent: the Canadian Federation of University Women, 1919-1931.","date": "1993","creator": "Hubley, Wendy","subject": "Canadian Federation Of University Women ;History; Women College Graduates ;Canada;History", 
 "id": "hist_237"
 
 },{  
-"title": "Wills in later medieval England, with special reference to women.","date": "1992","creator": "Mills, Katherine Louise","subject": "Wills ;England ;History; Women ;Legal Status, Laws, Etc; ;England ;History; Married Women ;England ;History; Marital Property ;England ;History; England ;Social Life And Customs 1066-1485", 
+"title": "Wills in later medieval England, with special reference to women.","date": "1992","creator": "Mills, Katherine Louise","subject": "Wills ;England ;History; Women ;Legal Status, Laws, Etc;England ;History; Married Women ;England ;History; Marital Property ;England ;History;England ;Social Life And Customs 1066-1485", 
 "id": "hist_238"
 
 },{  
-"title": "Visions of grandeur; planning for the Canadian post-war army, 1944- 1947.","date": "1992","creator": "Brulotte, Bryan","subject": "Canada; Canadian Armed Forces ;History; Canada ;History, Military", 
+"title": "Visions of grandeur; planning for the Canadian post-war army, 1944- 1947.","date": "1992","creator": "Brulotte, Bryan","subject": "Canada; Canadian Armed Forces ;History;Canada;Military history", 
 "id": "hist_239"
 
 },{  
@@ -967,19 +967,19 @@ var store = [{
 "id": "hist_242"
 
 },{  
-"title": "Revolution and reaction : the emergence of the Hungarian national movement","date": "1992","creator": "Isztil, Janos","subject": "Hungary ;Politics and government ;1699-1848; Nationalism ;Hungary; Hungary ;Intellectual life", 
+"title": "Revolution and reaction : the emergence of the Hungarian national movement","date": "1992","creator": "Isztil, Janos","subject": "Hungary;Politics And Government;1699-1848; Nationalism ;Hungary;Hungary;Intellectual Life", 
 "id": "hist_243"
 
 },{  
-"title": "Officer-man relations in the Canadian Expeditionary Force, 1914-1919.","date": "1991","creator": "Losinger, Isabella Diane","subject": "Canada ;Armed Forces ;Officers; Canada ;Armed Forces ;Personnel Management; Intergroup Relations; Canada; Canadian Army; Canadian Expeditionary Force;World War, 1914-1918 ;Canada", 
+"title": "Officer-man relations in the Canadian Expeditionary Force, 1914-1919.","date": "1991","creator": "Losinger, Isabella Diane","subject": "Canada;Armed forces ;Officers;Canada;Armed forces ;Personnel Management; Intergroup Relations;Canada; Canadian Army ; Canadian Expeditionary Force;World War, 1914-1918 ;Canada", 
 "id": "hist_244"
 
 },{  
-"title": "Direct democrat: W. C. Good and the Ontario farm progressive challenge, 1895-1929.","date": "1991","creator": "Wylie, T. Robin","subject": "Good, William Charles, 1876-1967Agriculture,cooperative ;Ontario; Co-operative Commonwealth Federation; Canada ;Politics And Government 20th Century", 
+"title": "Direct democrat: W. C. Good and the Ontario farm progressive challenge, 1895-1929.","date": "1991","creator": "Wylie, T. Robin","subject": "Good, William Charles, 1876-1967Agriculture,cooperative ;Ontario ; Co-operative Commonwealth Federation;Canada;Politics And Government 20th Century", 
 "id": "hist_245"
 
 },{  
-"title": "A dolls house or the house of the dead : political exiles in northern Russia and Siberia, 1880-1917.","date": "1990","creator": "Donicht, Gaby","subject": "Russia ;Exiles; Siberia (Russia) ;Politics And Government; Russia, Northern ;Politics And Government; Exiles ;Social Conditions", 
+"title": "A dolls house or the house of the dead : political exiles in northern Russia and Siberia, 1880-1917.","date": "1990","creator": "Donicht, Gaby","subject": "Russia ;Exiles; Siberia (Russia) ;Politics And Government; Russia, Northern ;Politics And Government;Exiles;Social Conditions", 
 "id": "hist_246"
 
 },{  
@@ -987,27 +987,27 @@ var store = [{
 "id": "hist_247"
 
 },{  
-"title": "Feed the flame : a natural history of the Ottawa Literary and Scientific Society.","date": "1990","creator": "Gaizauskas, Barbara","subject": "Ottawa Literary And Scientific Society; Ottawa (Ont;) ;Intellectual Life ;History; Ottawa (Ont;) ;Social Life And Customs; Ottawa (Ont;) ;History", 
+"title": "Feed the flame : a natural history of the Ottawa Literary and Scientific Society.","date": "1990","creator": "Gaizauskas, Barbara","subject": "Ottawa Literary And Scientific Society; Ottawa (Ont;Intellectual Life;History; Ottawa (Ont;Social Life And Customs; Ottawa (Ont;History", 
 "id": "hist_248"
 
 },{  
-"title": "Continued and persevering combat : the Ontario Womans Christian Temperance Union, evangelicalism and social reform, 1874-1916.","date": "1990","creator": "Cook, Sharon Anne","subject": "Ontario Woman's Christian Temperance Union; Temperance ;Ontario ;Societies, Etc; ;History; Women ;Ontario ;Societies And Clubs ;History; Women ;Ontario ;History", 
+"title": "Continued and persevering combat : the Ontario Womans Christian Temperance Union, evangelicalism and social reform, 1874-1916.","date": "1990","creator": "Cook, Sharon Anne","subject": "Ontario Woman's Christian Temperance Union; Temperance ;Ontario ;Societies, Etc;History; Women ;Ontario ;Societies And Clubs ;History; Women ;Ontario ;History", 
 "id": "hist_249"
 
 },{  
-"title": "Delivering electrical technology to the Ontario housewife, 1920-1939: an alliance of professional women, advertisers and the electrical industry.","date": "1989","creator": "Dodd, Dianne E.","subject": "Electric Industries ;Ontario ;History;Electric Industries ;Ontario ;Social Aspects;Electric Household Appliances Industry ;Ontario ;History;Women ;Social Conditions;Technology ;Social Aspects;", 
+"title": "Delivering electrical technology to the Ontario housewife, 1920-1939: an alliance of professional women, advertisers and the electrical industry.","date": "1989","creator": "Dodd, Dianne E.","subject": "Electric Industries ;Ontario ;History;Electric Industries ;Ontario ;Social Aspects;Electric Household Appliances Industry ;Ontario ;History; Women ;Social Conditions;Technology ;Social Aspects", 
 "id": "hist_250"
 
 },{  
-"title": "Daily life on western Hudson Bay 1714 to 1870: a social history of York Factory and Churchill.","date": "1989","creator": "Payne, Michael B.","subject": "York Factory (Man;) ;Social Conditions;Churchill (Man;) ;Social Conditions;Hudson's Bay Company ;History;Fur Trade ;Canada ;History;", 
+"title": "Daily life on western Hudson Bay 1714 to 1870: a social history of York Factory and Churchill.","date": "1989","creator": "Payne, Michael B.","subject": "York Factory (Man;Social Conditions;Churchill (Man;Social Conditions;Hudson's Bay Company ;History;Fur Trade ;Canada;History", 
 "id": "hist_251"
 
 },{  
-"title": "The Irish question in Canada: Ireland, the Irish and Canadian politics, 1880-1922.","date": "1989","creator": "Shanahan, David","subject": "Irish Canadians ;Cultural Assimilation; Irish ;Canada ;History; Irish Question; Canada ;Politics And Government 1867-", 
+"title": "The Irish question in Canada: Ireland, the Irish and Canadian politics, 1880-1922.","date": "1989","creator": "Shanahan, David","subject": "Irish Canadians ;Cultural Assimilation; Irish ;Canada;History; Irish Question;Canada;Politics And Government 1867-", 
 "id": "hist_252"
 
 },{  
-"title": "The Negotiations between Canada and India for the supply of the N.R.X. nuclear research reactor 1955-56: a case study in participatory internationalism.","date": "1989","creator": "Lonergan, Iris Heidrun","subject": "Canada India Reactor Project; Technical Assistance, Canadian ;India; Canada ;Foreign Relations ;India; India ;Foreign Relations ;Canada; Internationalism ;Case Studies", 
+"title": "The Negotiations between Canada and India for the supply of the N.R.X. nuclear research reactor 1955-56: a case study in participatory internationalism.","date": "1989","creator": "Lonergan, Iris Heidrun","subject": "Canada India Reactor Project; Technical Assistance, Canadian ;India;Canada;Foreign Relations ;India;India;Foreign Relations ;Canada; Internationalism ;Case Studies", 
 "id": "hist_253"
 
 },{  
@@ -1027,15 +1027,15 @@ var store = [{
 "id": "hist_257"
 
 },{  
-"title": "Educating for peace and co-operation: the Womens International League for Peace and Freedom in Canada, 1919-1929.","date": "1988","creator": "Boutilier, Beverly","subject": "Women's International League For Peace And Freedom; Women And Peace; Peace Movements ;Canada ;History", 
+"title": "Educating for peace and co-operation: the Womens International League for Peace and Freedom in Canada, 1919-1929.","date": "1988","creator": "Boutilier, Beverly","subject": "Women's International League For Peace And Freedom; Women And Peace; Peace Movements ;Canada;History", 
 "id": "hist_258"
 
 },{  
-"title": "Dan McArthurs concept of objectivity and his struggle to defend the integrity of the CBC News Service, 1940-1945.","date": "1988","creator": "Albota, Robert J. F.","subject": "Mcarthur, Dan (Daniel C;)Canadian Broadcasting Corporation; Radio Journalism ;Canada", 
+"title": "Dan McArthurs concept of objectivity and his struggle to defend the integrity of the CBC News Service, 1940-1945.","date": "1988","creator": "Albota, Robert J. F.","subject": "Mcarthur, Dan (Daniel C;Canadian Broadcasting Corporation; Radio Journalism ;Canada", 
 "id": "hist_259"
 
 },{  
-"title": "The Other navy at war: the RCNs tribal class destroyers 1939-1944.","date": "1988","creator": "Whitby, Michael J.","subject": "Destroyers (Warships) ;Canada; Canada; Royal Canadian Navy ;History World War, 1939-1945World War, 1939-1945 ;Naval Operations, Canadian", 
+"title": "The Other navy at war: the RCNs tribal class destroyers 1939-1944.","date": "1988","creator": "Whitby, Michael J.","subject": "Destroyers (Warships) ;Canada;Canada; Royal Canadian Navy ;History World War, 1939-1945World War, 1939-1945 ;Naval Operations, Canadian", 
 "id": "hist_260"
 
 },{  
@@ -1043,11 +1043,11 @@ var store = [{
 "id": "hist_261"
 
 },{  
-"title": "The opposition to woman suffrage in Ontario, 1872 to 1917.","date": "1987","creator": "Powell, Sheila","subject": "Women ;Suffrage ;Ontario ;History; Women's Rights ;Ontario", 
+"title": "The opposition to woman suffrage in Ontario, 1872 to 1917.","date": "1987","creator": "Powell, Sheila","subject": " Women ;Suffrage ;Ontario ;History; Women's Rights ;Ontario ", 
 "id": "hist_262"
 
 },{  
-"title": "The Young Womens Christian Association in Canada, 1870--1920: A movement to meet a spiritual, civic and national need","date": "1987","creator": "Pedersen, Diana L.","subject": "History, Canadian; Women's Studies", 
+"title": "The Young Womens Christian Association in Canada, 1870--1920: A movement to meet a spiritual, civic and national need","date": "1987","creator": "Pedersen, Diana L.","subject": "Canadian History; Women's Studies", 
 "id": "hist_263"
 
 },{  
@@ -1055,7 +1055,7 @@ var store = [{
 "id": "hist_264"
 
 },{  
-"title": "In defence of unity: Canadas military policies, 1935 - 1944.","date": "1986","creator": "Hooker, Martha Ann","subject": "Canada ;Military Policy; Canada ;Politics And Government 1935-1957", 
+"title": "In defence of unity: Canadas military policies, 1935 - 1944.","date": "1986","creator": "Hooker, Martha Ann","subject": "Canada;Military Policy;Canada;Politics And Government 1935-1957", 
 "id": "hist_265"
 
 },{  
@@ -1063,7 +1063,7 @@ var store = [{
 "id": "hist_266"
 
 },{  
-"title": "British policy on the Gold Coast 1805-1831.","date": "1986","creator": "Power, David Patrick","subject": "Ghana ;History To 1957Great Britain ;Foreign Relations ;Ghana; Ghana ;Foreign Relations ;Great Britain; Great Britain ;Foreign Relations 1800-1837", 
+"title": "British policy on the Gold Coast 1805-1831.","date": "1986","creator": "Power, David Patrick","subject": "Ghana;History To 1957Great Britain ;Foreign Relations ;Ghana;Ghana;Foreign Relations ;Great Britain ;Great Britain ;Foreign Relations 1800-1837", 
 "id": "hist_267"
 
 },{  
@@ -1071,15 +1071,15 @@ var store = [{
 "id": "hist_268"
 
 },{  
-"title": "The fortunes of war; privateering in Atlantic Canada in the war of 1812.","date": "1986","creator": "Kert, Faye Margaret","subject": "Privateering ;Canada; Canada ;History, Naval 19th Century; United States ;History War Of 1812", 
+"title": "The fortunes of war; privateering in Atlantic Canada in the war of 1812.","date": "1986","creator": "Kert, Faye Margaret","subject": "Privateering ;Canada;Canada;History, Naval 19th Century;United States;History War Of 1812", 
 "id": "hist_269"
 
 },{  
-"title": "Wilfrid Lauriers views on Canadian federalism.","date": "1985","creator": "Harrison, Jane E.","subject": "Laurier, Wilfrid, Sir, 1841-1919Federal Government ;Canada; Canada; British North America Act", 
+"title": "Wilfrid Lauriers views on Canadian federalism.","date": "1985","creator": "Harrison, Jane E.","subject": "Laurier, Wilfrid, Sir, 1841-1919Federal Government ;Canada;Canada; British North America Act", 
 "id": "hist_270"
 
 },{  
-"title": "Worth having at almost any cost; Laurentianism and British capital in Canadian railway policy, 1848-62.","date": "1985","creator": "Walton, John Bruce","subject": "Railroads ;Government Policy ;Canada ;History; Railroads ;Canada ;History; Canada ;History 1841-1867", 
+"title": "Worth having at almost any cost; Laurentianism and British capital in Canadian railway policy, 1848-62.","date": "1985","creator": "Walton, John Bruce","subject": "Railroads ;Government Policy ;Canada;History;Railroads ;Canada;History;Canada;History 1841-1867", 
 "id": "hist_271"
 
 },{  
@@ -1091,31 +1091,31 @@ var store = [{
 "id": "hist_273"
 
 },{  
-"title": "British imperial policy and the Northern Department Indians, 1774-7.","date": "1984","creator": "Robson, John Christian","subject": "United States ;History Revolution, 1775-1783 ;Participation, Indian; United States ;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783", 
+"title": "British imperial policy and the Northern Department Indians, 1774-7.","date": "1984","creator": "Robson, John Christian","subject": "United States;History Revolution, 1775-1783 ;Participation, Indian;United States;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783", 
 "id": "hist_274"
 
 },{  
-"title": "The North Tipperary Protestants in the Canadas : a study of migration, 1815-1880.","date": "1984","creator": "Elliott, Bruce S.","subject": "Protestants ;Ireland ;Tipperary (County)Irish ;Canada ;History", 
+"title": "The North Tipperary Protestants in the Canadas : a study of migration, 1815-1880.","date": "1984","creator": "Elliott, Bruce S.","subject": "Protestants ;Ireland ;Tipperary (County)Irish ;Canada;History", 
 "id": "hist_275"
 
 },{  
-"title": "Literature and society in the Canadas, 1830-1850.","date": "1984","creator": "MacDonald, Mary Lu","subject": "Canadian Literature To 1867 ;History And Criticism; Canadian Literature ;Social Aspects", 
+"title": "Literature and society in the Canadas, 1830-1850.","date": "1984","creator": "MacDonald, Mary Lu","subject": "Canadian Literature To 1867 ;History And Criticism;Canadian literature;Social Aspects", 
 "id": "hist_276"
 
 },{  
-"title": "Indian land cessions in Ontario, 1763-1862: the evolution of a system.","date": "1983","creator": "Surtees, Robert J.","subject": "Indian Land Transfers ;Ontario; Indians Of North America ;Canada ;Government Relations", 
+"title": "Indian land cessions in Ontario, 1763-1862: the evolution of a system.","date": "1983","creator": "Surtees, Robert J.","subject": "Indian Land Transfers ;Ontario ; Indians Of North America ;Canada;Government Relations", 
 "id": "hist_277"
 
 },{  
-"title": "Gaol delivery in Yorkshire 1399-1407.","date": "1983","creator": "Ellis, Karen Elizabeth","subject": "Trials ;England ;Yorkshire; Yorkshire (England) ;History; Crime ;England ;Yorkshire ;History", 
+"title": "Gaol delivery in Yorkshire 1399-1407.","date": "1983","creator": "Ellis, Karen Elizabeth","subject": "Trials ;England ;Yorkshire ; Yorkshire (England) ;History; Crime ;England ;Yorkshire ;History", 
 "id": "hist_278"
 
 },{  
-"title": "Gaol delivery in the southwestern counties 1416-1430.","date": "1983","creator": "Elder, Carol","subject": "Trials ;England; Great Britain ;History To 1485Crime ;England ;History", 
+"title": "Gaol delivery in the southwestern counties 1416-1430.","date": "1983","creator": "Elder, Carol","subject": "Trials ;England ;Great Britain ;History To 1485Crime ;England ;History", 
 "id": "hist_279"
 
 },{  
-"title": "Coal and iron : the impact of railways on the financial history of Nova Scotia, 1849-1867.","date": "1983","creator": "Langhout, Rosemarie","subject": "Railroads ;Nova Scotia; Railroads ;Economic Aspects ;Nova Scotia; Nova Scotia ;History 1784-1867", 
+"title": "Coal and iron : the impact of railways on the financial history of Nova Scotia, 1849-1867.","date": "1983","creator": "Langhout, Rosemarie","subject": "Railroads ;Nova Scotia ;Railroads ;Economic Aspects ;Nova Scotia ;Nova Scotia ;History 1784-1867", 
 "id": "hist_280"
 
 },{  
@@ -1123,11 +1123,11 @@ var store = [{
 "id": "hist_281"
 
 },{  
-"title": "From the St. Lawrence to Lake Superior; Peter Buell Porter, the Anglo-American Joint Commission of 1816-1822 and the charting of the Canadian-American boundary.","date": "1982","creator": "Scheuer, M. F.","subject": "United States ;Boundaries ;Canada; Canada ;Boundaries ;United States; Porter, Peter Buell; Anglo-american Joint Commission (1816-1822)", 
+"title": "From the St. Lawrence to Lake Superior; Peter Buell Porter, the Anglo-American Joint Commission of 1816-1822 and the charting of the Canadian-American boundary.","date": "1982","creator": "Scheuer, M. F.","subject": "United States;Boundaries ;Canada;Canada;Boundaries ;United States; Porter, Peter Buell; Anglo-american Joint Commission (1816-1822)", 
 "id": "hist_282"
 
 },{  
-"title": "The concept of loyalty in Upper Canada 1815-1850.","date": "1982","creator": "Mills, David Clifford","subject": "Allegiance ;Ontario; Ontario ;History 19th Century", 
+"title": "The concept of loyalty in Upper Canada 1815-1850.","date": "1982","creator": "Mills, David Clifford","subject": "Allegiance ;Ontario ;Ontario ;History 19th Century", 
 "id": "hist_283"
 
 },{  
@@ -1139,11 +1139,11 @@ var store = [{
 "id": "hist_285"
 
 },{  
-"title": "Righteousness exalteth the nation: the Toronto Banner and the nineteenth-century evangelical crusade in Upper Canada.","date": "1981","creator": "James, Peter D","subject": "Ontario ;Church History; Ontario ;Religion; Sects ;Ontario", 
+"title": "Righteousness exalteth the nation: the Toronto Banner and the nineteenth-century evangelical crusade in Upper Canada.","date": "1981","creator": "James, Peter D","subject": "Ontario ;Church History;Ontario ;Religion ; Sects ;Ontario ", 
 "id": "hist_286"
 
 },{  
-"title": "Attitudes to social structure and social mobility in Upper Canada (1815-1840).","date": "1981","creator": "Russell, Peter A.","subject": "Social Structure ;Ontario ;History 19th Century; Social Mobility ;Ontario ;History 19th Century", 
+"title": "Attitudes to social structure and social mobility in Upper Canada (1815-1840).","date": "1981","creator": "Russell, Peter A.","subject": "Social structure ;Ontario ;History 19th Century; Social Mobility ;Ontario ;History 19th Century", 
 "id": "hist_287"
 
 },{  
@@ -1151,7 +1151,7 @@ var store = [{
 "id": "hist_288"
 
 },{  
-"title": "A troubled Zion; the Anglican experience in Upper Canada, 1791-1854.","date": "1981","creator": "Fahey, Curtis","subject": "Church Of England ;Ontario ;History; Ontario ;History", 
+"title": "A troubled Zion; the Anglican experience in Upper Canada, 1791-1854.","date": "1981","creator": "Fahey, Curtis","subject": "Church Of England;Ontario ;History;Ontario ;History", 
 "id": "hist_289"
 
 },{  
@@ -1159,7 +1159,7 @@ var store = [{
 "id": "hist_290"
 
 },{  
-"title": "Catholic missionaries as agent of social change among the Metis and Indians of Red River: 1818-1845.","date": "1978","creator": "Gainer, Brenda J.","subject": "Missions ;Manitoba ;Red River Settlement ;History; Catholic Church ;Missions ;History; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement", 
+"title": "Catholic missionaries as agent of social change among the Metis and Indians of Red River: 1818-1845.","date": "1978","creator": "Gainer, Brenda J.","subject": "Missions ;Manitoba ;Red River Settlement;History; Catholic Church ;Missions ;History; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement", 
 "id": "hist_291"
 
 },{  
@@ -1175,11 +1175,11 @@ var store = [{
 "id": "hist_294"
 
 },{  
-"title": "Development of the Upper Canadian philosophy of education, 1791-1841","date": "1977","creator": "Currie, John George","subject": "Education ; Ontario ; History 1791-1841Ontario ; History ; 1791-1841Strachan, John, ; 1778-1867", 
+"title": "Development of the Upper Canadian philosophy of education, 1791-1841","date": "1977","creator": "Currie, John George","subject": "Education ;Ontario ; History 1791-1841Ontario ;History; 1791-1841Strachan, John, ; 1778-1867", 
 "id": "hist_295"
 
 },{  
-"title": "Daily press and the Beauharnois power project, 1928-1933","date": "1977","creator": "Drystek, Henry Frank","subject": "Press ; Canada; Saint Lawrence River ; Power Utilization; Beauharnois Power Corporation", 
+"title": "Daily press and the Beauharnois power project, 1928-1933","date": "1977","creator": "Drystek, Henry Frank","subject": "Press ;Canada; Saint Lawrence River ; Power Utilization; Beauharnois Power Corporation", 
 "id": "hist_296"
 
 },{  
@@ -1191,19 +1191,19 @@ var store = [{
 "id": "hist_298"
 
 },{  
-"title": "Department of Labour and industrial relations, 1900-1911.","date": "1972","creator": "Atherton, James J.","subject": "Canada; Dept; Of Labor; Mediation And Conciliation, Industrial ;Canada; Industrial Relations ;Canada; Canada ;Statistics", 
+"title": "Department of Labour and industrial relations, 1900-1911.","date": "1972","creator": "Atherton, James J.","subject": "Canada; Dept; Of Labor; Mediation And Conciliation, Industrial ;Canada;Industrial relations;Canada;Canada;Statistics", 
 "id": "hist_299"
 
 },{  
-"title": "Canadian response to Joseph Chamberlains tariff reform campaign, 1903-1906.","date": "1972","creator": "Attwell, William George","subject": "Chamberlain, Joseph, 1836-1914Imperial Preference; Canada ;Politics And Government 1896-1911", 
+"title": "Canadian response to Joseph Chamberlains tariff reform campaign, 1903-1906.","date": "1972","creator": "Attwell, William George","subject": "Chamberlain, Joseph, 1836-1914Imperial Preference;Canada;Politics And Government 1896-1911", 
 "id": "hist_300"
 
 },{  
-"title": "The plains Cree: a preliminary trade and military chronology, 1670-1870.","date": "1972","creator": "Milloy, John Sheridan","subject": "Cree Indians ;Commerce; Cree Indians ;Wars; Cree Indians ;Social Life And Customs", 
+"title": "The plains Cree: a preliminary trade and military chronology, 1670-1870.","date": "1972","creator": "Milloy, John Sheridan","subject": " Cree Indians ;Commerce ; Cree Indians ;Wars; Cree Indians ;Social Life And Customs", 
 "id": "hist_301"
 
 },{  
-"title": "The Decline of the Conservative Party (1935-1938).","date": "1971","creator": "Beatty, John M.","subject": "Progressive Conservative Party Of Canada; Canada ;Politics And Government 1935-1957", 
+"title": "The Decline of the Conservative Party (1935-1938).","date": "1971","creator": "Beatty, John M.","subject": "Progressive Conservative Party Of Canada;Canada;Politics And Government 1935-1957", 
 "id": "hist_302"
 
 },{  
@@ -1211,27 +1211,27 @@ var store = [{
 "id": "hist_303"
 
 },{  
-"title": "A majestic story of orderly progress; English Canadian novelists on Canadian society, 1896-1900.","date": "1970","creator": "Beckow, Stephen Mark","subject": "Progress; Canada ;Social Conditions; Canadian Literature 19th Century ;History And Criticism", 
+"title": "A majestic story of orderly progress; English Canadian novelists on Canadian society, 1896-1900.","date": "1970","creator": "Beckow, Stephen Mark","subject": "Progress;Canada;Social Conditions; Canadian Literature 19th Century ;History And Criticism", 
 "id": "hist_304"
 
 },{  
-"title": "British ambassadors in Berlin, 1920-1939; the diplomat as a source of information for the formulation of British policy toward Germany.","date": "1969","creator": "Fairbairn, Garry Lawrence","subject": "Great Britain ;Foreign Relations ;Germany; Great Britain ;Foreign Relations 1910-1936Germany ;Foreign Relations ;Great Britain; Diplomats ;Great Britain", 
+"title": "British ambassadors in Berlin, 1920-1939; the diplomat as a source of information for the formulation of British policy toward Germany.","date": "1969","creator": "Fairbairn, Garry Lawrence","subject": "Great Britain ;Foreign Relations ;Germany ;Great Britain ;Foreign Relations 1910-1936Germany ;Foreign Relations ;Great Britain ; Diplomats ;Great Britain ", 
 "id": "hist_305"
 
 },{  
-"title": "Indian reserve policy in Upper Canada, 1830-1845.","date": "1967","creator": "Surtees, Robert J.","subject": "Indians Of North America ;Canada ;Government Relations; Indian Reservations; Indians, Treatment Of ;Canada", 
+"title": "Indian reserve policy in Upper Canada, 1830-1845.","date": "1967","creator": "Surtees, Robert J.","subject": "First Nations;Canada;Government Relations; Indian Reservations; Indians, Treatment Of ;Canada", 
 "id": "hist_306"
 
 },{  
-"title": "The Canadian white pine trade with the United Kingdom, 1867-1914.","date": "1966","creator": "Cowan, Alan Wood","subject": "Pine ;Commerce; Canada ;Commerce ;Great Britain; Great Britain ;Commerce ;Canada; Canada ;Commerce ;History", 
+"title": "The Canadian white pine trade with the United Kingdom, 1867-1914.","date": "1966","creator": "Cowan, Alan Wood","subject": "Pine ;Commerce ;Canada;Commerce ;Great Britain ;Great Britain ;Commerce ;Canada;Canada;Commerce ;History", 
 "id": "hist_307"
 
 },{  
-"title": "Meighen and the West, 1921-1926; the National Policy revisited.","date": "1966","creator": "Matthews, Elisabeth Ann","subject": "Meighen, Arthur, 1874-1960; Canada ;Politics And Government 1921-1930", 
+"title": "Meighen and the West, 1921-1926; the National Policy revisited.","date": "1966","creator": "Matthews, Elisabeth Ann","subject": "Meighen, Arthur, 1874-1960;Canada;Politics And Government 1921-1930", 
 "id": "hist_308"
 
 },{  
-"title": "The baby family in the trade of Canada, 1750-1820.","date": "1966","creator": "Miquelon, Dale","subject": "Baby Family; Canada ;Commerce ;History", 
+"title": "The baby family in the trade of Canada, 1750-1820.","date": "1966","creator": "Miquelon, Dale","subject": "Baby Family;Canada;Commerce ;History", 
 "id": "hist_309"
 
 },{  
@@ -1243,7 +1243,7 @@ var store = [{
 "id": "hist_311"
 
 },{  
-"title": "Imperial defence; the Canadian response during Joseph Chamberlains tenure of office as Colonial Secretary, 1895-1903.","date": "1965","creator": "Durrans, Peter James","subject": "Great Britain ;Colonies ;Defenses; Canada ;Defenses", 
+"title": "Imperial defence; the Canadian response during Joseph Chamberlains tenure of office as Colonial Secretary, 1895-1903.","date": "1965","creator": "Durrans, Peter James","subject": "Great Britain ;Colonies;Defenses;Canada;Defenses", 
 "id": "hist_312"
 
 },{  
@@ -1251,7 +1251,7 @@ var store = [{
 "id": "hist_313"
 
 },{  
-"title": "British policy and the Ohio Valley, 1754-1774; an exercise in mercantilism.","date": "1964","creator": "Muise, D. A.","subject": "Ohio River Valley ;History To 1795; Great Britain ;Colonies", 
+"title": "British policy and the Ohio Valley, 1754-1774; an exercise in mercantilism.","date": "1964","creator": "Muise, D. A.","subject": "Ohio River Valley ;History To 1795;Great Britain ;Colonies", 
 "id": "hist_314"
 
 },{  
@@ -1259,7 +1259,7 @@ var store = [{
 "id": "hist_315"
 
 },{  
-"title": "Organized labour and the Laurier administration; the fortunes of a pressure group.","date": "1958","creator": "Atkinson, William David","subject": "Canada ;Emigration and immigration; Labor Laws And Legislation ;Canada; Working Class ;Canada", 
+"title": "Organized labour and the Laurier administration; the fortunes of a pressure group.","date": "1958","creator": "Atkinson, William David","subject": "Canada;Emigration and immigration; Labor Laws And Legislation ;Canada; Working Class ;Canada", 
 "id": "hist_316"
 
 }];
