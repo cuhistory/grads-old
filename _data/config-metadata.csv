@@ -2,6 +2,7 @@ field,display_name,browse_link,dc_map,schema_map,external_link
 title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
+degree,Degree Awarded
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,,,contentLocation
