@@ -9,7 +9,7 @@
         <oai:baseURL>http://gateway.institution.org/oai/shawngraham.github.io/test-collectionbuilder/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2022-01-17</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2022-01-18</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_1</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -49,7 +49,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_2</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -73,7 +73,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_3</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -97,7 +97,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_4</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -121,7 +121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_5</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -145,7 +145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_6</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -169,7 +169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_7</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -193,7 +193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_8</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -217,7 +217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_9</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -241,7 +241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_10</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -265,7 +265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_11</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -289,7 +289,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_12</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -313,7 +313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_13</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -337,7 +337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_14</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -361,7 +361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_15</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -385,7 +385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_16</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -409,7 +409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_17</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -433,7 +433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_18</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -457,7 +457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_19</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -481,7 +481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_20</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -505,7 +505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_21</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -529,7 +529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_22</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -553,7 +553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_23</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -577,7 +577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_24</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -601,7 +601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_25</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -625,7 +625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_26</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -649,7 +649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_27</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -673,7 +673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_28</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -697,7 +697,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_29</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -721,7 +721,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_30</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -745,7 +745,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_31</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -769,7 +769,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_32</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -793,7 +793,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_33</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -817,7 +817,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_34</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -841,7 +841,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_35</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -865,7 +865,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_36</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -889,7 +889,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_37</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -913,7 +913,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_38</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -937,7 +937,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_39</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -961,7 +961,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_40</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -985,7 +985,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_41</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1009,7 +1009,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_42</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1033,7 +1033,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_43</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1057,7 +1057,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_44</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1081,7 +1081,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_45</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1105,7 +1105,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_46</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1129,7 +1129,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_47</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1153,7 +1153,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_48</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1177,7 +1177,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_49</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1201,7 +1201,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_50</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1225,7 +1225,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_51</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1249,7 +1249,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_52</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1273,7 +1273,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_53</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1297,7 +1297,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_54</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1321,7 +1321,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_55</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1345,7 +1345,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_56</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1369,7 +1369,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_57</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1393,7 +1393,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_58</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1417,7 +1417,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_59</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1441,7 +1441,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_60</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1465,7 +1465,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_61</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1489,7 +1489,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_62</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1513,7 +1513,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_63</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1537,7 +1537,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_64</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1561,7 +1561,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_65</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1585,7 +1585,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_66</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1609,7 +1609,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_67</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1633,7 +1633,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_68</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1657,7 +1657,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_69</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1681,7 +1681,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_70</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1705,7 +1705,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_71</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1729,7 +1729,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_72</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1753,7 +1753,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_73</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1777,7 +1777,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_74</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1801,7 +1801,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_75</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1825,7 +1825,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_76</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1849,7 +1849,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_77</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1873,7 +1873,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_78</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1897,7 +1897,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_79</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1921,7 +1921,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_80</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1945,7 +1945,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_81</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1969,7 +1969,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_82</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1993,7 +1993,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_83</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2017,7 +2017,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_84</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2041,7 +2041,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_85</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2065,7 +2065,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_86</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2089,7 +2089,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_87</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2113,7 +2113,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_88</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2137,7 +2137,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_89</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2161,7 +2161,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_90</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2185,7 +2185,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_91</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2209,7 +2209,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_92</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2233,7 +2233,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_93</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2257,7 +2257,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_94</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2281,7 +2281,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_95</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2305,7 +2305,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_96</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2329,7 +2329,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_97</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2353,7 +2353,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_98</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2377,7 +2377,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_99</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2401,7 +2401,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_100</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2425,7 +2425,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_101</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2449,7 +2449,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_102</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2473,7 +2473,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_103</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2497,7 +2497,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_104</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2521,7 +2521,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_105</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2545,7 +2545,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_106</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2569,7 +2569,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_107</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2593,7 +2593,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_108</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2617,7 +2617,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_109</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2641,7 +2641,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_110</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2665,7 +2665,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_111</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2689,7 +2689,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_112</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2713,7 +2713,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_113</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2737,7 +2737,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_114</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2761,7 +2761,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_115</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2785,7 +2785,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_116</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2809,7 +2809,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_117</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2833,7 +2833,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_118</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2857,7 +2857,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_119</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2881,7 +2881,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_120</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2905,7 +2905,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_121</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2929,7 +2929,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_122</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2953,7 +2953,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_123</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2977,7 +2977,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_124</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3001,7 +3001,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_125</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3025,7 +3025,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_126</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3049,7 +3049,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_127</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3073,7 +3073,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_128</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3097,7 +3097,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_129</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3121,7 +3121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_130</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3145,7 +3145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_131</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3169,7 +3169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_132</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3193,7 +3193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_133</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3217,7 +3217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_134</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3241,7 +3241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_135</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3265,7 +3265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_136</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3289,7 +3289,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_137</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3313,7 +3313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_138</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3337,7 +3337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_139</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3361,7 +3361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_140</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3385,7 +3385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_141</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3409,7 +3409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_142</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3433,7 +3433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_143</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3457,7 +3457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_144</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3481,7 +3481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_145</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3505,7 +3505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_146</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3529,7 +3529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_147</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3553,7 +3553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_148</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3577,7 +3577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_149</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3601,7 +3601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_150</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3625,7 +3625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_151</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3649,7 +3649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_152</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3673,7 +3673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_153</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3697,7 +3697,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_154</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3721,7 +3721,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_155</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3745,7 +3745,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_156</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3769,7 +3769,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_157</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3793,7 +3793,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_158</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3817,7 +3817,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_159</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3841,7 +3841,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_160</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3865,7 +3865,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_161</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3889,7 +3889,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_162</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3913,7 +3913,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_163</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3937,7 +3937,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_164</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3961,7 +3961,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_165</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3985,7 +3985,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_166</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4009,7 +4009,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_167</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4033,7 +4033,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_168</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4057,7 +4057,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_169</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4081,7 +4081,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_170</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4105,7 +4105,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_171</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4129,7 +4129,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_172</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4153,7 +4153,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_173</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4177,7 +4177,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_174</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4201,7 +4201,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_175</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4225,7 +4225,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_176</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4249,7 +4249,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_177</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4273,7 +4273,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_178</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4297,7 +4297,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_179</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4321,7 +4321,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_180</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4345,7 +4345,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_181</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4369,7 +4369,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_182</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4393,7 +4393,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_183</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4417,7 +4417,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_184</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4441,7 +4441,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_185</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4465,7 +4465,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_186</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4489,7 +4489,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_187</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4513,7 +4513,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_188</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4537,7 +4537,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_189</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4561,7 +4561,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_190</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4585,7 +4585,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_191</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4609,7 +4609,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_192</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4633,7 +4633,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_193</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4657,7 +4657,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_194</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4681,7 +4681,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_195</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4705,7 +4705,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_196</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4729,7 +4729,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_197</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4753,7 +4753,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_198</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4777,7 +4777,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_199</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4801,7 +4801,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_200</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4825,7 +4825,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_201</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4849,7 +4849,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_202</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4873,7 +4873,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_203</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4897,7 +4897,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_204</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4921,7 +4921,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_205</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4945,7 +4945,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_206</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4969,7 +4969,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_207</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4993,7 +4993,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_208</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5017,7 +5017,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_209</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5041,7 +5041,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_210</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5065,7 +5065,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_211</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5089,7 +5089,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_212</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5113,7 +5113,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_213</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5137,7 +5137,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_214</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5161,7 +5161,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_215</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5185,7 +5185,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_216</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5209,7 +5209,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_217</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5233,7 +5233,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_218</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5257,7 +5257,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_219</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5281,7 +5281,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_220</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5305,7 +5305,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_221</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5329,7 +5329,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_222</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5353,7 +5353,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_223</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5377,7 +5377,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_224</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5401,7 +5401,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_225</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5425,7 +5425,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_226</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5449,7 +5449,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_227</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5473,7 +5473,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_228</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5497,7 +5497,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_229</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5521,7 +5521,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_230</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5545,7 +5545,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_231</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5569,7 +5569,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_232</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5593,7 +5593,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_233</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5617,7 +5617,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_234</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5641,7 +5641,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_235</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5665,7 +5665,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_236</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5689,7 +5689,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_237</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5713,7 +5713,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_238</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5737,7 +5737,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_239</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5761,7 +5761,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_240</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5785,7 +5785,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_241</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5809,7 +5809,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_242</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5833,7 +5833,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_243</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5857,7 +5857,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_244</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5881,7 +5881,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_245</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5905,7 +5905,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_246</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5929,7 +5929,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_247</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5953,7 +5953,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_248</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5977,7 +5977,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_249</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6001,7 +6001,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_250</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6025,7 +6025,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_251</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6049,7 +6049,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_252</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6073,7 +6073,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_253</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6097,7 +6097,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_254</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6121,7 +6121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_255</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6145,7 +6145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_256</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6169,7 +6169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_257</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6193,7 +6193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_258</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6217,7 +6217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_259</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6241,7 +6241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_260</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6265,7 +6265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_261</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6289,7 +6289,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_262</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6313,7 +6313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_263</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6337,7 +6337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_264</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6361,7 +6361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_265</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6385,7 +6385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_266</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6409,7 +6409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_267</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6433,7 +6433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_268</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6457,7 +6457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_269</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6481,7 +6481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_270</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6505,7 +6505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_271</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6529,7 +6529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_272</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6553,7 +6553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_273</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6577,7 +6577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_274</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6601,7 +6601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_275</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6625,7 +6625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_276</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6649,7 +6649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_277</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6673,7 +6673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_278</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6697,7 +6697,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_279</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6721,7 +6721,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_280</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6745,7 +6745,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_281</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6769,7 +6769,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_282</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6793,7 +6793,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_283</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6817,7 +6817,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_284</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6841,7 +6841,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_285</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6865,7 +6865,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_286</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6889,7 +6889,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_287</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6913,7 +6913,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_288</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6937,7 +6937,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_289</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6961,7 +6961,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_290</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6985,7 +6985,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_291</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7009,7 +7009,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_292</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7033,7 +7033,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_293</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7057,7 +7057,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_294</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7081,7 +7081,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_295</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7105,7 +7105,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_296</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7129,7 +7129,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_297</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7153,7 +7153,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_298</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7177,7 +7177,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_299</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7201,7 +7201,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_300</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7225,7 +7225,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_301</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7249,7 +7249,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_302</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7273,7 +7273,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_303</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7297,7 +7297,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_304</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7321,7 +7321,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_305</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7345,7 +7345,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_306</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7369,7 +7369,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_307</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7393,7 +7393,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_308</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7417,7 +7417,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_309</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7441,7 +7441,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_310</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7465,7 +7465,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_311</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7489,7 +7489,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_312</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7513,7 +7513,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_313</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7537,7 +7537,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_314</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7561,7 +7561,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_315</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7585,7 +7585,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/hist_316</oai:identifier> 
-                <oai:datestamp>2022-01-17</oai:datestamp>
+                <oai:datestamp>2022-01-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
