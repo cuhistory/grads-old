@@ -8,9 +8,11 @@
         "url": "https://carleton.ca/history", 
         "logo": "https://cu-production.s3.amazonaws.com/theme-admissions-2020/assets/img/cu-white-outlined-21.svg" 
     },
-    "date_start": "",
-    "date_end": "",
+    "date_start": "1958",
+    "date_end": "2021",
     "objects": {
+        "application/pdf": "316",
+        "image/jpeg": "1"
         
     },
     "data": "https://shawngraham.github.io/test-collectionbuilder/assets/data/datapackage.json",
