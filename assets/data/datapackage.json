@@ -103,14 +103,6 @@
             "profile": "data-resource"
         },
         
-        {
-            "name": "geodata-json",
-            "path": "geodata.json",
-            "title": "Graduate Degree Research Showcase geographic metadata",
-            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
-            "format":"json",
-            "profile": "data-resource"
-        },
         
         {
             "name": "timeline-json",
