@@ -8,15 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/jumbotron.html objectid="https://carleton.ca/history/wp-content/uploads/Capture0026-7-2-768x511.jpg" %} 
 
 ## About This Showcase
 
 Graduate student MA and PhD theses are collected by the University and deposited in an institutional repository. Major research essays, and major research projects are not. MREs and MRPs are, more and more each year, also accompanied by substantial digital projects. These will be gathered here as well. This is a project of the Department of History's Communications Committee.
 
+## Themes in Student Research
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+There will be a short essay here looking at themes in student research over the years since 1958, the earliest thesis in the collection.
+
+![Visualization of Topics in the last decade's worth of theses](objects/thesis-15-topics)
+
+
 
 
