@@ -83,6 +83,7 @@
     { "subject" : "manitoba", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#manitoba" },
     { "subject" : "red river settlement", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#red%20river%20settlement" },
     { "subject" : "theater", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#theater" },
+    { "subject" : "public history", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
     { "subject" : "russian and soviet", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#russian%20and%20soviet" },
     { "subject" : "cultural anthropology", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#cultural%20anthropology" },
     { "subject" : "journalism", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#journalism" },
@@ -151,7 +152,6 @@
     { "subject" : "industry", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#industry" },
     { "subject" : "black history", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#black%20history" },
     { "subject" : "rhetoric and composition", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#rhetoric%20and%20composition" },
-    { "subject" : "public history", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
     { "subject" : "design and decorative arts", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#design%20and%20decorative%20arts" },
     { "subject" : "literature - medieval", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#literature%20-%20medieval" },
     { "subject" : "international law and relations", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#international%20law%20and%20relations" },
@@ -582,5 +582,7 @@
     { "subject" : "social", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#social" },
     { "subject" : "sonification", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#sonification" },
     { "subject" : "environment", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#environment" },
-    { "subject" : "ottawa river", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#ottawa%20river" }
+    { "subject" : "ottawa river", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#ottawa%20river" },
+    { "subject" : "text analysis", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#text%20analysis" },
+    { "subject" : "historiography", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#historiography" }
 ]}

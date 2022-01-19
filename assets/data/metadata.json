@@ -367,7 +367,7 @@
         "degree": "Master of Arts",
         "thesis_url": "https://curve.carleton.ca/a86ce0fb-ad0e-40ff-b278-85139d954e27",
         "description": "This thesis focuses on the \"Four Wars of 1812,\" or simply 1812, exhibit produced by the Canadian War Museum (CWM) in Ottawa, open to the general public from 13 June 2012 to 6 January 2013. An investigation of museum documents, academic literature and news media, viewer feedback, and interviews with museum staff involved with the project has been conducted. Examined here are exhibit development, approach, and content, as well as public responses to the exhibit, government policy, museum practice, and a national conversation about war and peace in the context of the Bicentennial of the War of 1812. The thesis concludes that the CWM successfully walked a tightrope, aware of but avoiding politics and controversy while appealing to a wide audience and fulfilling the museum's responsibilities to stakeholders and scholarship.",
-        "location": "Canada;Ottawa;Canadian War Museum",
+        "location": "Canada;Ottawa;Canada War Museum",
         "object_location": "https://curve.carleton.ca/system/files/etd/a86ce0fb-ad0e-40ff-b278-85139d954e27/etd_pdf/297e38511a95f515c88f665fc25cb332/lamancusa-thecanadianwarmuseums1812aquestionofperspective.pdf",
         "subject": "Canadian History",
         "format": "application/pdf",
@@ -6319,7 +6319,7 @@
         "reference_url": "https://cuhistory.github.io/grads/items/hist_317.html"
     },
     { 
-        "objectid": "hist_381",
+        "objectid": "hist_318",
         "title": "Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980",
         "display_template": "record",
         "creator": "Wood, Cristina",
@@ -6336,7 +6336,27 @@
         "image_small": "/objects/wood-songs.png",
         
         "object_location": "http://songsoftheottawa.ca/content/CW%20MRE%20May%2014.pdf",
-        "reference_url": "https://cuhistory.github.io/grads/items/hist_381.html"
+        "reference_url": "https://cuhistory.github.io/grads/items/hist_318.html"
+    },
+    { 
+        "objectid": "hist_319",
+        "title": "Viewing Public History Through the Historian's Macroscope",
+        
+        "creator": "Victoria Hawco",
+        "date": "2021",
+        "degree": "Master of Arts - Public History with Digital Humanities Specialization",
+        "thesis_url": "https://victoriahawco.gitbook.io/carleton-mrp/",
+        "description": "This essay and contextual website (https://victoriahawco.gitbook.io/carleton-mrp/) will present a historiographical data-driven analysis of “public history”, as understood through a distant read of the entire The Public Historian corpus, the major journal for the field. This journal is instrumental for defining the field and showing how its goals may have changed over time. By using large-scale computational text analysis, I can trace how public history has evolved. In particular, I have identified that the journal’s early publications discussed training historians for the workplace. Secondarily, public history sought to reconcile the differences between community historians and the history of the academy. By analyzing the entire corpus of the journal The Public Historian with large-scale computational text analysis I can demonstrate that there are two periods in the field’s history which reflect those separate goals, with the earlier three decades reflecting the employment directive, and the latter two reflecting a change in focus.",
+        "location": "Canada;US",
+        "object_location": "https://victoriahawco.gitbook.io/carleton-mrp/",
+        "subject": "Public History;Text Analysis;Historiography",
+        "format": "image/jpeg",
+        "rights": "Copyright the author, all rights reserved, unless otherwise indicated.",
+        "website": "https://web.archive.org/web/20210303162601/https://victoriahawco.gitbook.io/carleton-mrp/",
+        "image_small": "/objects/hawco-macro.png",
+        
+        "object_location": "https://victoriahawco.gitbook.io/carleton-mrp/",
+        "reference_url": "https://cuhistory.github.io/grads/items/hist_319.html"
     }
     
 ] }

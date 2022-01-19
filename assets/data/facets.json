@@ -87,6 +87,7 @@
                 "manitoba": 3,
                 "red river settlement": 3,
                 "theater": 2,
+                "public history": 2,
                 "russian and soviet": 2,
                 "cultural anthropology": 2,
                 "journalism": 2,
@@ -155,7 +156,6 @@
                 "industry": 2,
                 "black history": 1,
                 "rhetoric and composition": 1,
-                "public history": 1,
                 "design and decorative arts": 1,
                 "literature - medieval": 1,
                 "international law and relations": 1,
@@ -586,7 +586,9 @@
                 "social": 1,
                 "sonification": 1,
                 "environment": 1,
-                "ottawa river": 1
+                "ottawa river": 1,
+                "text analysis": 1,
+                "historiography": 1
             }
         },
         {
@@ -896,14 +898,15 @@
                 "regehr, t. d.": 1,
                 "atkinson, william david": 1,
                 "blades, rob": 1,
-                "wood, cristina": 1
+                "wood, cristina": 1,
+                "victoria hawco": 1
             }
         },
         {
             "field": "format",
             "terms": { 
                 "application/pdf": 315,
-                "image/jpeg": 2
+                "image/jpeg": 3
             }
         },
         {
@@ -911,8 +914,8 @@
             "terms": { 
                 "master of arts": 220,
                 "doctor of philosophy": 95,
-                "master of arts - public history": 1,
-                "master of arts - public history with digital humanities specialization": 1
+                "master of arts - public history with digital humanities specialization": 2,
+                "master of arts - public history": 1
             }
         }
         

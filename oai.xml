@@ -7608,7 +7608,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:cuhistory.github.io:grads/hist_381</oai:identifier> 
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_318</oai:identifier> 
                 <oai:datestamp>2022-01-19</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -7624,8 +7624,32 @@
                     <dc:type></dc:type>
                     <dc:rights></dc:rights>
                     <dc:description>&quot;Songs of the Ottawa&quot; is an experiment in the digital data sonification of the Ottawa River’s pasts. This study examines a stretch of river extending from below the Chaudière, Akikodjiwan, or Kana:tso Falls, past the points of confluence with three important waterways – the man-made locks at the Rideau Canal, the tumbling Rideau River falls and the low-lying delta of the Gatineau – to the sandy Kettle and Duck Islands. &quot;Sonifying&quot; the history of the river means to express history to achieve a particular sensual engagement with the past. Sonification is the &quot;visualization&quot; of historical data auditorially, to achieve a particular sensory affect. This project asks readers and listeners to hear uncanny, affective pasts and consider the ways in which storytellers can &quot;de- form&quot; and &quot;re-form&quot; data and sources. The three &quot;songs of the Ottawa&quot; offer a way into the stories of the river’s flows, of commerce and industry extending up and downstream, and of recreation on the water and shores.</dc:description>
-                    <dc:identifier>hist_381</dc:identifier>
-                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_381.html</dc:identifier>
+                    <dc:identifier>hist_318</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_318.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_319</oai:identifier> 
+                <oai:datestamp>2022-01-19</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Viewing Public History Through the Historian's Macroscope</dc:title>
+                    <dc:creator>Victoria Hawco</dc:creator>
+                    <dc:date>2021</dc:date><dc:subject>Public History;Text Analysis;Historiography</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>This essay and contextual website (https://victoriahawco.gitbook.io/carleton-mrp/) will present a historiographical data-driven analysis of “public history”, as understood through a distant read of the entire The Public Historian corpus, the major journal for the field. This journal is instrumental for defining the field and showing how its goals may have changed over time. By using large-scale computational text analysis, I can trace how public history has evolved. In particular, I have identified that the journal’s early publications discussed training historians for the workplace. Secondarily, public history sought to reconcile the differences between community historians and the history of the academy. By analyzing the entire corpus of the journal The Public Historian with large-scale computational text analysis I can demonstrate that there are two periods in the field’s history which reflect those separate goals, with the earlier three decades reflecting the employment directive, and the latter two reflecting a change in focus.</dc:description>
+                    <dc:identifier>hist_319</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_319.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>

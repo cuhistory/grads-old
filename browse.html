@@ -259,7 +259,7 @@ var items = [
     { "date":"2020","creator":"Chiarello, Michael Cesare","subject":"Canadian History","location":"Canada","template": "pdf","format": "application/pdf","title":"The Course and Canon of Left Nationalism in English Canada, 1968-1979", "id":"hist_16" },
     { "date":"2020","creator":"Breault, Meagan Lise","subject":"European History","location":"Germany","template": "pdf","format": "application/pdf","title":"A Family&#39;s Role: Kindereuthanasie and Familial Emotions Under National Socialism", "id":"hist_17" },
     { "date":"2020","creator":"Chironda, Andriata","subject":"Canadian History; International Law and Relations;African History","location":"Canada;Africa","template": "pdf","format": "application/pdf","title":"Narrators, Navigators and Negotiators: Foreign Service Officer Life Stories from Canadas Africa Refugee Resettlement Program, 1970 to 1990", "id":"hist_18" },
-    { "date":"2019","creator":"Lamancusa, Philip Michael","subject":"Canadian History","location":"Canada;Ottawa;Canadian War Museum","template": "pdf","format": "application/pdf","title":"The Canadian War Museums 1812: A Question of Perspective", "id":"hist_19" },
+    { "date":"2019","creator":"Lamancusa, Philip Michael","subject":"Canadian History","location":"Canada;Ottawa;Canada War Museum","template": "pdf","format": "application/pdf","title":"The Canadian War Museums 1812: A Question of Perspective", "id":"hist_19" },
     { "date":"2019","creator":"Peirce, Hollis Jack Beaumont","subject":"Canadian History","location":"Canada;Ottawa;Carleton University","template": "pdf","format": "application/pdf","title":"Academic Accessibility : $$b A Case Study of Carleton University from a Physically Disabled Perspective, 1942 - 2019", "id":"hist_20" },
     { "date":"2019","creator":"MacKay, James Allan Stuart","subject":"United States History","location":"US;Maryland;Kentucky;Missouri","template": "pdf","format": "application/pdf","title":"Southern Heretics: The Republican Party in the Border South During the Civil War Era", "id":"hist_21" },
     { "date":"2019","creator":"Carvell, Nancy Ann","subject":"Canadian History; Military; Modern","location":"Canada;Quebec;New Brunswick","template": "pdf","format": "application/pdf","title":"A People Apart: New Brunswick Acadians, Conscription, and the Second World War", "id":"hist_22" },
@@ -557,7 +557,8 @@ var items = [
     { "date":"1963","creator":"Regehr, T. D.","subject":"not yet catalogued","location":"tbd","template": "pdf","format": "application/pdf","title":"The National policy and Manitoba railway legislation, 1879-1888.", "id":"hist_315" },
     { "date":"1958","creator":"Atkinson, William David","subject":"Canada;Emigration and immigration; Labor Laws And Legislation ;Canada; Working Class ;Canada","location":"tbd","template": "pdf","format": "application/pdf","title":"Organized labour and the Laurier administration; the fortunes of a pressure group.", "id":"hist_316" },
     { "date":"2016","creator":"Blades, Rob","subject":"Industry; Social","location":"Canada;Pembroke","template": "record","format": "image/jpeg","title":"Pembroke Soundscapes", "id":"hist_317" },
-    { "date":"2019","creator":"Wood, Cristina","subject":"Industry; Sonification; Environment; Ottawa River; Ottawa","location":"Canada;Ottawa","template": "record","format": "image/jpeg","title":"Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980", "id":"hist_381" }];
+    { "date":"2019","creator":"Wood, Cristina","subject":"Industry; Sonification; Environment; Ottawa River; Ottawa","location":"Canada;Ottawa","template": "record","format": "image/jpeg","title":"Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980", "id":"hist_318" },
+    { "date":"2021","creator":"Victoria Hawco","subject":"Public History;Text Analysis;Historiography","location":"Canada;US","format": "image/jpeg","title":"Viewing Public History Through the Historian&#39;s Macroscope", "id":"hist_319" }];
 
 /* 
     get a theme icon based on display_template or format 
@@ -705,7 +706,7 @@ function filterItems(arr,q) {
         }
     }
     // add number 
-    $("#numberOf").html(filteredItems.length + " of 317 items");
+    $("#numberOf").html(filteredItems.length + " of 318 items");
 
     // add stuff, make cards first in giant var, then add all at once to speed things up
     var cards = "";
