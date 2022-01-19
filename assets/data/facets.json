@@ -903,6 +903,15 @@
                 "application/pdf": 315,
                 "image/jpeg": 2
             }
+        },
+        {
+            "field": "degree",
+            "terms": { 
+                "master of arts": 220,
+                "doctor of philosophy": 95,
+                "master of arts - public history": 1,
+                "master of arts - public history with digital humanities specialization": 1
+            }
         }
         
     ]
