@@ -1047,7 +1047,7 @@ var store = [{
 "id": "hist_263"
 
 },{  
-"title": "Canadas righteous : a history of the Canadian National Committee on Refugees and Victims of Political Persecution","date": "1987","creator": "Craft, Kenneth","description": "By 1938 a small group of Canadians were aware that Germany's Nazi regime was following a policy of expelling Jews. In the years leading up to the Second World War the League of Nations Society in Canada sought to aid these refugees. In late 1938 they realized they could no longer assist refugees and fulfill their other humanitarian obligations. In October 1938 the League of Nations Society in Canada executive voted to create a Canadian National Committee on Refugees and Victims of Political Persecution (CNCR).","subject": "not yet catalogued","location": "tbd", 
+"title": "Canada's righteous : a history of the Canadian National Committee on Refugees and Victims of Political Persecution","date": "1987","creator": "Craft, Kenneth","description": "By 1938 a small group of Canadians were aware that Germany's Nazi regime was following a policy of expelling Jews. In the years leading up to the Second World War the League of Nations Society in Canada sought to aid these refugees. In late 1938 they realized they could no longer assist refugees and fulfill their other humanitarian obligations. In October 1938 the League of Nations Society in Canada executive voted to create a Canadian National Committee on Refugees and Victims of Political Persecution (CNCR).","subject": "not yet catalogued","location": "tbd", 
 "id": "hist_264"
 
 },{  
@@ -1087,7 +1087,7 @@ var store = [{
 "id": "hist_273"
 
 },{  
-"title": "First Nations;Canada;Government Relations; Indian Reservations; First Nations Treatment Of ;Canada","date": "1984","creator": "Robson, John Christian","description": "not available","subject": "United States;History Revolution, 1775-1783 ;Participation, Indian;United States;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783","location": "tbd", 
+"title": "British imperial policy and the Northern Department Indians, 1774-7","date": "1984","creator": "Robson, John Christian","description": "not available","subject": "United States;History Revolution, 1775-1783 ;Participation, Indian;United States;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783","location": "tbd", 
 "id": "hist_274"
 
 },{  
@@ -1155,7 +1155,7 @@ var store = [{
 "id": "hist_290"
 
 },{  
-"title": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts.","date": "1978","creator": "Gainer, Brenda J.","description": "not available","subject": "Missions ;Manitoba ;Red River Settlement;History; Catholic Church ;Missions ;History; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement","location": "tbd", 
+"title": "The Catholic Missionaries as Agents of Social Change Among the Metis and Indians of Red River 1818-1845","date": "1978","creator": "Gainer, Brenda J.","description": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts.","subject": "Missions ;Manitoba ;Red River Settlement;History; Catholic Church ;Missions ;History; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement","location": "tbd", 
 "id": "hist_291"
 
 },{  
