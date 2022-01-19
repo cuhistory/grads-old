@@ -5,7 +5,7 @@
             "terms": { 
                 "canada": 153,
                 "history": 138,
-                "not yet catalogued": 54,
+                "not yet catalogued": 53,
                 "canadian history": 45,
                 "ontario": 32,
                 "great britain": 25,
@@ -91,7 +91,6 @@
                 "cultural anthropology": 2,
                 "journalism": 2,
                 "literature": 2,
-                "philosophy": 2,
                 "law": 2,
                 "industrial relations": 2,
                 "canadian literature": 2,
@@ -171,6 +170,7 @@
                 "literature - latin american": 1,
                 "urban and regional planning": 1,
                 "criminology and penology": 1,
+                "philosophy": 1,
                 "finance": 1,
                 "rhetoric": 1,
                 "social sciences canadian": 1,
@@ -180,7 +180,6 @@
                 "geography": 1,
                 "canadian studies": 1,
                 "middle eastern history": 1,
-                "political science": 1,
                 "united kingdom": 1,
                 "prisoners and prisons": 1,
                 "latin american": 1,
@@ -306,6 +305,9 @@
                 "gender identity": 1,
                 "sex role": 1,
                 "sex role in mass media": 1,
+                "industrial development": 1,
+                "rubber": 1,
+                "world war 1939-1945": 1,
                 "weights and measures": 1,
                 "historygreat britain": 1,
                 "politics and government 18th century": 1,
@@ -346,7 +348,8 @@
                 "bank of canada": 1,
                 "dougall, lily, 1858-1923": 1,
                 "criticism and interpretation": 1,
-                "liberalism (religion)feminist theology": 1,
+                "liberalism (religion)": 1,
+                "feminist theology": 1,
                 "trench warfare": 1,
                 "canada, northern": 1,
                 "transportation, military": 1,
@@ -678,7 +681,6 @@
                 "koonar, catherine irene": 1,
                 "nolan, christopher john": 1,
                 "rayfuse, patrick bruce": 1,
-                "calin, ady stefan": 1,
                 "wielusiewicz, david alexander": 1,
                 "gann, emily": 1,
                 "parsons, christina margaret": 1,
@@ -898,7 +900,7 @@
         {
             "field": "format",
             "terms": { 
-                "application/pdf": 316,
+                "application/pdf": 315,
                 "image/jpeg": 2
             }
         }
