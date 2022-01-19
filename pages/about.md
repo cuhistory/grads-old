@@ -18,7 +18,7 @@ Graduate student MA and PhD theses are collected by the University and deposited
 
 There will be a short essay here looking at themes in student research over the years since 1958, the earliest thesis in the collection.
 
-![Visualization of Topics in the last decade's worth of theses](objects/thesis-15-topics)
+![Visualization of Topics in the last decade's worth of theses](objects/thesis-15-topics.png)
 
 
 
