@@ -5,7 +5,7 @@
     { "subject" : "canadian history", "count" : 45, "link" : "https://cuhistory.github.io/grads/browse.html#canadian%20history" },
     { "subject" : "ontario", "count" : 33, "link" : "https://cuhistory.github.io/grads/browse.html#ontario" },
     { "subject" : "great britain", "count" : 25, "link" : "https://cuhistory.github.io/grads/browse.html#great%20britain" },
-    { "subject" : "public history", "count" : 18, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
+    { "subject" : "public history", "count" : 19, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
     { "subject" : "european history", "count" : 17, "link" : "https://cuhistory.github.io/grads/browse.html#european%20history" },
     { "subject" : "foreign relations", "count" : 13, "link" : "https://cuhistory.github.io/grads/browse.html#foreign%20relations" },
     { "subject" : "world war, 1939-1945", "count" : 12, "link" : "https://cuhistory.github.io/grads/browse.html#world%20war,%201939-1945" },
@@ -142,6 +142,7 @@
     { "subject" : "frontier and pioneer life", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#frontier%20and%20pioneer%20life" },
     { "subject" : "yukon", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#yukon" },
     { "subject" : "economic conditions", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#economic%20conditions" },
+    { "subject" : "united empire loyalists", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#united%20empire%20loyalists" },
     { "subject" : "maritime provinces", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#maritime%20provinces" },
     { "subject" : "politics and government 1867-", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#politics%20and%20government%201867-" },
     { "subject" : "russia", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#russia" },
@@ -458,7 +459,6 @@
     { "subject" : "dutches county (n", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#dutches%20county%20(n" },
     { "subject" : "y", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#y" },
     { "subject" : "society of friends", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#society%20of%20friends" },
-    { "subject" : "united empire loyalists", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#united%20empire%20loyalists" },
     { "subject" : "busy east", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#busy%20east" },
     { "subject" : "canadian federation of university women", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#canadian%20federation%20of%20university%20women" },
     { "subject" : "women college graduates", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#women%20college%20graduates" },
@@ -633,5 +633,9 @@
     { "subject" : "representation", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#representation" },
     { "subject" : "interpretation", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#interpretation" },
     { "subject" : "design", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#design" },
-    { "subject" : "historical empathy", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#historical%20empathy" }
+    { "subject" : "historical empathy", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#historical%20empathy" },
+    { "subject" : "commemoration", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#commemoration" },
+    { "subject" : "social network analysis", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#social%20network%20analysis" },
+    { "subject" : "imperial order daughters of the empire", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#imperial%20order%20daughters%20of%20the%20empire" },
+    { "subject" : "isaac brock", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#isaac%20brock" }
 ]}

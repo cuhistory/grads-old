@@ -1,5 +1,5 @@
 { "locations": [
-    { "location" : "canada", "count" : 133, "link" : "https://cuhistory.github.io/grads/browse.html#canada" },
+    { "location" : "canada", "count" : 134, "link" : "https://cuhistory.github.io/grads/browse.html#canada" },
     { "location" : "tbd", "count" : 130, "link" : "https://cuhistory.github.io/grads/browse.html#tbd" },
     { "location" : "britain", "count" : 20, "link" : "https://cuhistory.github.io/grads/browse.html#britain" },
     { "location" : "us", "count" : 19, "link" : "https://cuhistory.github.io/grads/browse.html#us" },
@@ -101,5 +101,7 @@
     { "location" : "georgian bay", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#georgian%20bay" },
     { "location" : "canadian museum of civilization", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#canadian%20museum%20of%20civilization" },
     { "location" : "chile", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#chile" },
-    { "location" : "world wide web", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#world%20wide%20web" }
+    { "location" : "world wide web", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#world%20wide%20web" },
+    { "location" : "brockville", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#brockville" },
+    { "location" : "niagara", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#niagara" }
 ]}

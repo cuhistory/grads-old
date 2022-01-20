@@ -8134,5 +8134,29 @@
             </oai:metadata>
         </oai:record>
         
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_340</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Networks of Commemoration: Gender, Class, and the Remembrance of General Brock, 1898-192</dc:title>
+                    <dc:creator>Holdsworth, Peter William</dc:creator>
+                    <dc:date>2013</dc:date><dc:subject>Commemoration;Social Network Analysis;Public History;United Empire Loyalists;Imperial Order Daughters of the Empire;Isaac Brock</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>On 19 August1912, the General Brock Chapter of the Imperial Order Daughters of The Empire unveiled a monument to General Sir Isaac Brock in the town of Brockville, Ontario.  This monument represented just part of the efforts of a network of upper-class Anglo-Saxon women from the IODE, United Empire Loyalists of Ontario, and Ontario Historical Society to celebrate the centenary of the War of 1812 as the “Brock Centenary.”  The context of the rise of the “Brock Centenary” is investigated here by applying social network theory to historical memory studies,re-interpreting historical evidence from 1898 to 1912.  An analysis of membership lists both reaffirms some previous arguments and points to promising avenues of inquiry regarding the importance and influence of the groups and women involved.  While focusing on the Brock Centenary, this study also suggests further use of social network analysis for historical memory studies and heritage organizations</dc:description>
+                    <dc:identifier>hist_340</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_340.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
     </ListRecords>
 </Repository>

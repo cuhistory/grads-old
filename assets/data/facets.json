@@ -9,7 +9,7 @@
                 "canadian history": 45,
                 "ontario": 33,
                 "great britain": 25,
-                "public history": 18,
+                "public history": 19,
                 "european history": 17,
                 "foreign relations": 13,
                 "world war, 1939-1945": 12,
@@ -146,6 +146,7 @@
                 "frontier and pioneer life": 2,
                 "yukon": 2,
                 "economic conditions": 2,
+                "united empire loyalists": 2,
                 "maritime provinces": 2,
                 "politics and government 1867-": 2,
                 "russia": 2,
@@ -462,7 +463,6 @@
                 "dutches county (n": 1,
                 "y": 1,
                 "society of friends": 1,
-                "united empire loyalists": 1,
                 "busy east": 1,
                 "canadian federation of university women": 1,
                 "women college graduates": 1,
@@ -637,7 +637,11 @@
                 "representation": 1,
                 "interpretation": 1,
                 "design": 1,
-                "historical empathy": 1
+                "historical empathy": 1,
+                "commemoration": 1,
+                "social network analysis": 1,
+                "imperial order daughters of the empire": 1,
+                "isaac brock": 1
             }
         },
         {
@@ -968,13 +972,14 @@
                 "wheeler, lauren m.": 1,
                 "smith, jenna murdock": 1,
                 "miller, maria victoria": 1,
-                "emslie, jenna katelyn": 1
+                "emslie, jenna katelyn": 1,
+                "holdsworth, peter william": 1
             }
         },
         {
             "field": "format",
             "terms": { 
-                "application/pdf": 334,
+                "application/pdf": 335,
                 "image/jpeg": 4
             }
         },
@@ -983,7 +988,7 @@
             "terms": { 
                 "master of arts": 226,
                 "doctor of philosophy": 95,
-                "master of arts - public history": 15,
+                "master of arts - public history": 16,
                 "master of arts - public history with digital humanities specialization": 2
             }
         }
