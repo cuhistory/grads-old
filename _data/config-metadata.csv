@@ -4,7 +4,7 @@ creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 degree,Degree Awarded
 subject,Subjects,true,DCTERMS.subject,keywords
-location,Geographical Focus,,,contentLocation
+location,Geographical Focus,true,,contentLocation
 latitude,Latitude
 longitude,Longitude
 source,Source
