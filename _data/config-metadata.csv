@@ -11,6 +11,5 @@ source,Source
 identifier,Source Identifier
 type,Type,,DCTERMS.type
 rightsstatement,,,DCTERMS.rights,license
-object_location,Read at,,,,true
 website,Supporting Materials,,,,true
 description,Description,,DCTERMS.description,description
