@@ -137,7 +137,7 @@ Word size is determined by frequency and all words link to a corresponding colle
     ];
 
     /* apply stopwords */
-    var stopWords = ["history# set of subjects separated by "," that will be removed from display, e.g. boxers","boxing"];
+    var stopWords = ["history"," not yet catalogued"];
     terms = terms.filter(function(a) { return stopWords.indexOf(a[0]) < 0;});
     /* calculate max size */
     var counts = terms.map(function(obj){ return obj[1]; });
