@@ -30,6 +30,10 @@ We will also be looking at themes in student research over the years since 1958,
 
 {% include feature/image.html objectid="objects/thesis-15-topics.png" width="50" %}
 
+## Place holder images
+
+Place holder images used throughout are photographs or drawings of Paterson Hall, the home of the History Department, from the Carleton University [Archives and Special Collections online exhibit](https://asc.library.carleton.ca/exhibits/whats_in_a_name/paterson).
+
 ## Contact
 
 Shawn Graham
