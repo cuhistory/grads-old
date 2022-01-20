@@ -4,12 +4,13 @@ creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 degree,Degree Awarded
 subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
+location,Geographical Focus,,,contentLocation
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier
 type,Type,,DCTERMS.type
 rightsstatement,,,DCTERMS.rights,license
+object_location,Read at,,,,true
 website,Supporting Materials,,,,true
 description,Description,,DCTERMS.description,description
