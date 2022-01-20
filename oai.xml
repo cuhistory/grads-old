@@ -7596,7 +7596,7 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Pembroke Soundscapes</dc:title>
                     <dc:creator>Blades, Rob</dc:creator>
-                    <dc:date>2016</dc:date><dc:subject>Industry; Social</dc:subject>
+                    <dc:date>2016</dc:date><dc:subject>Industry; Social; Public History</dc:subject>
                     <dc:type></dc:type>
                     <dc:rights></dc:rights>
                     <dc:description>The Pembroke Soundscapes Project explores the relationship between sound and memory through the decline of industry in Pembroke, Ontario from the 1950s to the present day. The project, hosted at pembrokesoundscapes.ca, is a work of open access, digital public history. It was developed using open source software and through community collaboration on- and offline. The website is a multi-media experience containing an interactive map and timelines for each industrial company. The left side of the map shows Pembroke with markers locating factories, mills, and plants. The right side contains each company with a general history, link to the company's timeline, and sound clips of Pembroke residents commenting on the industry. Listeners can also select two historical maps to overlay the current map. As the listener scrolls on the right side, the map scrolls and zooms to the appropriate company's location.</dc:description>
@@ -7620,7 +7620,7 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Songs of the Ottawa: A Sonified Environmental History of the Changing Riverscape from the Chaudière Falls to Kettle and Duck Islands, 1880 to 1980</dc:title>
                     <dc:creator>Wood, Cristina</dc:creator>
-                    <dc:date>2019</dc:date><dc:subject>Industry; Sonification; Environment; Ottawa River; Ottawa</dc:subject>
+                    <dc:date>2019</dc:date><dc:subject>Industry; Sonification; Environment; Ottawa River; Ottawa; Public History</dc:subject>
                     <dc:type></dc:type>
                     <dc:rights></dc:rights>
                     <dc:description>&quot;Songs of the Ottawa&quot; is an experiment in the digital data sonification of the Ottawa River’s pasts. This study examines a stretch of river extending from below the Chaudière, Akikodjiwan, or Kana:tso Falls, past the points of confluence with three important waterways – the man-made locks at the Rideau Canal, the tumbling Rideau River falls and the low-lying delta of the Gatineau – to the sandy Kettle and Duck Islands. &quot;Sonifying&quot; the history of the river means to express history to achieve a particular sensual engagement with the past. Sonification is the &quot;visualization&quot; of historical data auditorially, to achieve a particular sensory affect. This project asks readers and listeners to hear uncanny, affective pasts and consider the ways in which storytellers can &quot;de- form&quot; and &quot;re-form&quot; data and sources. The three &quot;songs of the Ottawa&quot; offer a way into the stories of the river’s flows, of commerce and industry extending up and downstream, and of recreation on the water and shores.</dc:description>
@@ -7643,8 +7643,8 @@
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Viewing Public History Through the Historian's Macroscope</dc:title>
-                    <dc:creator>Victoria Hawco</dc:creator>
-                    <dc:date>2021</dc:date><dc:subject>Public History;Text Analysis;Historiography</dc:subject>
+                    <dc:creator>Hawco, Victoria</dc:creator>
+                    <dc:date>2021</dc:date><dc:subject>Public History;Text Analysis;Historiography; Public History</dc:subject>
                     <dc:type></dc:type>
                     <dc:rights></dc:rights>
                     <dc:description>This essay and contextual website (https://victoriahawco.gitbook.io/carleton-mrp/) will present a historiographical data-driven analysis of “public history”, as understood through a distant read of the entire The Public Historian corpus, the major journal for the field. This journal is instrumental for defining the field and showing how its goals may have changed over time. By using large-scale computational text analysis, I can trace how public history has evolved. In particular, I have identified that the journal’s early publications discussed training historians for the workplace. Secondarily, public history sought to reconcile the differences between community historians and the history of the academy. By analyzing the entire corpus of the journal The Public Historian with large-scale computational text analysis I can demonstrate that there are two periods in the field’s history which reflect those separate goals, with the earlier three decades reflecting the employment directive, and the latter two reflecting a change in focus.</dc:description>
@@ -7667,13 +7667,469 @@
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Deadplay: A Methodology for the Preservation and Study of Video Games as Cultural Heritage Artifacts</dc:title>
-                    <dc:creator>Dany Guay-Bélanger</dc:creator>
-                    <dc:date>2018</dc:date><dc:subject>Public History; Video Games; Conservation; Media Studies</dc:subject>
+                    <dc:creator>Guay-Bélanger, Dany</dc:creator>
+                    <dc:date>2018</dc:date><dc:subject>Public History; Video Games; Conservation; Media Studies; Public History</dc:subject>
                     <dc:type></dc:type>
                     <dc:rights></dc:rights>
                     <dc:description>Videogames, while a digital art,live on physical media. Whether cartridge, magnetic tape, floppy disk, they degrade. Without care and study, they die and cannot be played again. While it might be possible to resurrect play using emulation or video captures, scholars need to consider every option at their disposal to preserve videogames for future study. This includes securing original versions of games and ephemera; recording play; interviewing game creators and players; and much more. This project develops a new approach to conceptualise video games as material and cultural heritage, and proposes a methodology for the study of older video games, especially those for which there is no original version left (e.g. “dead” games). Once dead, games can only be experienced though what this project describes as deadplay, or playing dead games. This essay reflects on the project’s theoretical foundation, positions it in the Public History field, and explores the use of podcasting as a medium to communicate this.</dc:description>
                     <dc:identifier>hist_320</dc:identifier>
                     <dc:identifier>https://cuhistory.github.io/grads/items/hist_320.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_321</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Seeing the ends of history education in Ontario's public schools, 1905-1919</dc:title>
+                    <dc:creator>Anderson, Peter</dc:creator>
+                    <dc:date>2009</dc:date><dc:subject> History, Study and teaching (Elementary); Ontario; Education; Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_321</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_321.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_322</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Reflections from the Bay : publics, memories and historical narratives of Georgian Bay</dc:title>
+                    <dc:creator>Major, Sebastian</dc:creator>
+                    <dc:date>2010</dc:date><dc:subject>Public History;Collective Memory;Local</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_322</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_322.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_323</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>An Illustrative life : an examination of how L. M. Montgomery's public and private lives reveal tensions evident within turn-of-the- century Canadian social and intellectual history.</dc:title>
+                    <dc:creator>Fulford, Allison</dc:creator>
+                    <dc:date>1992</dc:date><dc:subject> Montgomery, L. M (Lucy Maud), 1874-1942; Intellectual life; Women authors, Canadian; Social reformers; Social conditions</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_323</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_323.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_324</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Food for thought : performance, edible actors, and network-building in living history interpretation</dc:title>
+                    <dc:creator>McCavitt, Candice</dc:creator>
+                    <dc:date>2011</dc:date><dc:subject>Food; Public History; Historical Reenactment</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_324</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_324.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_325</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>History cast in bronze: a study of contested memory at three national historic sites of Canada</dc:title>
+                    <dc:creator>Richeson, Arianne</dc:creator>
+                    <dc:date>2004</dc:date><dc:subject>Cultural property; Memorials; Historic Sites; Public History; Plaques</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_325</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_325.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_326</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Little church from the prairies : the Ukrainiam Catholic Church of St. Onuphrius at the Canadian Museum of Civilization</dc:title>
+                    <dc:creator>Lavelle, Lara</dc:creator>
+                    <dc:date>2012</dc:date><dc:subject>Museum exhibits; Museums -- Religious Aspects; Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_326</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_326.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_327</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Society insists on an upright position': the making of the lady cyclist in late-nineteenth century Canada</dc:title>
+                    <dc:creator>Jackman, Laura</dc:creator>
+                    <dc:date>2008</dc:date><dc:subject>Sports for women; Human body -- social aspects; Women in public life; 19th century; Cycling; Feminism</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_327</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_327.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_328</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>No news is good news : Ernest J. Chambers and censorship of printed matter in Canada, 1915-1920.</dc:title>
+                    <dc:creator>Keshen, Jeff</dc:creator>
+                    <dc:date>1987</dc:date><dc:subject>Chambers, Ernest J., 1862-1925; World War, 1914-1918; Public opinion; Censorship</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_328</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_328.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_329</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>&quot;Living with the memory&quot; : the historical representation and public memory of the 1973 coup d'état in Chilean communities in Ottawa and Toronto</dc:title>
+                    <dc:creator>McGuire, Christine</dc:creator>
+                    <dc:date>2009</dc:date><dc:subject>Chileans in Canada;Chile;Coup d'état</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_329</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_329.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_330</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Locating identity: the Ukrainian Cultural Heritage Village as a public history text</dc:title>
+                    <dc:creator>Gabert, Karen</dc:creator>
+                    <dc:date>2007</dc:date><dc:subject>Ukrainians;Ethnic identity;Historic sites;Material Culture</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_330</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_330.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_331</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>&quot;Our&quot; history, &quot;our&quot; village : place, memory and the Upper Canada Village controversy of 2009</dc:title>
+                    <dc:creator>Beking, Angela Gail</dc:creator>
+                    <dc:date>2012</dc:date><dc:subject>Historical Reenactment; Museums and Community; Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_331</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_331.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_332</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Past, participant, performance : negotiating histories in Pioneer Quest: A Year in the Real West (2001)</dc:title>
+                    <dc:creator>Paradis, Elizabeth Jane</dc:creator>
+                    <dc:date>2011</dc:date><dc:subject>Reality television programs;Historical Reenactment;Frontier and pioneer life</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_332</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_332.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_333</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ravaged and regenerative landscapes : placing the architecture of the Canadian War Museum in its environmental context</dc:title>
+                    <dc:creator>Wainwright, Kaitlin Lorraine</dc:creator>
+                    <dc:date>2011</dc:date><dc:subject>Canada;Canadian War Museum;Public History;Urban landscape architecture</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_333</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_333.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_334</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Making history and engaging memory in Pierre Falardeau's film 15 Fevrier 1839</dc:title>
+                    <dc:creator>Long, Miranda Robin</dc:creator>
+                    <dc:date>2012</dc:date><dc:subject>Historical Film;History and Criticism;Motion pictures in historiography;Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_334</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_334.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_335</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Staging the Holocaust in Web 2.0 : Sachsenhausen and public memory</dc:title>
+                    <dc:creator>Fagen, Erica Rachel</dc:creator>
+                    <dc:date>2012</dc:date><dc:subject>Social Media;Holocaust Memorials;Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_335</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_335.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_336</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Picturing winter in the Rockies: public, private and archival imaginings of Banff, Alberta in the 1920s</dc:title>
+                    <dc:creator>Wheeler, Lauren M.</dc:creator>
+                    <dc:date>2008</dc:date><dc:subject>Winter Festivals;Banff National Park;Teenagers;Social Life and Customs;Archives -- Social Aspects</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_336</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_336.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_337</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A prescription for pure milk, sunshine and fresh air : the Ontario Provincial Board of Health and the exhibition of tuberculosis, 1908-1929</dc:title>
+                    <dc:creator>Smith, Jenna Murdock</dc:creator>
+                    <dc:date>2009</dc:date><dc:subject>Provincial Board of Health;Health Education;Displays in Education;Public Health;Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_337</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_337.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_338</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Representing trauma : exhibiting the experience of residential schools</dc:title>
+                    <dc:creator>Miller, Maria Victoria</dc:creator>
+                    <dc:date>2011</dc:date><dc:subject>Off-reservation boarding schools;Traveling exhibitions;Public History</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>not available</dc:description>
+                    <dc:identifier>hist_338</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_338.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_339</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Remember Us: Designing a Video Game Through a Public History Lens</dc:title>
+                    <dc:creator>Emslie, Jenna Katelyn</dc:creator>
+                    <dc:date>2021</dc:date><dc:subject>Video games;Historiography;Representation;Interpretation;Design;Historical Empathy</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>If you were to imagine what a public history-centred video game could look like, what would it be? What would make it good public history, what needs to be included for it to make a pedagogical argument? This major research project is an experiment in creating a game design document (GDD) for a public history game called Remember Us, a game centred around the experiences of immigrants and the working class in 1898 Ontario. This experiment takes the form of a GDD. A GDD is a roadmap for developers to follow when making games and is just as integral to the game as the narrative. This essay describes what a GDD is, the process of making one, and how its narrative and game mechanics intersect with historiography. This essay sets the scene for exploring the GDD. This essay also challenges readers to think differently about games and their potential for public history: Games have the power to not only bring something new to the discipline, but to give players and readers a memorable experience that challenges them to think in new, participatory ways outside the traditional forms of academic study. </dc:description>
+                    <dc:identifier>hist_339</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_339.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
