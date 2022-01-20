@@ -1,8 +1,8 @@
 { "locations": [
     { "location" : "tbd", "count" : 130, "link" : "https://cuhistory.github.io/grads/browse.html#tbd" },
-    { "location" : "canada", "count" : 114, "link" : "https://cuhistory.github.io/grads/browse.html#canada" },
+    { "location" : "canada", "count" : 115, "link" : "https://cuhistory.github.io/grads/browse.html#canada" },
     { "location" : "britain", "count" : 20, "link" : "https://cuhistory.github.io/grads/browse.html#britain" },
-    { "location" : "us", "count" : 18, "link" : "https://cuhistory.github.io/grads/browse.html#us" },
+    { "location" : "us", "count" : 19, "link" : "https://cuhistory.github.io/grads/browse.html#us" },
     { "location" : "europe", "count" : 13, "link" : "https://cuhistory.github.io/grads/browse.html#europe" },
     { "location" : "ottawa", "count" : 13, "link" : "https://cuhistory.github.io/grads/browse.html#ottawa" },
     { "location" : "germany", "count" : 9, "link" : "https://cuhistory.github.io/grads/browse.html#germany" },

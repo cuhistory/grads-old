@@ -7654,5 +7654,29 @@
             </oai:metadata>
         </oai:record>
         
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_320</oai:identifier> 
+                <oai:datestamp>2022-01-20</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deadplay: A Methodology for the Preservation and Study of Video Games as Cultural Heritage Artifacts</dc:title>
+                    <dc:creator>Dany Guay-Bélanger</dc:creator>
+                    <dc:date>2018</dc:date><dc:subject>Public History; Video Games; Conservation; Media Studies</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>Videogames, while a digital art,live on physical media. Whether cartridge, magnetic tape, floppy disk, they degrade. Without care and study, they die and cannot be played again. While it might be possible to resurrect play using emulation or video captures, scholars need to consider every option at their disposal to preserve videogames for future study. This includes securing original versions of games and ephemera; recording play; interviewing game creators and players; and much more. This project develops a new approach to conceptualise video games as material and cultural heritage, and proposes a methodology for the study of older video games, especially those for which there is no original version left (e.g. “dead” games). Once dead, games can only be experienced though what this project describes as deadplay, or playing dead games. This essay reflects on the project’s theoretical foundation, positions it in the Public History field, and explores the use of podcasting as a medium to communicate this.</dc:description>
+                    <dc:identifier>hist_320</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_320.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
     </ListRecords>
 </Repository>

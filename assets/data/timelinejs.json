@@ -4463,6 +4463,20 @@
           "headline": "Viewing Public History Through the Historian's Macroscope",
           "text": "This essay and contextual website (https://victoriahawco.gitbook.io/carleton-mrp/) will present a historiographical data-driven analysis of “public history”, as understood through a distant read of the entire The Public Historian corpus, the major journal for the field. This journal is instrumental for defining the field and showing how its goals may have changed over time. By using large-scale computational text analysis, I can trace how public history has evolved. In particular, I have identified that the journal’s early publications discussed training historians for the workplace. Secondarily, public history sought to reconcile the differences between community historians and the history of the academy. By analyzing the entire corpus of the journal The Public Historian with large-scale computational text analysis I can demonstrate that there are two periods in the field’s history which reflect those separate goals, with the earlier three decades reflecting the employment directive, and the latter two reflecting a change in focus."
         }
+      },{
+        "media": {
+          "url": "/grads/objects/guay-belanger-deadplay.png",
+          "caption": "Deadplay: A Methodology for the Preservation and Study of Video Games as Cultural Heritage Artifacts",
+          "link": "/grads/items/hist_320.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Deadplay: A Methodology for the Preservation and Study of Video Games as Cultural Heritage Artifacts",
+          "text": "Videogames, while a digital art,live on physical media. Whether cartridge, magnetic tape, floppy disk, they degrade. Without care and study, they die and cannot be played again. While it might be possible to resurrect play using emulation or video captures, scholars need to consider every option at their disposal to preserve videogames for future study. This includes securing original versions of games and ephemera; recording play; interviewing game creators and players; and much more. This project develops a new approach to conceptualise video games as material and cultural heritage, and proposes a methodology for the study of older video games, especially those for which there is no original version left (e.g. “dead” games). Once dead, games can only be experienced though what this project describes as deadplay, or playing dead games. This essay reflects on the project’s theoretical foundation, positions it in the Public History field, and explores the use of podcasting as a medium to communicate this."
+        }
       }
     ]
 }

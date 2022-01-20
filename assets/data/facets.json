@@ -53,6 +53,7 @@
                 "railroads": 4,
                 "medieval": 3,
                 "history of science": 3,
+                "public history": 3,
                 "transportation": 3,
                 "american studies": 3,
                 "canada - history": 3,
@@ -87,7 +88,6 @@
                 "manitoba": 3,
                 "red river settlement": 3,
                 "theater": 2,
-                "public history": 2,
                 "russian and soviet": 2,
                 "cultural anthropology": 2,
                 "journalism": 2,
@@ -588,7 +588,10 @@
                 "environment": 1,
                 "ottawa river": 1,
                 "text analysis": 1,
-                "historiography": 1
+                "historiography": 1,
+                "video games": 1,
+                "conservation": 1,
+                "media studies": 1
             }
         },
         {
@@ -899,14 +902,15 @@
                 "atkinson, william david": 1,
                 "blades, rob": 1,
                 "wood, cristina": 1,
-                "victoria hawco": 1
+                "victoria hawco": 1,
+                "dany guay-bélanger": 1
             }
         },
         {
             "field": "format",
             "terms": { 
                 "application/pdf": 315,
-                "image/jpeg": 3
+                "image/jpeg": 4
             }
         },
         {
@@ -914,8 +918,8 @@
             "terms": { 
                 "master of arts": 220,
                 "doctor of philosophy": 95,
-                "master of arts - public history with digital humanities specialization": 2,
-                "master of arts - public history": 1
+                "master of arts - public history": 2,
+                "master of arts - public history with digital humanities specialization": 2
             }
         }
         

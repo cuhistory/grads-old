@@ -6341,7 +6341,7 @@
     { 
         "objectid": "hist_319",
         "title": "Viewing Public History Through the Historian's Macroscope",
-        
+        "display_template": "record",
         "creator": "Victoria Hawco",
         "date": "2021",
         "degree": "Master of Arts - Public History with Digital Humanities Specialization",
@@ -6357,6 +6357,26 @@
         
         "object_location": "https://victoriahawco.gitbook.io/carleton-mrp/",
         "reference_url": "https://cuhistory.github.io/grads/items/hist_319.html"
+    },
+    { 
+        "objectid": "hist_320",
+        "title": "Deadplay: A Methodology for the Preservation and Study of Video Games as Cultural Heritage Artifacts",
+        "display_template": "record",
+        "creator": "Dany Guay-Bélanger",
+        "date": "2018",
+        "degree": "Master of Arts - Public History",
+        "thesis_url": "https://deadplay.net/",
+        "description": "Videogames, while a digital art,live on physical media. Whether cartridge, magnetic tape, floppy disk, they degrade. Without care and study, they die and cannot be played again. While it might be possible to resurrect play using emulation or video captures, scholars need to consider every option at their disposal to preserve videogames for future study. This includes securing original versions of games and ephemera; recording play; interviewing game creators and players; and much more. This project develops a new approach to conceptualise video games as material and cultural heritage, and proposes a methodology for the study of older video games, especially those for which there is no original version left (e.g. “dead” games). Once dead, games can only be experienced though what this project describes as deadplay, or playing dead games. This essay reflects on the project’s theoretical foundation, positions it in the Public History field, and explores the use of podcasting as a medium to communicate this.",
+        "location": "Canada;US",
+        "object_location": "http://deadplay.net/wp-content/uploads/2018/06/Reflection_MRE_danygbelanger_finaL20180511.pdf",
+        "subject": "Public History; Video Games; Conservation; Media Studies",
+        "format": "image/jpeg",
+        "rights": "Copyright the author, all rights reserved, unless otherwise indicated.",
+        "website": "https://deadplay.net/",
+        "image_small": "/objects/guay-belanger-deadplay.png",
+        
+        "object_location": "http://deadplay.net/wp-content/uploads/2018/06/Reflection_MRE_danygbelanger_finaL20180511.pdf",
+        "reference_url": "https://cuhistory.github.io/grads/items/hist_320.html"
     }
     
 ] }

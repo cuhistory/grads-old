@@ -49,6 +49,7 @@
     { "subject" : "railroads", "count" : 4, "link" : "https://cuhistory.github.io/grads/browse.html#railroads" },
     { "subject" : "medieval", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#medieval" },
     { "subject" : "history of science", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#history%20of%20science" },
+    { "subject" : "public history", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
     { "subject" : "transportation", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#transportation" },
     { "subject" : "american studies", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#american%20studies" },
     { "subject" : "canada - history", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#canada%20-%20history" },
@@ -83,7 +84,6 @@
     { "subject" : "manitoba", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#manitoba" },
     { "subject" : "red river settlement", "count" : 3, "link" : "https://cuhistory.github.io/grads/browse.html#red%20river%20settlement" },
     { "subject" : "theater", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#theater" },
-    { "subject" : "public history", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#public%20history" },
     { "subject" : "russian and soviet", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#russian%20and%20soviet" },
     { "subject" : "cultural anthropology", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#cultural%20anthropology" },
     { "subject" : "journalism", "count" : 2, "link" : "https://cuhistory.github.io/grads/browse.html#journalism" },
@@ -584,5 +584,8 @@
     { "subject" : "environment", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#environment" },
     { "subject" : "ottawa river", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#ottawa%20river" },
     { "subject" : "text analysis", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#text%20analysis" },
-    { "subject" : "historiography", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#historiography" }
+    { "subject" : "historiography", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#historiography" },
+    { "subject" : "video games", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#video%20games" },
+    { "subject" : "conservation", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#conservation" },
+    { "subject" : "media studies", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#media%20studies" }
 ]}
