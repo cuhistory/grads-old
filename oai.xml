@@ -8158,5 +8158,29 @@
             </oai:metadata>
         </oai:record>
         
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:cuhistory.github.io:grads/hist_341</oai:identifier> 
+                <oai:datestamp>2022-01-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Brewing Up History: History and Beer Marketing in Canada, 1840-2021</dc:title>
+                    <dc:creator>Gillies, Emma</dc:creator>
+                    <dc:date>2021</dc:date><dc:subject>Neural Networks; Image Analysis; Beer; Brewing; Marketing; Consumers</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:description>This research essay employs a novel use of a particular computer vision technology – “convolutional neural networks” - on a corpus of 1345 Canadian beer labels dating from 1840 to 2021 to calculate, and visualize, the visual similarity of beer labels. The resulting clusters are analyzed to see how they cluster over time and space or brand, which enables patterns in the historical consciousness of Canadian beer producers/consumers to emerge. I find that there is a major trend to appeal to people’s emotions that continues in similar form throughout Canada’s history. Particularly, beer marketing tends to use history in two major ways: one, through heraldic imagery to denote quality; the other to evoke a sense of escape/adventure through narrative illustration. These uses – what I am referring to as the Heraldic-Comic divide - allude to consumers' romanticized notions of history, and predominantly appeal to white, male audiences.</dc:description>
+                    <dc:identifier>hist_341</dc:identifier>
+                    <dc:identifier>https://cuhistory.github.io/grads/items/hist_341.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
     </ListRecords>
 </Repository>

@@ -698,7 +698,13 @@
                 "commemoration": 1,
                 "social network analysis": 1,
                 "imperial order daughters of the empire": 1,
-                "isaac brock": 1
+                "isaac brock": 1,
+                "neural networks": 1,
+                "image analysis": 1,
+                "beer": 1,
+                "brewing": 1,
+                "marketing": 1,
+                "consumers": 1
             }
         },
         {
@@ -1030,13 +1036,14 @@
                 "smith, jenna murdock": 1,
                 "miller, maria victoria": 1,
                 "emslie, jenna katelyn": 1,
-                "holdsworth, peter william": 1
+                "holdsworth, peter william": 1,
+                "gillies, emma": 1
             }
         },
         {
             "field": "format",
             "terms": { 
-                "application/pdf": 335,
+                "application/pdf": 336,
                 "image/jpeg": 4
             }
         },
@@ -1045,7 +1052,7 @@
             "terms": { 
                 "master of arts": 226,
                 "doctor of philosophy": 95,
-                "master of arts - public history": 16,
+                "master of arts - public history": 17,
                 "master of arts - public history with digital humanities specialization": 2
             }
         }

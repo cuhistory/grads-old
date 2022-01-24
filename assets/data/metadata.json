@@ -6748,14 +6748,14 @@
         "thesis_url": "n/a",
         "description": "If you were to imagine what a public history-centred video game could look like, what would it be? What would make it good public history, what needs to be included for it to make a pedagogical argument? This major research project is an experiment in creating a game design document (GDD) for a public history game called Remember Us, a game centred around the experiences of immigrants and the working class in 1898 Ontario. This experiment takes the form of a GDD. A GDD is a roadmap for developers to follow when making games and is just as integral to the game as the narrative. This essay describes what a GDD is, the process of making one, and how its narrative and game mechanics intersect with historiography. This essay sets the scene for exploring the GDD. This essay also challenges readers to think differently about games and their potential for public history: Games have the power to not only bring something new to the discipline, but to give players and readers a memorable experience that challenges them to think in new, participatory ways outside the traditional forms of academic study. ",
         "location": "Canada;Ontario",
-        "object_location": "not availalbe",
+        "object_location": "not available",
         "subject": "Video games;Historiography;Representation;Interpretation;Design;Historical Empathy",
         "format": "application/pdf",
         "rights": "Copyright the author, all rights reserved, unless otherwise indicated.",
         "website": "n/a",
         "image_small": "/objects/emslie-loop.png",
         
-        "object_location": "https://cuhistory.github.io/grads/not%20availalbe",
+        "object_location": "https://cuhistory.github.io/grads/not%20available",
         "reference_url": "https://cuhistory.github.io/grads/items/hist_339.html"
     },
     { 
@@ -6777,6 +6777,26 @@
         
         "object_location": "https://figshare.com/articles/journal_contribution/Networks_of_Commemoration_Gender_Class_and_the_Remembrance_of_General_Brock_1898_1912/710956",
         "reference_url": "https://cuhistory.github.io/grads/items/hist_340.html"
+    },
+    { 
+        "objectid": "hist_341",
+        "title": "Brewing Up History: History and Beer Marketing in Canada, 1840-2021",
+        "display_template": "record",
+        "creator": "Gillies, Emma",
+        "date": "2021",
+        "degree": "Master of Arts - Public History",
+        
+        "description": "This research essay employs a novel use of a particular computer vision technology – “convolutional neural networks” - on a corpus of 1345 Canadian beer labels dating from 1840 to 2021 to calculate, and visualize, the visual similarity of beer labels. The resulting clusters are analyzed to see how they cluster over time and space or brand, which enables patterns in the historical consciousness of Canadian beer producers/consumers to emerge. I find that there is a major trend to appeal to people’s emotions that continues in similar form throughout Canada’s history. Particularly, beer marketing tends to use history in two major ways: one, through heraldic imagery to denote quality; the other to evoke a sense of escape/adventure through narrative illustration. These uses – what I am referring to as the Heraldic-Comic divide - allude to consumers' romanticized notions of history, and predominantly appeal to white, male audiences.",
+        "location": "Canada",
+        "object_location": "not available",
+        "subject": "Neural Networks; Image Analysis; Beer; Brewing; Marketing; Consumers",
+        "format": "application/pdf",
+        "rights": "Copyright the author, all rights reserved, unless otherwise indicated.",
+        "website": "n/a",
+        "image_small": "/objects/gillies-pixplot.png",
+        
+        "object_location": "https://cuhistory.github.io/grads/not%20available",
+        "reference_url": "https://cuhistory.github.io/grads/items/hist_341.html"
     }
     
 ] }

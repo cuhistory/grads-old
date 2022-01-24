@@ -694,5 +694,11 @@
     { "subject" : "commemoration", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#commemoration" },
     { "subject" : "social network analysis", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#social%20network%20analysis" },
     { "subject" : "imperial order daughters of the empire", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#imperial%20order%20daughters%20of%20the%20empire" },
-    { "subject" : "isaac brock", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#isaac%20brock" }
+    { "subject" : "isaac brock", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#isaac%20brock" },
+    { "subject" : "neural networks", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#neural%20networks" },
+    { "subject" : "image analysis", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#image%20analysis" },
+    { "subject" : "beer", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#beer" },
+    { "subject" : "brewing", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#brewing" },
+    { "subject" : "marketing", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#marketing" },
+    { "subject" : "consumers", "count" : 1, "link" : "https://cuhistory.github.io/grads/browse.html#consumers" }
 ]}
