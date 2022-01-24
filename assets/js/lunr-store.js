@@ -935,19 +935,19 @@ var store = [{
 "id": "hist_235"
 
 },{  
-"title": "Nations mothers, Empires daughters: the Imperial Order Daughters of the Empire, 1920-1930.","date": "1993","creator": "Gaudet, Lisa","description": "not yet transcribed","subject": "Imperial Order Daughters of the Empire,","location": "tbd", 
+"title": "Nations mothers, Empires daughters: the Imperial Order Daughters of the Empire, 1920-1930.","date": "1993","creator": "Gaudet, Lisa","description": "not yet transcribed","subject": "Imperial Order Daughters of the Empire,","location": "Canada", 
 "id": "hist_236"
 
 },{  
-"title": "To make intelligent beings yet more intelligent: the Canadian Federation of University Women, 1919-1931.","date": "1993","creator": "Hubley, Wendy","description": "not yet transcribed","subject": "Canadian Federation Of University Women ; Women College Graduates ;History","location": "tbd", 
+"title": "To make intelligent beings yet more intelligent: the Canadian Federation of University Women, 1919-1931.","date": "1993","creator": "Hubley, Wendy","description": "not yet transcribed","subject": "Canadian Federation Of University Women ; Women College Graduates ;History","location": "Canada", 
 "id": "hist_237"
 
 },{  
-"title": "Wills in later medieval England, with special reference to women.","date": "1992","creator": "Mills, Katherine Louise","description": "not yet transcribed","subject": "Wills ;England ; Women ;Legal Status, Laws, Etc;England ; Married Women ;England ; Marital Property ;England ;England ;Social Life And Customs 1066-1485","location": "tbd", 
+"title": "Wills in later medieval England, with special reference to women.","date": "1992","creator": "Mills, Katherine Louise","description": "not yet transcribed","subject": "Wills ;England ; Women ;Legal Status, Laws, Etc;England ; Married Women ;England ; Marital Property ;England ;England ;Social Life And Customs 1066-1485","location": "England", 
 "id": "hist_238"
 
 },{  
-"title": "Visions of grandeur; planning for the Canadian post-war army, 1944- 1947.","date": "1992","creator": "Brulotte, Bryan","description": "not yet transcribed","subject": "Canada; Canadian Armed Forces ;Military history","location": "tbd", 
+"title": "Visions of grandeur; planning for the Canadian post-war army, 1944- 1947.","date": "1992","creator": "Brulotte, Bryan","description": "not yet transcribed","subject": "Canada; Canadian Armed Forces ;Military history","location": "Canada", 
 "id": "hist_239"
 
 },{  
@@ -963,19 +963,19 @@ var store = [{
 "id": "hist_242"
 
 },{  
-"title": "Revolution and reaction : the emergence of the Hungarian national movement","date": "1992","creator": "Isztil, Janos","description": "not yet transcribed","subject": "Hungary;Politics And Government;1699-1848; Nationalism ;Hungary;Hungary;Intellectual Life","location": "tbd", 
+"title": "Revolution and reaction : the emergence of the Hungarian national movement","date": "1992","creator": "Isztil, Janos","description": "not yet transcribed","subject": "Hungary;Politics And Government;1699-1848; Nationalism ;Hungary;Hungary;Intellectual Life","location": "Hungary", 
 "id": "hist_243"
 
 },{  
-"title": "Officer-man relations in the Canadian Expeditionary Force, 1914-1919.","date": "1991","creator": "Losinger, Isabella Diane","description": "not yet transcribed","subject": "Canada;Armed forces ;Officers;Armed forces ;Personnel Management; Intergroup Relations; Canadian Army ; Canadian Expeditionary Force;World War, 1914-1918 ;Canada","location": "tbd", 
+"title": "Officer-man relations in the Canadian Expeditionary Force, 1914-1919.","date": "1991","creator": "Losinger, Isabella Diane","description": "not yet transcribed","subject": "Canada;Armed forces ;Officers;Armed forces ;Personnel Management; Intergroup Relations; Canadian Army ; Canadian Expeditionary Force;World War, 1914-1918 ;Canada","location": "Canada", 
 "id": "hist_244"
 
 },{  
-"title": "Direct democrat: W. C. Good and the Ontario farm progressive challenge, 1895-1929.","date": "1991","creator": "Wylie, T. Robin","description": "not yet transcribed","subject": "Good, William Charles, 1876-1967Agriculture,cooperative ;Ontario ; Co-operative Commonwealth Federation;Politics And Government 20th Century","location": "tbd", 
+"title": "Direct democrat: W. C. Good and the Ontario farm progressive challenge, 1895-1929.","date": "1991","creator": "Wylie, T. Robin","description": "not yet transcribed","subject": "Good, William Charles, 1876-1967; Agriculture,cooperative ;Ontario ; Co-operative Commonwealth Federation;Politics And Government 20th Century","location": "Ontario", 
 "id": "hist_245"
 
 },{  
-"title": "A dolls house or the house of the dead : political exiles in northern Russia and Siberia, 1880-1917.","date": "1990","creator": "Donicht, Gaby","description": "not yet transcribed","subject": "Russia ;Exiles; Siberia (Russia) ;Politics And Government; Russia, Northern ;Politics And Government;Exiles;Social Conditions","location": "tbd", 
+"title": "A dolls house or the house of the dead : political exiles in northern Russia and Siberia, 1880-1917.","date": "1990","creator": "Donicht, Gaby","description": "not yet transcribed","subject": "Russia ;Exiles; Siberia (Russia) ;Politics And Government; Russia, Northern ;Politics And Government;Exiles;Social Conditions","location": "Russia", 
 "id": "hist_246"
 
 },{  
@@ -983,27 +983,27 @@ var store = [{
 "id": "hist_247"
 
 },{  
-"title": "Feed the flame : a natural history of the Ottawa Literary and Scientific Society.","date": "1990","creator": "Gaizauskas, Barbara","description": "not yet transcribed","subject": "Ottawa Literary And Scientific Society; Ottawa (Ont;Intellectual Life; Ottawa (Ont;Social Life And Customs; Ottawa (Ont;History","location": "tbd", 
+"title": "Feed the flame : a natural history of the Ottawa Literary and Scientific Society.","date": "1990","creator": "Gaizauskas, Barbara","description": "not yet transcribed","subject": "Ottawa Literary And Scientific Society; Ottawa (Ont;Intellectual Life; Ottawa (Ont;Social Life And Customs; Ottawa (Ont;History","location": "Ottawa", 
 "id": "hist_248"
 
 },{  
-"title": "Continued and persevering combat : the Ontario Womans Christian Temperance Union, evangelicalism and social reform, 1874-1916.","date": "1990","creator": "Cook, Sharon Anne","description": "not yet transcribed","subject": "Ontario Woman's Christian Temperance Union; Temperance ;Ontario ;Societies, Etc; Women ;Ontario ;Societies And Clubs ; Women ;Ontario ;History","location": "tbd", 
+"title": "Continued and persevering combat : the Ontario Womans Christian Temperance Union, evangelicalism and social reform, 1874-1916.","date": "1990","creator": "Cook, Sharon Anne","description": "not yet transcribed","subject": "Ontario Woman's Christian Temperance Union; Temperance ;Ontario ;Societies, Etc; Women ;Ontario ;Societies And Clubs ; Women ;Ontario ;History","location": "Ontario", 
 "id": "hist_249"
 
 },{  
-"title": "Delivering electrical technology to the Ontario housewife, 1920-1939: an alliance of professional women, advertisers and the electrical industry.","date": "1989","creator": "Dodd, Dianne E.","description": "not yet transcribed","subject": "Electric Industries ;Ontario ;Electric Industries ;Ontario ;Social Aspects;Electric Household Appliances Industry ;Ontario ; Women ;Social Conditions;Technology ;Social Aspects","location": "tbd", 
+"title": "Delivering electrical technology to the Ontario housewife, 1920-1939: an alliance of professional women, advertisers and the electrical industry.","date": "1989","creator": "Dodd, Dianne E.","description": "not yet transcribed","subject": "Electric Industries ;Ontario ;Electric Industries ;Ontario ;Social Aspects;Electric Household Appliances Industry ;Ontario ; Women ;Social Conditions;Technology ;Social Aspects","location": "Ontario", 
 "id": "hist_250"
 
 },{  
-"title": "Daily life on western Hudson Bay 1714 to 1870: a social history of York Factory and Churchill.","date": "1989","creator": "Payne, Michael B.","description": "not yet transcribed","subject": "York Factory (Man;Social Conditions;Churchill (Man;Social Conditions;Hudson's Bay Company ;Fur Trade ;History","location": "tbd", 
+"title": "Daily life on western Hudson Bay 1714 to 1870: a social history of York Factory and Churchill.","date": "1989","creator": "Payne, Michael B.","description": "not yet transcribed","subject": "York Factory; Social Conditions;Churchill;Hudson's Bay Company ;Fur Trade","location": "Manitoba", 
 "id": "hist_251"
 
 },{  
-"title": "The Irish question in Canada: Ireland, the Irish and Canadian politics, 1880-1922.","date": "1989","creator": "Shanahan, David","description": "not yet transcribed","subject": "Irish Canadians ;Cultural Assimilation; Irish ; Irish Question;Politics And Government 1867-","location": "tbd", 
+"title": "The Irish question in Canada: Ireland, the Irish and Canadian politics, 1880-1922.","date": "1989","creator": "Shanahan, David","description": "not yet transcribed","subject": "Irish Canadians ;Cultural Assimilation; Irish ; Irish Question;Politics And Government 1867-","location": "Canada", 
 "id": "hist_252"
 
 },{  
-"title": "The Negotiations between Canada and India for the supply of the N.R.X. nuclear research reactor 1955-56: a case study in participatory internationalism.","date": "1989","creator": "Lonergan, Iris Heidrun","description": "not yet transcribed","subject": "Canada India Reactor Project; Technical Assistance, Canadian ;India;Foreign Relations ;India;India;Foreign Relations ; Internationalism ;Case Studies","location": "tbd", 
+"title": "The Negotiations between Canada and India for the supply of the N.R.X. nuclear research reactor 1955-56: a case study in participatory internationalism.","date": "1989","creator": "Lonergan, Iris Heidrun","description": "not yet transcribed","subject": "Canada India Reactor Project; Technical Assistance, Canadian ;India;Foreign Relations ;India;India;Foreign Relations ; Internationalism ;Case Studies","location": "Canada; India", 
 "id": "hist_253"
 
 },{  
@@ -1023,191 +1023,191 @@ var store = [{
 "id": "hist_257"
 
 },{  
-"title": "Educating for peace and co-operation: the Womens International League for Peace and Freedom in Canada, 1919-1929.","date": "1988","creator": "Boutilier, Beverly","description": "not yet transcribed","subject": "Women's International League For Peace And Freedom; Women And Peace; Peace Movements ;History","location": "tbd", 
+"title": "Educating for peace and co-operation: the Womens International League for Peace and Freedom in Canada, 1919-1929.","date": "1988","creator": "Boutilier, Beverly","description": "not yet transcribed","subject": "Women's International League For Peace And Freedom; Women And Peace; Peace Movements ;History","location": "Canada", 
 "id": "hist_258"
 
 },{  
-"title": "Dan McArthurs concept of objectivity and his struggle to defend the integrity of the CBC News Service, 1940-1945.","date": "1988","creator": "Albota, Robert J. F.","description": "not yet transcribed","subject": "Mcarthur, Dan (Daniel C;Canadian Broadcasting Corporation; Radio Journalism ;Canada","location": "tbd", 
+"title": "Dan McArthurs concept of objectivity and his struggle to defend the integrity of the CBC News Service, 1940-1945.","date": "1988","creator": "Albota, Robert J. F.","description": "not yet transcribed","subject": "Mcarthur, Daniel C;Canadian Broadcasting Corporation; Radio Journalism","location": "Canada", 
 "id": "hist_259"
 
 },{  
-"title": "The Other navy at war: the RCNs tribal class destroyers 1939-1944.","date": "1988","creator": "Whitby, Michael J.","description": "not yet transcribed","subject": "Destroyers (Warships) Royal Canadian Navy ;History World War, 1939-1945World War, 1939-1945 ;Naval Operations, Canadian","location": "tbd", 
+"title": "The Other navy at war: the RCNs tribal class destroyers 1939-1944.","date": "1988","creator": "Whitby, Michael J.","description": "not yet transcribed","subject": "Destroyers (Warships) Royal Canadian Navy ;History World War, 1939-1945World War, 1939-1945 ;Naval Operations, Canadian","location": "Canada", 
 "id": "hist_260"
 
 },{  
-"title": "The diplomacy of appeasement in the phony war, September 1939 - April 1940","date": "1988","creator": "Gregory, Andrew G. (Andrew George)","description": "This study of mostly British and German but also Dutch, and American initiatives to end the war by negotiation before Hitler invaded the West examines Chamberlain's exploration of a settlement with the German resistance. Chamberlain expected an immediate economic collapse of Germany and Hitler's replacement by right-wing conservative/military elements. Their failure to dislodge Hitler should not detract from the significance of the negotiations and the light they throw on both Chamberlain's policy of appeasement and war aims. During the Phony War, Chamberlain's minimum conditions for a settlement increased as his faith in the German resistance's ability to depose Hitler and form a trustworthy Government diminished.","subject": "fascism;appeasement","location": "tbd", 
+"title": "The diplomacy of appeasement in the phony war, September 1939 - April 1940","date": "1988","creator": "Gregory, Andrew G. (Andrew George)","description": "This study of mostly British and German but also Dutch, and American initiatives to end the war by negotiation before Hitler invaded the West examines Chamberlain's exploration of a settlement with the German resistance. Chamberlain expected an immediate economic collapse of Germany and Hitler's replacement by right-wing conservative/military elements. Their failure to dislodge Hitler should not detract from the significance of the negotiations and the light they throw on both Chamberlain's policy of appeasement and war aims. During the Phony War, Chamberlain's minimum conditions for a settlement increased as his faith in the German resistance's ability to depose Hitler and form a trustworthy Government diminished.","subject": "fascism;appeasement","location": "Europe", 
 "id": "hist_261"
 
 },{  
-"title": "The opposition to woman suffrage in Ontario, 1872 to 1917.","date": "1987","creator": "Powell, Sheila","description": "not yet transcribed","subject": "Women ;Suffrage ;Ontario ; Women's Rights ;Ontario","location": "tbd", 
+"title": "The opposition to woman suffrage in Ontario, 1872 to 1917.","date": "1987","creator": "Powell, Sheila","description": "not yet transcribed","subject": "Women ;Suffrage ;Ontario ; Women's Rights ;Ontario","location": "Ontario", 
 "id": "hist_262"
 
 },{  
-"title": "The Young Womens Christian Association in Canada, 1870--1920: A movement to meet a spiritual, civic and national need","date": "1987","creator": "Pedersen, Diana L.","description": "not yet transcribed","subject": "Canadian History; Women's Studies","location": "tbd", 
+"title": "The Young Womens Christian Association in Canada, 1870--1920: A movement to meet a spiritual, civic and national need","date": "1987","creator": "Pedersen, Diana L.","description": "not yet transcribed","subject": "Canadian History; Women's Studies","location": "Canada", 
 "id": "hist_263"
 
 },{  
-"title": "Canada's righteous : a history of the Canadian National Committee on Refugees and Victims of Political Persecution","date": "1987","creator": "Craft, Kenneth","description": "By 1938 a small group of Canadians were aware that Germany's Nazi regime was following a policy of expelling Jews. In the years leading up to the Second World War the League of Nations Society in Canada sought to aid these refugees. In late 1938 they realized they could no longer assist refugees and fulfill their other humanitarian obligations. In October 1938 the League of Nations Society in Canada executive voted to create a Canadian National Committee on Refugees and Victims of Political Persecution (CNCR).","subject": "fascism;refugees","location": "tbd", 
+"title": "Canada's righteous : a history of the Canadian National Committee on Refugees and Victims of Political Persecution","date": "1987","creator": "Craft, Kenneth","description": "By 1938 a small group of Canadians were aware that Germany's Nazi regime was following a policy of expelling Jews. In the years leading up to the Second World War the League of Nations Society in Canada sought to aid these refugees. In late 1938 they realized they could no longer assist refugees and fulfill their other humanitarian obligations. In October 1938 the League of Nations Society in Canada executive voted to create a Canadian National Committee on Refugees and Victims of Political Persecution (CNCR).","subject": "fascism;refugees","location": "Canada;Europe", 
 "id": "hist_264"
 
 },{  
-"title": "In defence of unity: Canadas military policies, 1935 - 1944.","date": "1986","creator": "Hooker, Martha Ann","description": "not yet transcribed","subject": "Canada;Military Policy;Politics And Government 1935-1957","location": "tbd", 
+"title": "In defence of unity: Canadas military policies, 1935 - 1944.","date": "1986","creator": "Hooker, Martha Ann","description": "not yet transcribed","subject": "Canada;Military Policy;Politics And Government 1935-1957","location": "Canada", 
 "id": "hist_265"
 
 },{  
-"title": "National historic parks and sites, 1880-1951; the biography of a federal cultural program.","date": "1986","creator": "Taylor, Christopher James","description": "not yet transcribed","subject": "Historic Sites ;Government Policy ;Canada","location": "tbd", 
+"title": "National historic parks and sites, 1880-1951; the biography of a federal cultural program.","date": "1986","creator": "Taylor, Christopher James","description": "not yet transcribed","subject": "Historic Sites ;Government Policy","location": "Canada", 
 "id": "hist_266"
 
 },{  
-"title": "British policy on the Gold Coast 1805-1831.","date": "1986","creator": "Power, David Patrick","description": "not yet transcribed","subject": "Ghana;History To 1957Great Britain ;Foreign Relations ;Ghana;Ghana;Foreign Relations ;Great Britain ;Great Britain ;Foreign Relations 1800-1837","location": "tbd", 
+"title": "British policy on the Gold Coast 1805-1831.","date": "1986","creator": "Power, David Patrick","description": "not yet transcribed","subject": "Ghana; Great Britain ;Foreign Relations; 1800-1837","location": "Ghana;Britain", 
 "id": "hist_267"
 
 },{  
-"title": "Soviet reparations policy at the Yalta and Potsdam Conferences of 1945.","date": "1986","creator": "Farrell, Brian Padair","description": "not yet transcribed","subject": "World War, 1939-1945 ;Reparations; Yalta Conference (1945)Potsdam Conference (1945)","location": "tbd", 
+"title": "Soviet reparations policy at the Yalta and Potsdam Conferences of 1945.","date": "1986","creator": "Farrell, Brian Padair","description": "not yet transcribed","subject": "World War, 1939-1945 ;Reparations; Yalta Conference (1945); Potsdam Conference (1945)","location": "Yalta", 
 "id": "hist_268"
 
 },{  
-"title": "The fortunes of war; privateering in Atlantic Canada in the war of 1812.","date": "1986","creator": "Kert, Faye Margaret","description": "not yet transcribed","subject": "Privateering History, Naval 19th Century;United States;History War Of 1812","location": "tbd", 
+"title": "The fortunes of war; privateering in Atlantic Canada in the war of 1812.","date": "1986","creator": "Kert, Faye Margaret","description": "not yet transcribed","subject": "Privateering History, Naval 19th Century;United States;History War Of 1812","location": "Canada;US", 
 "id": "hist_269"
 
 },{  
-"title": "Wilfrid Lauriers views on Canadian federalism.","date": "1985","creator": "Harrison, Jane E.","description": "not yet transcribed","subject": "Laurier, Wilfrid, Sir, 1841-1919Federal Government British North America Act","location": "tbd", 
+"title": "Wilfrid Lauriers views on Canadian federalism.","date": "1985","creator": "Harrison, Jane E.","description": "not yet transcribed","subject": "Laurier, Wilfrid, Sir, 1841-1919;Federal Government;British North America Act","location": "Canada", 
 "id": "hist_270"
 
 },{  
-"title": "Worth having at almost any cost; Laurentianism and British capital in Canadian railway policy, 1848-62.","date": "1985","creator": "Walton, John Bruce","description": "not yet transcribed","subject": "Railroads ;Government Policy ;Railroads History 1841-1867","location": "tbd", 
+"title": "Worth having at almost any cost; Laurentianism and British capital in Canadian railway policy, 1848-62.","date": "1985","creator": "Walton, John Bruce","description": "not yet transcribed","subject": "Railroads ;Government Policy ;1841-1867","location": "Canada", 
 "id": "hist_271"
 
 },{  
-"title": "Federalism and the naval crisis of 1793.","date": "1985","creator": "Cormack, William Stewart","description": "not yet transcribed","subject": "France ;History Reign Of Terror, 1793-1794France ;History, Naval; Toulon (France) ;History","location": "tbd", 
+"title": "Federalism and the naval crisis of 1793.","date": "1985","creator": "Cormack, William Stewart","description": "not yet transcribed","subject": "France ;History Reign Of Terror, 1793-1794France ;History, Naval; Toulon (France)","location": "France", 
 "id": "hist_272"
 
 },{  
-"title": "The Attack on liberalism; Reinhold Niebuhr and European neo-orthodoxy.","date": "1985","creator": "Wees, Eric Michael","description": "not yet transcribed","subject": "Niebuhr, Reinhold, 1892-1971Neo-orthodoxy","location": "tbd", 
+"title": "The Attack on liberalism; Reinhold Niebuhr and European neo-orthodoxy.","date": "1985","creator": "Wees, Eric Michael","description": "not yet transcribed","subject": "Niebuhr, Reinhold, 1892-1971;Neo-orthodoxy","location": "Europe", 
 "id": "hist_273"
 
 },{  
-"title": "British imperial policy and the Northern Department Indians, 1774-7","date": "1984","creator": "Robson, John Christian","description": "not yet transcribed","subject": "United States;History Revolution, 1775-1783 ;Participation, Indian;United States;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783","location": "tbd", 
+"title": "British imperial policy and the Northern Department Indians, 1774-7","date": "1984","creator": "Robson, John Christian","description": "not yet transcribed","subject": "United States;History Revolution, 1775-1783 ;Participation, Indian;United States;History Revolution, 1775-1783 ;British Forces; Indians Of North America ;Wars, 1775-1783","location": "US", 
 "id": "hist_274"
 
 },{  
-"title": "The North Tipperary Protestants in the Canadas : a study of migration, 1815-1880.","date": "1984","creator": "Elliott, Bruce S.","description": "not yet transcribed","subject": "Protestants ;Ireland ;Tipperary (County)Irish ;History","location": "tbd", 
+"title": "The North Tipperary Protestants in the Canadas : a study of migration, 1815-1880.","date": "1984","creator": "Elliott, Bruce S.","description": "not yet transcribed","subject": "Protestants ;Ireland ;Tipperary (County); Irish","location": "Ireland", 
 "id": "hist_275"
 
 },{  
-"title": "Literature and society in the Canadas, 1830-1850.","date": "1984","creator": "MacDonald, Mary Lu","description": "not yet transcribed","subject": "Canadian Literature To 1867 ;History And Criticism;Canadian literature;Social Aspects","location": "tbd", 
+"title": "Literature and society in the Canadas, 1830-1850.","date": "1984","creator": "MacDonald, Mary Lu","description": "not yet transcribed","subject": "Canadian Literature To 1867 ;History And Criticism;Canadian literature;Social Aspects","location": "Canada", 
 "id": "hist_276"
 
 },{  
-"title": "Indian land cessions in Ontario, 1763-1862: the evolution of a system.","date": "1983","creator": "Surtees, Robert J.","description": "not yet transcribed","subject": "Indian Land Transfers ;Ontario ; Indians Of North America ;Government Relations","location": "tbd", 
+"title": "Indian land cessions in Ontario, 1763-1862: the evolution of a system.","date": "1983","creator": "Surtees, Robert J.","description": "not yet transcribed","subject": "Indian Land Transfers ;Ontario ; Indians Of North America ;Government Relations","location": "Ontario", 
 "id": "hist_277"
 
 },{  
-"title": "Gaol delivery in Yorkshire 1399-1407.","date": "1983","creator": "Ellis, Karen Elizabeth","description": "not yet transcribed","subject": "Trials ;England ;Yorkshire ; Yorkshire (England) ; Crime ;England ;Yorkshire ;History","location": "tbd", 
+"title": "Gaol delivery in Yorkshire 1399-1407.","date": "1983","creator": "Ellis, Karen Elizabeth","description": "not yet transcribed","subject": "Trials ; Crime","location": "England;Yorkshire", 
 "id": "hist_278"
 
 },{  
-"title": "Gaol delivery in the southwestern counties 1416-1430.","date": "1983","creator": "Elder, Carol","description": "not yet transcribed","subject": "Trials ;England ;Great Britain ;History To 1485Crime ;England ;History","location": "tbd", 
+"title": "Gaol delivery in the southwestern counties 1416-1430.","date": "1983","creator": "Elder, Carol","description": "not yet transcribed","subject": "Trials ;Great Britain ;History To 1485; Crime","location": "England", 
 "id": "hist_279"
 
 },{  
-"title": "Coal and iron : the impact of railways on the financial history of Nova Scotia, 1849-1867.","date": "1983","creator": "Langhout, Rosemarie","description": "not yet transcribed","subject": "Railroads ;Nova Scotia ;Railroads ;Economic Aspects ;Nova Scotia ;Nova Scotia ;History 1784-1867","location": "tbd", 
+"title": "Coal and iron : the impact of railways on the financial history of Nova Scotia, 1849-1867.","date": "1983","creator": "Langhout, Rosemarie","description": "not yet transcribed","subject": "Railroads ;Economic Aspects ;1784-1867","location": "Nova Scotia", 
 "id": "hist_280"
 
 },{  
-"title": "The British Foreign Offices perceptions of Nazi-Germany 1935-1937","date": "1983","creator": "Hamm, Cynthia J., (Cynthia Jane)","description": "Between 1935 and 1937, the British Foreign Office offered substantial resistance to the governmental policy of appeasing Nazi-Germany. Official correspondence reveals that several staff members viewed German leaders, social attitudes, armaments and political goals with apprehension. Permanent Under-Secretary Sir Robert Vansittart, Assistant Under-Secretary Orme Sargent, Central Department Head Ralph Wigram, and News Department Head Reginald Leeper spearheaded the Office's campaign against appeasement. In numerous letters, telegrams and memorandums, they advocated the introduction of full-scale rearmament, and the formation of closer ties with France, Italy and the Soviet Union, to combat the German menace.","subject": "fascism;appeasement","location": "tbd", 
+"title": "The British Foreign Offices perceptions of Nazi-Germany 1935-1937","date": "1983","creator": "Hamm, Cynthia J., (Cynthia Jane)","description": "Between 1935 and 1937, the British Foreign Office offered substantial resistance to the governmental policy of appeasing Nazi-Germany. Official correspondence reveals that several staff members viewed German leaders, social attitudes, armaments and political goals with apprehension. Permanent Under-Secretary Sir Robert Vansittart, Assistant Under-Secretary Orme Sargent, Central Department Head Ralph Wigram, and News Department Head Reginald Leeper spearheaded the Office's campaign against appeasement. In numerous letters, telegrams and memorandums, they advocated the introduction of full-scale rearmament, and the formation of closer ties with France, Italy and the Soviet Union, to combat the German menace.","subject": "fascism;appeasement","location": "Europe", 
 "id": "hist_281"
 
 },{  
-"title": "From the St. Lawrence to Lake Superior; Peter Buell Porter, the Anglo-American Joint Commission of 1816-1822 and the charting of the Canadian-American boundary.","date": "1982","creator": "Scheuer, M. F.","description": "not yet transcribed","subject": "United States;Boundaries Boundaries ;United States; Porter, Peter Buell; Anglo-american Joint Commission (1816-1822)","location": "tbd", 
+"title": "From the St. Lawrence to Lake Superior; Peter Buell Porter, the Anglo-American Joint Commission of 1816-1822 and the charting of the Canadian-American boundary.","date": "1982","creator": "Scheuer, M. F.","description": "not yet transcribed","subject": "Boundaries ; Porter, Peter Buell; Anglo-american Joint Commission (1816-1822)","location": "US", 
 "id": "hist_282"
 
 },{  
-"title": "The concept of loyalty in Upper Canada 1815-1850.","date": "1982","creator": "Mills, David Clifford","description": "not yet transcribed","subject": "Allegiance ;Ontario ;Ontario ;History 19th Century","location": "tbd", 
+"title": "The concept of loyalty in Upper Canada 1815-1850.","date": "1982","creator": "Mills, David Clifford","description": "not yet transcribed","subject": "Allegiance ; 19th Century","location": "Ontario", 
 "id": "hist_283"
 
 },{  
-"title": "Stalin in the Civil War.","date": "1981","creator": "Harrison, Paul N. H.","description": "not yet transcribed","subject": "Stalin, Joseph, 1879-1953Soviet Union ;History Revolution, 1917-1921","location": "tbd", 
+"title": "Stalin in the Civil War.","date": "1981","creator": "Harrison, Paul N. H.","description": "not yet transcribed","subject": "Stalin, Joseph, 1879-1953;Revolution, 1917-1921","location": "USSR", 
 "id": "hist_284"
 
 },{  
-"title": "Gaol delivery in the Eastern Circuit 1437-1439.","date": "1981","creator": "Briggs, Rosemary","description": "not yet transcribed","subject": "Courts ;Great Britain ; Coroners ;Great Britain ; Criminal Procedure ;Great Britain ;History","location": "tbd", 
+"title": "Gaol delivery in the Eastern Circuit 1437-1439.","date": "1981","creator": "Briggs, Rosemary","description": "not yet transcribed","subject": "Courts ;Great Britain ; Coroners ; Criminal Procedure","location": "Britain", 
 "id": "hist_285"
 
 },{  
-"title": "Righteousness exalteth the nation: the Toronto Banner and the nineteenth-century evangelical crusade in Upper Canada.","date": "1981","creator": "James, Peter D","description": "not yet transcribed","subject": "Ontario ;Church History;Ontario ;Religion ; Sects ;Ontario","location": "tbd", 
+"title": "Righteousness exalteth the nation: the Toronto Banner and the nineteenth-century evangelical crusade in Upper Canada.","date": "1981","creator": "James, Peter D","description": "not yet transcribed","subject": "Church History;Religion ; Sects","location": "Ontario", 
 "id": "hist_286"
 
 },{  
-"title": "Attitudes to social structure and social mobility in Upper Canada (1815-1840).","date": "1981","creator": "Russell, Peter A.","description": "not yet transcribed","subject": "Social structure ;Ontario ;History 19th Century; Social Mobility ;Ontario ;History 19th Century","location": "tbd", 
+"title": "Attitudes to social structure and social mobility in Upper Canada (1815-1840).","date": "1981","creator": "Russell, Peter A.","description": "not yet transcribed","subject": "Social structure ;Ontario ;History 19th Century; Social Mobility ;Ontario ;History 19th Century","location": "Ontario", 
 "id": "hist_287"
 
 },{  
-"title": "An examination of the relationship between General Dumouriez and the Girondins, March 1792 - April 1793.","date": "1981","creator": "Carrothers, Wendell Weir","description": "not yet transcribed","subject": "France ;History Revolution, 1789-1799Dumouriez, Charles Francois Duperier, 1789-1823Girondists","location": "tbd", 
+"title": "An examination of the relationship between General Dumouriez and the Girondins, March 1792 - April 1793.","date": "1981","creator": "Carrothers, Wendell Weir","description": "not yet transcribed","subject": "France ;History Revolution, 1789-1799Dumouriez, Charles Francois Duperier, 1789-1823Girondists","location": "France", 
 "id": "hist_288"
 
 },{  
-"title": "A troubled Zion; the Anglican experience in Upper Canada, 1791-1854.","date": "1981","creator": "Fahey, Curtis","description": "not yet transcribed","subject": "Church Of England;Ontario ;Ontario ;History","location": "tbd", 
+"title": "A troubled Zion; the Anglican experience in Upper Canada, 1791-1854.","date": "1981","creator": "Fahey, Curtis","description": "not yet transcribed","subject": "Church Of England;Ontario ;Ontario ;History","location": "Ontario", 
 "id": "hist_289"
 
 },{  
-"title": "The politics of dissent; an inquiry into the departmental risings of 1793 in Normandy and Brittany.","date": "1980","creator": "Kelsh, James William","description": "not yet transcribed","subject": "France ;History Reign Of Terror, 1793-1794; Normandy (France) ; Brittany (France) ;History","location": "tbd", 
+"title": "The politics of dissent; an inquiry into the departmental risings of 1793 in Normandy and Brittany.","date": "1980","creator": "Kelsh, James William","description": "not yet transcribed","subject": "France ;History Reign Of Terror, 1793-1794; Normandy (France) ; Brittany (France) ;History","location": "France", 
 "id": "hist_290"
 
 },{  
-"title": "The Catholic Missionaries as Agents of Social Change Among the Metis and Indians of Red River 1818-1845","date": "1978","creator": "Gainer, Brenda J.","description": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts.","subject": "Missions ;Manitoba ;Red River Settlement; Catholic Church ;Missions ; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement","location": "tbd", 
+"title": "The Catholic Missionaries as Agents of Social Change Among the Metis and Indians of Red River 1818-1845","date": "1978","creator": "Gainer, Brenda J.","description": "The historiography of the pre-1870 West generally views the Catholic missions as a factor of funadmental importance in shaping the unique culture of the French-speaking native people in the Red River area. This thesis argues that the Catholic missionaries aimed at the complete transformation of aboriginal society just as much as their Protestant counterparts.","subject": "Missions ;Manitoba ;Red River Settlement; Catholic Church ;Missions ; Metis ;Manitoba ;Red River Settlement; Indians Of North America ;Manitoba ;Red River Settlement","location": "Manitoba", 
 "id": "hist_291"
 
 },{  
-"title": "Steel at the Sault: Sir James Dunn and The Algoma Steel Corporation, 1906-1956.","date": "1978","creator": "McDowall, Duncan","description": "not yet transcribed","subject": "Algoma Steel Corporation; Steel Industry And Trade ; Dunn, James, Sir, 1875-1956","location": "tbd", 
+"title": "Steel at the Sault: Sir James Dunn and The Algoma Steel Corporation, 1906-1956.","date": "1978","creator": "McDowall, Duncan","description": "not yet transcribed","subject": "Algoma Steel Corporation; Steel Industry And Trade ; Dunn, James, Sir, 1875-1956","location": "Ontario", 
 "id": "hist_292"
 
 },{  
-"title": "Appreciation of the biographical studies of general Jean Victor Moreau (1763-1813) with particular reference to his alleged participation in the (royalist) conspiracy against Napoleon I in 1804.","date": "1977","creator": "Montgomery, Frances Elizabeth Sargent","description": "not yet transcribed","subject": "Moreau, Jean Victor Marie, 1763-1813France ;History Consulate And Empire, 1799-1815","location": "tbd", 
+"title": "Appreciation of the biographical studies of general Jean Victor Moreau (1763-1813) with particular reference to his alleged participation in the (royalist) conspiracy against Napoleon I in 1804.","date": "1977","creator": "Montgomery, Frances Elizabeth Sargent","description": "not yet transcribed","subject": "Moreau, Jean Victor Marie, 1763-1813; Consulate And Empire, 1799-1815","location": "France", 
 "id": "hist_293"
 
 },{  
-"title": "English local risings in 1327 with particular emphasis on Bury St. Edmunds","date": "1977","creator": "Bloom, Michael Robert","description": "Chapter I examines the national situation from the time of Isabella's invasion in September 1326 till the coronation of Edward III in February 1327. The origins of the risings at Bury St. Edmunds and St. Albans are considered and their relationship to the political crisis are analysed. Chapter II considers the response of Isabella and Mortimer to political dissension within the realm and the threat of invasion from Scotland. The impact of the policy of accommodation upon the local risings is discussed. Chapter III looks at the involvement of the central authority in preparing for war and in conducting the northern campaigns between April and October 1327. The origins and events of the Abingdon rising are studied. Governmental reaction to renewed violence at Bury is examined. Chapter IV studies the functioning of the judicial process at Bury from October 1527 till May 1328. The efforts of the central government to secure convictions against the accused and the attendant response of the local inhabitants are discussed. Chapter V provides a quantitative analysis of the social and economic status of the Bury rebels based upon a comparative study of the record of the oyer et terminer proceedings and the Suffolk subsidy roll for 1327. The importance of lordship, geographical location, wealth and occupation as determinants of proclivity to revolt are considered.","subject": "politics;rebellion;local","location": "tbd", 
+"title": "English local risings in 1327 with particular emphasis on Bury St. Edmunds","date": "1977","creator": "Bloom, Michael Robert","description": "Chapter I examines the national situation from the time of Isabella's invasion in September 1326 till the coronation of Edward III in February 1327. The origins of the risings at Bury St. Edmunds and St. Albans are considered and their relationship to the political crisis are analysed. Chapter II considers the response of Isabella and Mortimer to political dissension within the realm and the threat of invasion from Scotland. The impact of the policy of accommodation upon the local risings is discussed. Chapter III looks at the involvement of the central authority in preparing for war and in conducting the northern campaigns between April and October 1327. The origins and events of the Abingdon rising are studied. Governmental reaction to renewed violence at Bury is examined. Chapter IV studies the functioning of the judicial process at Bury from October 1527 till May 1328. The efforts of the central government to secure convictions against the accused and the attendant response of the local inhabitants are discussed. Chapter V provides a quantitative analysis of the social and economic status of the Bury rebels based upon a comparative study of the record of the oyer et terminer proceedings and the Suffolk subsidy roll for 1327. The importance of lordship, geographical location, wealth and occupation as determinants of proclivity to revolt are considered.","subject": "politics;rebellion;local","location": "England", 
 "id": "hist_294"
 
 },{  
-"title": "Development of the Upper Canadian philosophy of education, 1791-1841","date": "1977","creator": "Currie, John George","description": "Upper Canadian history displays an amazing zeal in the field of education. Indeed before the colony was a decade old there were nearly a score of identifiable schools established, some with more longevity than others. These schools were varied: some were run by ministers of the Church of England, by loyalists, by Presbyterians, by Baptists, by Moravians and by men who had failed at other employment, and by 1804 the Catholics were demanding their own. There was a classical school, a school for Mohawks and a school for orphans. These schools, however varied, strove for a basic goal. It was their intent to promote loyalty, morality and Christianity in the colony. This striving for morality was in the old Puritan sense. They were not to give the people charity, alms, but to promote man himself. The man was to be made aware of his usefulness and this would prevent sloth and excess. Poverty and idleness led to crime, freethinking and disloyality.","subject": "Education ;Ontario ; History 1791-1841Ontario ; 1791-1841Strachan, John, ; 1778-1867","location": "tbd", 
+"title": "Development of the Upper Canadian philosophy of education, 1791-1841","date": "1977","creator": "Currie, John George","description": "Upper Canadian history displays an amazing zeal in the field of education. Indeed before the colony was a decade old there were nearly a score of identifiable schools established, some with more longevity than others. These schools were varied: some were run by ministers of the Church of England, by loyalists, by Presbyterians, by Baptists, by Moravians and by men who had failed at other employment, and by 1804 the Catholics were demanding their own. There was a classical school, a school for Mohawks and a school for orphans. These schools, however varied, strove for a basic goal. It was their intent to promote loyalty, morality and Christianity in the colony. This striving for morality was in the old Puritan sense. They were not to give the people charity, alms, but to promote man himself. The man was to be made aware of his usefulness and this would prevent sloth and excess. Poverty and idleness led to crime, freethinking and disloyality.","subject": "Education ;Ontario ; History 1791-1841Ontario ; 1791-1841Strachan, John, ; 1778-1867","location": "Ontario", 
 "id": "hist_295"
 
 },{  
-"title": "Daily press and the Beauharnois power project, 1928-1933","date": "1977","creator": "Drystek, Henry Frank","description": "The daily press serves a function which is greater than the mere dissemination of objective news reports. By analysing the Beauharnois Power project one can gain some insight into the manner in which the national newspapers helped to shape the Canadian political and economic fabric during the period that the nation was industrializing. The press, in its self-appointed role as the disciple of economic expansion and the defender of the national welfare, served as an influential conservative force in the Canadian community.","subject": "Press ; Saint Lawrence River ; Power Utilization; Beauharnois Power Corporation","location": "tbd", 
+"title": "Daily press and the Beauharnois power project, 1928-1933","date": "1977","creator": "Drystek, Henry Frank","description": "The daily press serves a function which is greater than the mere dissemination of objective news reports. By analysing the Beauharnois Power project one can gain some insight into the manner in which the national newspapers helped to shape the Canadian political and economic fabric during the period that the nation was industrializing. The press, in its self-appointed role as the disciple of economic expansion and the defender of the national welfare, served as an influential conservative force in the Canadian community.","subject": "Press ; Saint Lawrence River ; Power Utilization; Beauharnois Power Corporation","location": "Ontario;Quebec", 
 "id": "hist_296"
 
 },{  
-"title": "P. A. Stolypin and the Polish question in Russian politics, 1906-1911","date": "1977","creator": "Gebhard, Krzystof Marian","description": "P. A. Stolypin (1863-1911), was the Chairman of the Council of Ministers and the Minister of the Interior in the Russian Imperial Government from 1906 until his assassination in 1911. While being generally associated with his agrarian reforms, his rule coincided with an upsurge of Russian nationalism after the Revolution of 1905. Stolypin managed to use this nationalism as a cornerstone of his political program and as a means of attaining the popular support.","subject": "Stolypin, Petr Arkad'evich, 1862-1911; Russia ; Politics and government 1904-1914","location": "tbd", 
+"title": "P. A. Stolypin and the Polish question in Russian politics, 1906-1911","date": "1977","creator": "Gebhard, Krzystof Marian","description": "P. A. Stolypin (1863-1911), was the Chairman of the Council of Ministers and the Minister of the Interior in the Russian Imperial Government from 1906 until his assassination in 1911. While being generally associated with his agrarian reforms, his rule coincided with an upsurge of Russian nationalism after the Revolution of 1905. Stolypin managed to use this nationalism as a cornerstone of his political program and as a means of attaining the popular support.","subject": "Stolypin, Petr Arkad'evich, 1862-1911 ; Politics and government 1904-1914","location": "Russia", 
 "id": "hist_297"
 
 },{  
-"title": "Reluctant patriots: the swiss revolution of 1798 to 1803.","date": "1972","creator": "Aksim, Rudolf Ervin","description": "not yet transcribed","subject": "Switzerland ;History Helvetic Republic, 1798-1803","location": "tbd", 
+"title": "Reluctant patriots: the swiss revolution of 1798 to 1803.","date": "1972","creator": "Aksim, Rudolf Ervin","description": "not yet transcribed","subject": "Switzerland ;History Helvetic Republic, 1798-1803","location": "Switzerland", 
 "id": "hist_298"
 
 },{  
-"title": "Department of Labour and industrial relations, 1900-1911.","date": "1972","creator": "Atherton, James J.","description": "not yet transcribed","subject": "Canada; Dept; Of Labor; Mediation And Conciliation, Industrial ;Industrial relationsStatistics","location": "tbd", 
+"title": "Department of Labour and industrial relations, 1900-1911.","date": "1972","creator": "Atherton, James J.","description": "not yet transcribed","subject": "Canada; Dept; Of Labor; Mediation And Conciliation, Industrial ;Industrial relationsStatistics","location": "Canada", 
 "id": "hist_299"
 
 },{  
-"title": "Canadian response to Joseph Chamberlains tariff reform campaign, 1903-1906.","date": "1972","creator": "Attwell, William George","description": "not yet transcribed","subject": "Chamberlain, Joseph, 1836-1914Imperial Preference;Politics And Government 1896-1911","location": "tbd", 
+"title": "Canadian response to Joseph Chamberlains tariff reform campaign, 1903-1906.","date": "1972","creator": "Attwell, William George","description": "not yet transcribed","subject": "Chamberlain, Joseph, 1836-1914;Imperial Preference;Politics And Government 1896-1911","location": "Canada", 
 "id": "hist_300"
 
 },{  
-"title": "The plains Cree: a preliminary trade and military chronology, 1670-1870.","date": "1972","creator": "Milloy, John Sheridan","description": "not yet transcribed","subject": "Land Transfers ;Ontario ;First Nations;Government Relations","location": "tbd", 
+"title": "The plains Cree: a preliminary trade and military chronology, 1670-1870.","date": "1972","creator": "Milloy, John Sheridan","description": "not yet transcribed","subject": "Land Transfers ;Ontario ;First Nations;Government Relations","location": "Ontario", 
 "id": "hist_301"
 
 },{  
-"title": "The Decline of the Conservative Party (1935-1938).","date": "1971","creator": "Beatty, John M.","description": "not yet transcribed","subject": "Progressive Conservative Party Of Canada;Politics And Government 1935-1957","location": "tbd", 
+"title": "The Decline of the Conservative Party (1935-1938).","date": "1971","creator": "Beatty, John M.","description": "not yet transcribed","subject": "Progressive Conservative Party Of Canada;Politics And Government 1935-1957","location": "Canada", 
 "id": "hist_302"
 
 },{  
-"title": "Monolithism and modernization: Cite libre: premiere serie and its emergence from the Quebec intellectual milieu.","date": "1971","creator": "Perin, Robert A. J.","description": "not yet transcribed","subject": "Quebec (Province) ;Intellectual Life","location": "tbd", 
+"title": "Monolithism and modernization: Cite libre: premiere serie and its emergence from the Quebec intellectual milieu.","date": "1971","creator": "Perin, Robert A. J.","description": "not yet transcribed","subject": "Intellectual Life","location": "Quebec", 
 "id": "hist_303"
 
 },{  
-"title": "A majestic story of orderly progress; English Canadian novelists on Canadian society, 1896-1900.","date": "1970","creator": "Beckow, Stephen Mark","description": "not yet transcribed","subject": "Progress;Social Conditions; Canadian Literature 19th Century ;History And Criticism","location": "tbd", 
+"title": "A majestic story of orderly progress; English Canadian novelists on Canadian society, 1896-1900.","date": "1970","creator": "Beckow, Stephen Mark","description": "not yet transcribed","subject": "Progress;Social Conditions; Canadian Literature 19th Century ;History And Criticism","location": "Canada", 
 "id": "hist_304"
 
 },{  
@@ -1215,47 +1215,47 @@ var store = [{
 "id": "hist_305"
 
 },{  
-"title": "Indian reserve policy in Upper Canada, 1830-1845.","date": "1967","creator": "Surtees, Robert J.","description": "not yet transcribed","subject": "First Nations;Government Relations; Indian Reservations; Indians, Treatment Of ;Canada","location": "tbd", 
+"title": "Indian reserve policy in Upper Canada, 1830-1845.","date": "1967","creator": "Surtees, Robert J.","description": "not yet transcribed","subject": "First Nations;Government Relations; Indian Reservations; Treatment Of","location": "Canada", 
 "id": "hist_306"
 
 },{  
-"title": "The Canadian white pine trade with the United Kingdom, 1867-1914.","date": "1966","creator": "Cowan, Alan Wood","description": "not yet transcribed","subject": "Pine ;Commerce ;Commerce ;Great Britain ;Great Britain ;Commerce Commerce ;History","location": "tbd", 
+"title": "The Canadian white pine trade with the United Kingdom, 1867-1914.","date": "1966","creator": "Cowan, Alan Wood","description": "not yet transcribed","subject": "Pine ;Commerce ;Commerce ;Great Britain ;Great Britain ;Commerce Commerce ;History","location": "Canada;Britain", 
 "id": "hist_307"
 
 },{  
-"title": "Meighen and the West, 1921-1926; the National Policy revisited.","date": "1966","creator": "Matthews, Elisabeth Ann","description": "not yet transcribed","subject": "Meighen, Arthur, 1874-1960;Politics And Government 1921-1930","location": "tbd", 
+"title": "Meighen and the West, 1921-1926; the National Policy revisited.","date": "1966","creator": "Matthews, Elisabeth Ann","description": "not yet transcribed","subject": "Meighen, Arthur, 1874-1960;Politics And Government 1921-1930","location": "Canada", 
 "id": "hist_308"
 
 },{  
-"title": "The baby family in the trade of Canada, 1750-1820.","date": "1966","creator": "Miquelon, Dale","description": "not yet transcribed","subject": "Family;Commerce ;History","location": "tbd", 
+"title": "The baby family in the trade of Canada, 1750-1820.","date": "1966","creator": "Miquelon, Dale","description": "not yet transcribed","subject": "Family;Commerce ;History","location": "Canada", 
 "id": "hist_309"
 
 },{  
-"title": "The international Association of Machinists in Canada: to 1919.","date": "1966","creator": "Thwaites, James D.","description": "not yet transcribed","subject": "not yet catalogued","location": "tbd", 
+"title": "The international Association of Machinists in Canada: to 1919.","date": "1966","creator": "Thwaites, James D.","description": "not yet transcribed","subject": "not yet catalogued","location": "Canada", 
 "id": "hist_310"
 
 },{  
-"title": "Prohibition in Ontario, 1919-1923","date": "1966","creator": "Hallowell, Gerald A.","description": "not yet transcribed","subject": "not yet catalogued","location": "tbd", 
+"title": "Prohibition in Ontario, 1919-1923","date": "1966","creator": "Hallowell, Gerald A.","description": "not yet transcribed","subject": "not yet catalogued","location": "Ontario", 
 "id": "hist_311"
 
 },{  
-"title": "Imperial defence; the Canadian response during Joseph Chamberlains tenure of office as Colonial Secretary, 1895-1903.","date": "1965","creator": "Durrans, Peter James","description": "not yet transcribed","subject": "Great Britain ;Colonies;Defenses;Defenses","location": "tbd", 
+"title": "Imperial defence; the Canadian response during Joseph Chamberlains tenure of office as Colonial Secretary, 1895-1903.","date": "1965","creator": "Durrans, Peter James","description": "not yet transcribed","subject": "Great Britain ;Colonies;Defenses;Defenses","location": "Britain;Canada", 
 "id": "hist_312"
 
 },{  
-"title": "An uncommon conservative: the political career of John Hillyard Cameron, 1846-1862.","date": "1965","creator": "Griezic, Foster Julian Kenneth","description": "not yet transcribed","subject": "Cameron, J; Hillyard, 1817-1876","location": "tbd", 
+"title": "An uncommon conservative: the political career of John Hillyard Cameron, 1846-1862.","date": "1965","creator": "Griezic, Foster Julian Kenneth","description": "not yet transcribed","subject": "Cameron, J Hillyard, 1817-1876","location": "Ontario", 
 "id": "hist_313"
 
 },{  
-"title": "British policy and the Ohio Valley, 1754-1774; an exercise in mercantilism.","date": "1964","creator": "Muise, D. A.","description": "not yet transcribed","subject": "Ohio River Valley ;History To 1795;Great Britain ;Colonies","location": "tbd", 
+"title": "British policy and the Ohio Valley, 1754-1774; an exercise in mercantilism.","date": "1964","creator": "Muise, D. A.","description": "not yet transcribed","subject": "Ohio River Valley ;History To 1795;Great Britain ;Colonies","location": "US;Ohio", 
 "id": "hist_314"
 
 },{  
-"title": "The National policy and Manitoba railway legislation, 1879-1888.","date": "1963","creator": "Regehr, T. D.","description": "not yet transcribed","subject": "not yet catalogued","location": "tbd", 
+"title": "The National policy and Manitoba railway legislation, 1879-1888.","date": "1963","creator": "Regehr, T. D.","description": "not yet transcribed","subject": "not yet catalogued","location": "Manitoba", 
 "id": "hist_315"
 
 },{  
-"title": "Organized labour and the Laurier administration; the fortunes of a pressure group.","date": "1958","creator": "Atkinson, William David","description": "not yet transcribed","subject": "Canada;Emigration and immigration; Labor Laws And Legislation ; Working Class ;Canada","location": "tbd", 
+"title": "Organized labour and the Laurier administration; the fortunes of a pressure group.","date": "1958","creator": "Atkinson, William David","description": "not yet transcribed","subject": "Emigration and immigration; Labor Laws And Legislation ; Working Class","location": "Canada", 
 "id": "hist_316"
 
 },{  
@@ -1355,7 +1355,7 @@ var store = [{
 "id": "hist_340"
 
 },{  
-"title": "Brewing Up History: History and Beer Marketing in Canada, 1840-2021","date": "2021","creator": "Gillies, Emma","description": "This research essay employs a novel use of a particular computer vision technology – “convolutional neural networks” - on a corpus of 1345 Canadian beer labels dating from 1840 to 2021 to calculate, and visualize, the visual similarity of beer labels. The resulting clusters are analyzed to see how they cluster over time and space or brand, which enables patterns in the historical consciousness of Canadian beer producers/consumers to emerge. I find that there is a major trend to appeal to people’s emotions that continues in similar form throughout Canada’s history. Particularly, beer marketing tends to use history in two major ways: one, through heraldic imagery to denote quality; the other to evoke a sense of escape/adventure through narrative illustration. These uses – what I am referring to as the Heraldic-Comic divide - allude to consumers' romanticized notions of history, and predominantly appeal to white, male audiences.","subject": "Neural Networks; Image Analysis; Beer; Brewing; Marketing; Consumers","location": "Canada", 
+"title": "Brewing Up History: History and Beer Marketing in Canada, 1840-2021","date": "2021","creator": "Gillies, Emma","description": "This research essay employs a novel use of a particular computer vision technology – “convolutional neural networks” - on a corpus of 1345 Canadian beer labels dating from 1840 to 2021 to calculate, and visualize, the visual similarity of beer labels. The resulting clusters are analyzed to see how they cluster over time and space or brand, which enables patterns in the historical consciousness of Canadian beer producers/consumers to emerge. I find that there is a major trend to appeal to people’s emotions that continues in similar form throughout Canada’s history. Particularly, beer marketing tends to use history in two major ways: one, through heraldic imagery to denote quality; the other to evoke a sense of escape/adventure through narrative illustration. These uses – what I am referring to as the Heraldic-Comic divide - allude to consumers' romanticized notions of history, and predominantly appeal to white, male audiences.","subject": "Neural Networks; Image Analysis; Beer; Brewing; Marketing; Consumer","location": "Canada", 
 "id": "hist_341"
 
 }];
