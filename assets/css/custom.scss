@@ -4,36 +4,34 @@
 @charset "utf-8";
 
 // base variables
-$base-font-family: {{ site.data.theme.base-font-family | default: '""' }};
-$base-font-size: {{ site.data.theme.base-font-size | default: '""' }};
-$text-color: {{ site.data.theme.text-color | default: '""' }};
-$link-color: {{ site.data.theme.link-color | default: '""' }};
+$base-font-family: {{ site.data.theme.base-font-family | default: 'system-ui' }};
+$base-font-size: {{ site.data.theme.base-font-size | default: '16px' }};
+$text-color: {{ site.data.theme.text-color | default: '#111' }};
+$link-color: {{ site.data.theme.link-color | default: '#2a7ae2' }};
 
 // Width of the content area
-$content-width:    1800px;
-$on-palm:          576px;
-$on-laptop:        768px;
-$on-desktop:       992px;
-$on-jumbo:        1200px;
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+$content-width: 1800px;
+$on-palm: 576px;
+$on-laptop: 768px;
+$on-desktop: 992px;
+$on-jumbo: 1200px;
+
+// Media query mixin
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-/* buttons to theme */
-{% assign btns = site.data.config-theme-colors | where_exp: "item","item.color != nil" %} 
+// Theme colors
+$theme-colors: ();
+{% assign btns = site.data.config-theme-colors | where_exp: "item","item.color != nil" %}
 {% for btn in btns %}
 ${{ btn.color_class }}: {{ btn.color }};
 {% endfor %}
-$theme-colors: () !default;
+
+// Only perform map-merge if there are actually theme colors
+{% if btns.size > 0 %}
 $theme-colors: map-merge(
   (
     {% for btn in btns %}
@@ -42,5 +40,10 @@ $theme-colors: map-merge(
   ),
   $theme-colors
 );
+{% endif %}
 
-@import "base", "theme-colors", "pages", "custom";
+@import 
+  "base",
+  "theme-colors",
+  "pages",
+  "custom";
