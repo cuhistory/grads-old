@@ -10,9 +10,9 @@
 # site domain, full URL to the production location of your collection
 url: https://cuhistory.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /grads
+baseurl: /grads-old
 # location of code, the full url to your github repository
-source-code: https://github.com/cuhistory/grads
+source-code: https://github.com/cuhistory/grads-old
 
 ##########
 # SITE SETTINGS
